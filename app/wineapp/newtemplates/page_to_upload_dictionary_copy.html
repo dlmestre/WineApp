@@ -1,0 +1,126 @@
+{% extends 'pages_base.html' %}
+
+{% load staticfiles %}
+{% block header %}
+
+<link href="{% static 'css/jquery.dataTables.min.css' %}" rel="stylesheet">
+
+<link href="{% static 'new_css/forms.css' %}" rel="stylesheet">
+
+<script type="text/javascript" src="{% static 'js/ajax.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ajax2.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/form.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/helper_functions.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.dataTables.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tablesorter.min.js' %}"></script>
+<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>
+
+{% endblock %}
+
+
+{% block content %}
+
+<div id="querysearch">
+
+<!-- <p>
+<form method="post" action="/results/">
+<input type=text name="year" placeholder="year"/>
+<input type=text name="wine" placeholder="wine" />
+<button type="button"><div id="glass">&#9906;</div></button>
+</form> -->
+
+<span id=result></span>
+</p>
+
+</div>
+
+<div class="panel panel-default">
+<h3 class="panel-heading">Upload Dictionary</h3>
+<br>
+<form class="formmethod2" enctype="multipart/form-data" name="test2" method="post" class="formclassmethod">
+    {% csrf_token %}
+    <div style="position:relative">
+        <a class="btn btn-primary" href='javascript:;'>
+            Choose File...
+            <input type="file" style='position:absolute;z-index:2;top:0;left:0;filter: alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";opacity:0;background-color:transparent;color:transparent;width:112px;height:32px' name="dictionaryfile" size="40"  onchange='$("#upload-file-info").html($(this).val());'>
+        </a>
+        &nbsp;
+        <span class="label label-info" id="upload-file-info"></span>
+    </div>
+    <br>
+    <button type="submit" class="btn btn-primary">Upload</button>
+
+</form>
+<br>
+</div>
+
+<br>
+
+<div class="panel panel-default">
+<h3 class="panel-heading">Existing Dictionary</h3>
+</br>
+{% if values %}
+<div id="downloadtable"></div>
+
+<div class="winetable3">
+<table class="table2 table table-striped dictionarycss">
+  <thead>
+    <tr>
+      <th>Filename</th>
+      <th>Date</th>
+      <th>Item ID</th>
+      <th>Rating</th>
+      <th>Vintage</th>
+      <th>Growth</th>
+      <th>Type (English)</th>
+      <th>Wine (English)</th>
+      <th>Country (English)</th>
+      <th>Region (English)</th>
+      <th>Vendor (English)</th>
+      <th>Type (Chinese)</th>
+      <th>Wine (Chinese)</th>
+      <th>Country (Chinese)</th>
+      <th>Region (Chinese)</th>
+      <th>Vendor (Chinese)</th>
+    <tr>
+  </thead>
+  <tbody>
+  {%if error %}
+    {{error}}
+  {% else %}
+
+    {% for Filename,Date,ID,Rating,Vintage,Growth,TypeEnglish,WineEnglish,CountryEnglish,RegionEnglish,VendorEnglish,TypeChinese,WineChinese,CountryChinese,RegionChinese,VendorChinese in values %}
+    <tr><td>{{Filename}}</td><td>{{Date}}</td><td>{{ID}}</td><td>{{Rating}}</td><td>{{Vintage}}</td><td>{{Growth}}</td>
+    <td>{{TypeEnglish}}</td><td>{{WineEnglish}}</td><td>{{CountryEnglish}}</td><td>{{RegionEnglish}}</td>
+    <td>{{VendorEnglish}}</td><td>{{TypeChinese}}</td><td>{{WineChinese}}</td><td>{{CountryChinese}}</td>
+    <td>{{RegionChinese}}</td><td>{{VendorChinese}}</td>
+    </tr>
+    {% endfor %}
+  {% endif %}
+  </tbody>
+</table>
+</div>
+{% endif %}
+</div>
+
+<div id="output"></div>
+
+<div class="winetable3 selectorAjax"></div>
+
+
+<!-- <script type="text/javascript">
+makeAllSortable2();
+</script> -->
+
+
+<script type="text/javascript">
+$(function(){
+  $('.table2').tablesorter(); 
+});
+</script>
+
+{{msg}}
+
+
+
+{% endblock %} 

@@ -1,0 +1,84 @@
+{% extends 'pages_base.html' %}
+
+{% load staticfiles %}
+{% block header %}
+
+<link href="{% static 'css/jquery.dataTables.min.css' %}" rel="stylesheet">
+
+<script type="text/javascript" src="{% static 'js/ajax.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ajax2.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/form.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/helper_functions.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.dataTables.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tablesorter.min.js' %}"></script>
+<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>
+
+{% endblock %}
+
+{% block content %}
+
+<div class="manualinput">
+<p>
+<form method="post" action="">
+{% csrf_token %}
+<input type=text name="year" placeholder="{{year}}"/>
+<input type=text name="wine" placeholder="{{wine}}" />
+<input type="submit">
+</form>
+</p>
+</div>
+
+{% if values %}
+<div class="downloadtable">
+<table class="table2 table table-striped finaltable">
+  <thead>
+    <tr>
+      <th>Wine</th>
+      <th>Cost</th>
+      <th>Date</th>
+      <th>Vintage</th>
+      <th>Region (English)</th>
+      <th>Region (Chinese)</th>
+      <th>Format</th>
+      <th>Markup Price</th>
+      <th>Markup (%)</th>
+      <th>Vendor (English)</th>
+      <th>Vendor (Chinese)</th>
+      <th>Country (English)</th>
+      <th>Country (Chinese)</th>
+      <th>Merchants</th>
+      <th>WS Price</th>
+      <th>Negoce File</th>
+      <th>Recommended Selling Price</th>
+      <th>Sell</th>
+      <th>Ratings</th>
+      <th>Growth</th>
+      <th>Margin</th>
+      <th>Quantity</th>
+      <th>Type (English)</th>
+      <th>Type (Chinese)</th>
+    <tr>
+  </thead>
+  <tbody>
+
+  {%if error %}
+    {{error}}
+  {% else %}
+    {% for wine, price, date, year, region_english, region_chinese, format, markup, percentile, vendor_english, vendor_chinese, country_english, country_chinese, merchant, wsprice, negoce, recommended, sell, rating, growth, margin, quantity, type_english, type_chinese, cheapest_percent in values %}
+    <tr>
+      <td>{{wine}}</td><td>{{price}}</td><td>{{date}}</td><td>{{year}}</td><td>{{region_english}}</td>
+      <td>{{region_chinese}}</td><td>{{format}}</td><td>{{markup}}</td><td>{{percentile}}</td>
+      <td>{{vendor_english}}</td><td>{{vendor_chinese}}</td><td>{{country_english}}</td><td>{{country_chinese}}</td>
+      <td>{{merchant}}</td><td>{{wsprice}}</td><td>{{negoce}}</td><td class="recommended{{forloop.counter0}}">{{recommended}}</td><td>{{sell}}</td>
+      <td>{{rating}}</td><td>{{growth}}</td><td>{{margin}}</td><td>{{quantity}}</td><td>{{type_english}}</td>
+      <td>{{type_chinese}}</td>
+
+    </tr>
+    {% endfor %}
+  {% endif %}
+  </tbody>
+</table>
+</div>
+
+{% endif %}
+{% endblock %} 

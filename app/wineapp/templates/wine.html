@@ -1,0 +1,42 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+<div class="manualinput">
+<p>
+<form method="post" action="">
+{% csrf_token %}
+<input type=text name="year" placeholder="{{year}}"/>
+<input type=text name="wine" placeholder="{{wine}}" />
+<input type="submit">
+</form>
+</p>
+</div>
+
+{% if msg %}
+<div class="labelclass">
+
+</div>
+
+<div class="winetable3">
+<table class="table2 table table-striped individualwine">
+  <thead>
+    <tr>
+      <th>Merchant</th>
+      <th>price</th>
+      <th>bottle</th>
+      <th>link</th>
+    <tr>
+  </thead>
+  <tbody>
+  {%if error %}
+    {{error}}
+  {% else %}
+    {% for merchant, price, bottle, link in values %}
+    <tr>
+      <td>{{merchant}}</td><td>{{price}}</td><td>{{bottle}}</td><td><a href="{{link}}">link</a></td>
+    </tr>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+{% endblock %} 

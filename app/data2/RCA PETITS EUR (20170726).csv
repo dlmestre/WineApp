@@ -1,0 +1,1148 @@
+,Wine,Vintage,Format,Cost,Qty,Negoce
+0,Beau Rivage ,2000,750ml,2.0,6,RCA
+1,Caroline,2011,750ml,7.9,6,RCA
+2,Annereaux (des),2009,1500ml,20.0,6,RCA
+3,Donissan,2000,750ml,7.0,12,RCA
+4,Maucaillou / Le Bordeaux de Maucaillou,2013,750ml,4.7,24,RCA
+5,Bel-Air (Roland Coiffe) - Cuvée Classical,2012,1500ml,50.0,27,RCA
+6,Moulin de la Roque,2008,750ml,6.5,36,RCA
+7,Pontey,2007,750ml,4.9,36,RCA
+8,Retout (du),2012,750ml,7.2,36,RCA
+9,Rose Pauillac (La),2008,750ml,14.0,36,RCA
+10,Tourelles (Des),2005,750ml,7.5,36,RCA
+11,Bel Orme Tronquoy de Lalande,2012,1500ml,19.1,48,RCA
+12,Bel Orme Tronquoy de Lalande,2009,750ml,11.6,60,RCA
+13,Maison Neuve (de),2013,1500ml,13.8,60,RCA
+14,Bellegrave,2011,750ml,5.2,78,RCA
+15,Larrivaux,2013,1500ml,18.5,80,RCA
+16,Bouscat (Domaine du)/ Portes de l'Am…,2012,750ml,27.8,96,RCA
+17,Tour Saint Bonnet,2011,750ml,6.8,108,RCA
+18,Fonplégade,2012,375ml,15.0,120,RCA
+19,Maison Neuve (de),2013,375ml,3.7,120,RCA
+20,Tour de Pez,2012,375ml,7.95,120,RCA
+21,Fombrauge,2011,750ml,17.5,120,RCA
+22,Larteau,2010,750ml,7.2,120,RCA
+23,Peyre Lebade,2009,750ml,14.0,120,RCA
+24,Tauzinat l'Hermitage,2002,750ml,10.5,120,RCA
+25,Annereaux (des),2010,1500ml,22.5,120,RCA
+26,Annereaux (des),2005,1500ml,22.5,120,RCA
+27,Larrivaux,2011,1500ml,21.0,120,RCA
+28,Larrivaux,2008,1500ml,21.7,120,RCA
+29,Moulin des Graves,2012,1500ml,7.8,120,RCA
+30,Moulin du Cadet,2013,750ml,14.05,150,RCA
+31,Larrivaux,2014,1500ml,21.0,150,RCA
+32,Fourcas Dupré,2014,750ml,11.8,168,RCA
+33,Cambon La Pelouse,2007,750ml,8.8,192,RCA
+34,Tauzinat l'Hermitage,2007,750ml,10.5,216,RCA
+35,Larrivaux,2010,1500ml,32.2,220,RCA
+36,Tour de Pez,2014,1500ml,28.8,220,RCA
+37,Tour de Pez,2013,1500ml,27.3,220,RCA
+38,Fonbel,2014,750ml,11.0,238,RCA
+39,Guiraud/ Petit Guiraud,2013,375ml,7.2,240,RCA
+40,Clos de la Dame Verte,2015,1500ml,17.0,240,RCA
+41,Tour de Pez,2011,1500ml,31.5,240,RCA
+42,Guiraud / Petit Guiraud,2013,375ml,7.2,240,RCA
+43,Larrivaux,2012,1500ml,21.0,250,RCA
+44,Larrivaux,2007,1500ml,21.0,250,RCA
+45,Larrivaux,2006,1500ml,23.5,250,RCA
+46,Clauzet,2013,1500ml,30.3,260,RCA
+47,Larteau,2008,750ml,3.9,282,RCA
+48,Pavillon Beauregard,2014,750ml,11.55,300,RCA
+49,Pontoise Cabarrus,2004,750ml,10.5,300,RCA
+50,Pontoise Cabarrus,2000,750ml,12.6,300,RCA
+51,"R de Rieussec (Rieussec, Lafite)",2015,750ml,12.5,300,RCA
+52,"R de Rieussec (Rieussec, Lafite)",2014,750ml,12.5,300,RCA
+53,"R de Rieussec (Rieussec, Lafite)",2012,750ml,12.5,300,RCA
+54,Thienpont/ La Prade ,2010,750ml,12.2,300,RCA
+55,Agape,2015,1500ml,10.3,300,RCA
+56,Clauzet,2011,1500ml,29.05,300,RCA
+57,Maison Neuve (de),2014,1500ml,14.3,300,RCA
+58,"""R"" de Rieussec (Blanc)",2012,750ml,12.5,300,RCA
+59,Devise d'Ardilley,2012,375ml,6.05,400,RCA
+60,Landion,2002,750ml,9.2,400,RCA
+61,Clauzet,2012,1500ml,30.3,410,RCA
+62,Tauzinat l'Hermitage,2001,750ml,11.0,432,RCA
+63,Devise d'Ardilley,2014,375ml,6.05,450,RCA
+64,Dudon/Acanthe de Dudon,2011,750ml,7.2,470,RCA
+65,Vari,2011,375ml,3.9,480,RCA
+66,Puy Arnaud Cuvée Pervenche,2011,750ml,8.75,480,RCA
+67,Thienpont/ Les Charmes Godard,2010,750ml,5.5,492,RCA
+68,Malagar (Rosé),2015,750ml,4.3,496,RCA
+69,Aney,2012,375ml,4.75,500,RCA
+70,Bel Orme Tronquoy de Lalande,2011,1500ml,19.1,500,RCA
+71,Pouyanne,2012,1500ml,8.8,500,RCA
+72,Dudon/Acanthe de Dudon,2003,750ml,9.3,510,RCA
+73,Bernadotte,2011,750ml,10.7,516,RCA
+74,"Belle-Vue, Haut-Médoc",2011,750ml,14.05,552,RCA
+75,Garon La Tuiliere Cuvée Réserve,2010,750ml,3.55,570,RCA
+76,Terrasses de Bouey (Les),2015,375ml,1.6,600,RCA
+77,Bel Orme Tronquoy de Lalande,2008,750ml,8.8,600,RCA
+78,Bel-Air (Roland Coiffe) - Dry,2016,750ml,6.0,600,RCA
+79,Bel-Air (Roland Coiffe) - Sweet,2015,750ml,6.0,600,RCA
+80,Bouscat (Domaine du)/ Cuvée Gargone,2006,750ml,10.95,600,RCA
+81,Bouscat (Domaine du)/ Portes de l'Am…,2014,750ml,26.55,600,RCA
+82,Cantenac Brown / Brio,2014,750ml,15.6,600,RCA
+83,Cap Saint George,2015,750ml,12.9,600,RCA
+84,Carpia (du),2009,750ml,5.05,600,RCA
+85,Carpia (du),2008,750ml,3.5,600,RCA
+86,Come (de),2007,750ml,10.5,600,RCA
+87,Croix Mouton,2013,750ml,6.1,600,RCA
+88,Dudon (Rouge),2009,750ml,4.45,600,RCA
+89,Fombrauge,2007,750ml,18.0,600,RCA
+90,Fourcas Dupré,2009,750ml,12.8,600,RCA
+91,Guiraud/ Petit Guiraud,2013,750ml,14.3,600,RCA
+92,Julien de Savignac - Cuvée Magis,2012,750ml,8.95,600,RCA
+93,Lanessan,1999,750ml,12.0,600,RCA
+94,Larrivaux,2006,750ml,10.95,600,RCA
+95,Larteau,2012,750ml,5.8,600,RCA
+96,Lauzette (La),2009,750ml,8.7,600,RCA
+97,Malescasse / Closerie de Malescasse (La),2014,750ml,7.7,600,RCA
+98,Marceline Cuvée Coutelin,2012,750ml,9.5,600,RCA
+99,Moulin du Cadet,2012,750ml,15.95,600,RCA
+100,Pouyanne,2014,750ml,4.4,600,RCA
+101,Tauzinat l'Hermitage,2011,750ml,11.0,600,RCA
+102,Tour de Mons (La),2012,750ml,17.2,600,RCA
+103,Vari ,2015,750ml,3.8,600,RCA
+104,Bel-Air (Roland Coiffe) - Cuvée Classical,2014,1500ml,12.0,600,RCA
+105,Bel-Air (Roland Coiffe) - Cuvée Classical,2012,1500ml,12.0,600,RCA
+106,Terrasses de Bouey (Les),2015,1500ml,7.7,600,RCA
+107,Puy Arnaud Cuvée Pervenche,2011,750ml,8.75,600,RCA
+108,Cap Saint George,2015,750ml,12.9,600,RCA
+109,Bel Orme Tronquoy de Lalande,2006,1500ml,18.0,650,RCA
+110,Dudon (Blanc),2015,750ml,3.7,698,RCA
+111,Clauzet,2008,1500ml,26.55,730,RCA
+112,"Clos des Lunes ""Argent""",2013,750ml,8.1,756,RCA
+113,Mont Perat Rouge,2011,750ml,11.2,828,RCA
+114,Dudon/Acanthe de Dudon,2014,750ml,7.3,840,RCA
+115,Dudon/Acanthe de Dudon,2002,750ml,9.05,850,RCA
+116,Lauzette Declercq (La),2009,375ml,5.2,900,RCA
+117,Croix Saint Vincent (La),2013,750ml,13.45,900,RCA
+118,Fonplégade,2014,750ml,23.0,900,RCA
+119,Lagarde (Excellence),2014,750ml,7.2,900,RCA
+120,Aurilhac (D'),2012,1500ml,20.95,900,RCA
+121,Dudon/Acanthe de Dudon,2010,750ml,8.55,920,RCA
+122,Dudon/Acanthe de Dudon,2008,750ml,7.8,930,RCA
+123,Marquis de Mons,2012,750ml,12.3,948,RCA
+124,Tour de Pez,2014,375ml,7.8,960,RCA
+125,Tour de Pez,2013,375ml,7.4,960,RCA
+126,Dudon/Acanthe de Dudon,2001,750ml,10.55,960,RCA
+127,Carpia (du),2007,750ml,3.5,996,RCA
+128,Haut Guiraud,2014,375ml,2.5,1000,RCA
+129,Agape Sauvignon Gris,2016,750ml,5.95,1000,RCA
+130,Bouscat (Domaine du)/ Cuvée Gargone,2014,750ml,11.3,1000,RCA
+131,Cach (de),2004,750ml,4.7,1000,RCA
+132,Fleur Haut Gaussens,2010,750ml,5.2,1000,RCA
+133,"Fleur Haut Gaussens Cabernet Franc ""La Bergeronnette""",2016,750ml,9.7,1000,RCA
+134,Fleur Haut Gaussens GRAND VIN,2016,750ml,14.8,1000,RCA
+135,"Fleur Haut Gaussens Malbec ""La Viminière""",2015,750ml,9.7,1000,RCA
+136,Fontaine,2011,750ml,10.05,1000,RCA
+137,Fontbonne,2014,750ml,3.05,1000,RCA
+138,Marsac Seguineau,2012,750ml,13.0,1000,RCA
+139,Haut Guiraud,2015,1500ml,8.4,1000,RCA
+140,Mont Perat Blanc,2012,750ml,6.7,1020,RCA
+141,"Clos des Lunes ""Argent"" (Blanc)",2014,750ml,8.35,1020,RCA
+142,Thienpont/ La Prade ,2011,750ml,9.05,1080,RCA
+143,"Cave de Sérignan du Comtat. Arbouse, Les Coteaux du Rhône Villages Massif D Uchaux  ",2012,750ml,3.85,1086,RCA
+144,Puygueraud (by Thienpont),2011,750ml,8.0,1092,RCA
+145,Aurilhac (D'),2010,375ml,5.9,1100,RCA
+146,Fourcas Dupré,2008,750ml,10.95,1100,RCA
+147,Malagar (Sweet White),2000,750ml,6.0,1100,RCA
+148,Puygueraud,2011,750ml,8.0,1104,RCA
+149,Arbouse,2012,750ml,3.85,1128,RCA
+150,Yon Figeac,2004,375ml,9.0,1170,RCA
+151,Lanessan,2015,750ml,10.5,1176,RCA
+152,Haut Pick (du),2014,375ml,5.3,1200,RCA
+153,Rauzan Despagne Reserve,2014,375ml,2.8,1200,RCA
+154,Vari,2014,375ml,4.05,1200,RCA
+155,Andoyse du Hayot ,2015,750ml,10.2,1200,RCA
+156,Andoyse du Hayot ,2013,750ml,10.3,1200,RCA
+157,Andoyse du Hayot ,2012,750ml,10.2,1200,RCA
+158,Aurilhac (D'),2013,750ml,6.55,1200,RCA
+159,Beau-Site Haut-Vignoble,2011,750ml,11.25,1200,RCA
+160,Bel Orme Tronquoy de Lalande,2012,750ml,9.7,1200,RCA
+161,Bellegarde,2013,750ml,11.45,1200,RCA
+162,Bouscat (Domaine du)/ Cuvée Gargone,2012,750ml,11.95,1200,RCA
+163,Bouscat (Domaine du)/ Cuvée Gargone,2008,750ml,11.45,1200,RCA
+164,Bouscat (Domaine du)/ Cuvée Gargone,2007,750ml,10.2,1200,RCA
+165,Brut de Dudon - Crémant Rosé,NV,750ml,6.05,1200,RCA
+166,Cach (de),2014,750ml,6.0,1200,RCA
+167,Circus (The Natural Circus),2016,750ml,4.3,1200,RCA
+168,Croix Teynac (La),2014,750ml,5.95,1200,RCA
+169,"Domaine de l'Agly, Entrée du Royaume",2013,750ml,10.2,1200,RCA
+170,Fourcas Dupré,2013,750ml,9.75,1200,RCA
+171,Haut Faugères,2011,750ml,12.8,1200,RCA
+172,Lafleur du Roy ,2014,750ml,17.8,1200,RCA
+173,Landion,2014,750ml,9.0,1200,RCA
+174,Magdelaine Bouhou cuvée Eden,2014,750ml,5.7,1200,RCA
+175,Magdelaine Bouhou cuvée Eden,2011,750ml,5.55,1200,RCA
+176,Marquis de Bellefont ,2014,750ml,11.55,1200,RCA
+177,Marquis de Bellefont ,2013,750ml,11.55,1200,RCA
+178,Martinat,2014,750ml,7.2,1200,RCA
+179,Mont Perat Rouge,2012,750ml,9.8,1200,RCA
+180,Moulin Haut Laroque,2014,750ml,15.3,1200,RCA
+181,Moulin Haut Laroque,2010,750ml,19.05,1200,RCA
+182,Moulin Haut Laroque,2004,750ml,14.05,1200,RCA
+183,Moulin Haut Villars,2014,750ml,6.05,1200,RCA
+184,Moulin Haut Villars,2012,750ml,6.0,1200,RCA
+185,Moulin Haut Villars,2011,750ml,6.05,1200,RCA
+186,Peyrabon,2001,750ml,12.2,1200,RCA
+187,Pontet Bel Air (sweet white wine),2013,750ml,4.7,1200,RCA
+188,Potensac,2007,750ml,17.0,1200,RCA
+189,Potensac / Chapelle de Potensac,2014,750ml,7.5,1200,RCA
+190,Prieurs de la Commanderie,2012,750ml,16.55,1200,RCA
+191,Puy Arnaud Cuvée Pervenche,2015,750ml,9.0,1200,RCA
+192,Puy Arnaud Cuvée Pervenche,2013,750ml,9.1,1200,RCA
+193,Retout (du),2014,750ml,8.3,1200,RCA
+194,Retout (du),2013,750ml,7.2,1200,RCA
+195,Saint Pey,2014,750ml,8.95,1200,RCA
+196,Sainte Gemme (de),2013,750ml,6.0,1200,RCA
+197,Sainte Gemme (de),2012,750ml,5.95,1200,RCA
+198,Tayac,2013,750ml,15.0,1200,RCA
+199,Tayac,2012,750ml,15.0,1200,RCA
+200,Tessonnière (La),2012,750ml,4.3,1200,RCA
+201,Vari,2015,750ml,3.8,1200,RCA
+202,Vieille Cure (La),2004,750ml,12.5,1200,RCA
+203,Fourcas Dupré,2011,1500ml,19.7,1200,RCA
+204,Rauzan Despagne Reserve,2014,1500ml,10.1,1200,RCA
+205,Soudars,2005,1500ml,30.1,1200,RCA
+206,Haut Pick (du),2014,375ml,5.3,1200,RCA
+207,Andoyse du Hayot ,2012,750ml,10.2,1200,RCA
+208,Circus (The Natural Circus),2016,750ml,4.3,1200,RCA
+209,Retout (du),2013,750ml,7.2,1200,RCA
+210,Potensac,2007,750ml,17.0,1200,RCA
+211,Tour de Pez,2011,375ml,7.95,1300,RCA
+212,"Clos des Lunes ""Argent""",2014,750ml,8.35,1320,RCA
+213,Carpia (du),2015,750ml,5.05,1500,RCA
+214,"Clos des Lunes ""Argent""",2015,750ml,8.35,1500,RCA
+215,Rose Poncet (La),2012,750ml,4.95,1500,RCA
+216,Rose Poncet (La) Cuvée Mon Ange,2011,750ml,11.3,1500,RCA
+217,Rose Poncet (La) Elevé en fut de chêne,2012,750ml,6.3,1500,RCA
+218,Rose Poncet (La) Elevé en fut de chêne,2011,750ml,6.2,1500,RCA
+219,Tauzinat l'Hermitage,2012,750ml,10.7,1500,RCA
+220,Dudon/Acanthe de Dudon,2005,750ml,10.45,1600,RCA
+221,Malagar (Sweet White),2004,750ml,6.0,1700,RCA
+222,Clauzet,2007,1500ml,25.3,1700,RCA
+223,Barbé,2010,750ml,5.6,1800,RCA
+224,Bouscat (Domaine du)/ Cuvée Gargone,2011,750ml,10.5,1800,RCA
+225,Gaudin ,2002,750ml,14.7,1800,RCA
+226,Haut Domingue,2014,750ml,2.45,1800,RCA
+227,Lafleur du Roy ,2013,750ml,15.3,1800,RCA
+228,Lafleur du Roy ,2012,750ml,17.8,1800,RCA
+229,Lauzette (La),2010,750ml,7.95,1800,RCA
+230,Marjosse Blanc,2014,750ml,5.6,1800,RCA
+231,"Pascal Valadier, Rhône Blanc, Domaine Valand",2015,750ml,5.55,1800,RCA
+232,"Xavier, Chateauneuf-du-Pape La Reserve VII IX X ",NV,750ml,41.9,1800,RCA
+233,"Xavier, Chateauneuf-du-Pape La Reserve X XI XII ",NV,750ml,31.5,1800,RCA
+234,"Xavier, Chateauneuf-du-Pape La Reserve X XII XV ",NV,750ml,35.0,1800,RCA
+235,Malagar (Rouge),2010,1500ml,10.2,1800,RCA
+236,Aurilhac (D'),2002,750ml,7.05,2000,RCA
+237,Canon La Chapelle,2014,750ml,5.95,2000,RCA
+238,Charmant,2013,750ml,14.45,2000,RCA
+239,Charmant,2012,750ml,15.55,2000,RCA
+240,Charmant,2011,750ml,14.8,2000,RCA
+241,"Clos du Pavillon ""La Petite Folie""",2014,750ml,8.8,2000,RCA
+242,Fonbel,2013,750ml,10.5,2000,RCA
+243,"Francs ""Les Cerisiers""",2007,750ml,8.45,2000,RCA
+244,Gravy (Le),2010,750ml,4.45,2000,RCA
+245,Haut Pick (du),2014,750ml,9.05,2000,RCA
+246,Landion,1999,750ml,9.3,2000,RCA
+247,"Maison Foucher, Bourgueil, En La Vallée de l'ORMEAU de MAURE ""La Chopinière"" ",2015,750ml,6.05,2000,RCA
+248,"Maison Foucher, Chinon, Les 10 Plus Belles Pieces",2014,750ml,7.75,2000,RCA
+249,Pavillon de Saint Jacques (Le),2014,750ml,7.8,2000,RCA
+250,Tour Saint Fort,2009,750ml,13.8,2000,RCA
+251,"Bourgueil, En La Vallée de l'ORMEAU de MAURE ""La Chopinière"" ",2015,750ml,6.05,2000,RCA
+252,"Chinon, Les 10 Plus Belles Pieces",2014,750ml,7.75,2000,RCA
+253,Dudon/Acanthe de Dudon,2006,750ml,8.8,2240,RCA
+254,Dudon/cuvée Jean-B. Dudon,2012,750ml,4.95,2300,RCA
+255,Bel-Air (Roland Coiffe) - Grand Vin,2015,750ml,11.0,2400,RCA
+256,Bernateau,2014,750ml,15.7,2400,RCA
+257,Come (de),2011,750ml,12.2,2400,RCA
+258,Coureau (du) - Blanc des Cabanes,2015,750ml,20.0,2400,RCA
+259,Coureau (du) - Rouge des Cabanes,2012,750ml,20.0,2400,RCA
+260,Croix Saint Vincent (La),2014,750ml,14.05,2400,RCA
+261,Dudon/cuvée Jean-B. Dudon,2008,750ml,5.3,2400,RCA
+262,Franc Maillet,2012,750ml,17.2,2400,RCA
+263,Lacoste Garzac (Supérieur),2014,750ml,3.05,2400,RCA
+264,Larrivaux,2010,750ml,13.45,2400,RCA
+265,Marjosse Blanc,2014,750ml,5.6,2400,RCA
+266,Marquis de Mons,2011,750ml,12.8,2400,RCA
+267,Moulin Haut Laroque,2008,750ml,15.3,2400,RCA
+268,Portets (De) (Blanc),2014,750ml,5.9,2400,RCA
+269,Portets (De) (Blanc),2013,750ml,5.9,2400,RCA
+270,Puygueraud (by Thienpont),2012,750ml,8.0,2400,RCA
+271,Roudier,2001,750ml,7.0,2400,RCA
+272,Taillan (Du),2010,750ml,11.55,2400,RCA
+273,Tessendey,2011,750ml,5.2,2400,RCA
+274,Tour de Pez,2011,750ml,15.2,2400,RCA
+275,Valois (de),2014,750ml,16.55,2400,RCA
+276,Vari,2011,750ml,6.5,2400,RCA
+277,Vari,2010,750ml,6.5,2400,RCA
+278,Vari ,2016,750ml,4.05,2400,RCA
+279,Vieille Cure (La),2008,750ml,12.5,2400,RCA
+280,Vieille Cure (La),2006,750ml,12.5,2400,RCA
+281,Soudars,2014,1500ml,23.1,2400,RCA
+282,Soudars,2010,1500ml,26.3,2400,RCA
+283,Verdignan,2009,1500ml,26.3,2400,RCA
+284,Marjosse (Blanc),2014,750ml,5.6,2400,RCA
+285,Coureau (du) - Blanc des Cabanes,2015,750ml,20.0,2400,RCA
+286,Croix Saint Vincent (la),2014,750ml,14.05,2400,RCA
+287,Coureau (du) - Rouge des Cabanes,2012,750ml,20.0,2400,RCA
+288,Puy Arnaud Cuvée Pervenche,2012,750ml,8.75,2436,RCA
+289,Dudon/cuvée Jean-B. Dudon,2003,750ml,5.95,2490,RCA
+290,Haut Guillebot,2012,750ml,3.3,2500,RCA
+291,"Maison Foucher, Sancerre Les Monts Damnés",2013,750ml,10.45,2500,RCA
+292,Malagar (Blanc),2013,750ml,4.05,2500,RCA
+293,Sancerre Les Monts Damnés,2013,750ml,10.45,2500,RCA
+294,Pape Clément / Clémentin de Pape Clément Rouge,2013,750ml,16.08,2514,RCA
+295,Clauzet,2007,375ml,7.0,2600,RCA
+296,Gravy (Le),2006,750ml,4.35,2600,RCA
+297,Archange (L'),2012,750ml,22.2,2700,RCA
+298,Dudon/cuvée Jean-B. Dudon,2009,750ml,6.8,2700,RCA
+299,Larteau,2006,750ml,3.9,2742,RCA
+300,Grand Pey Lescours,2007,750ml,8.8,2760,RCA
+301,Gaudin ,1994,750ml,15.05,2800,RCA
+302,Malagar (Sweet White),2002,750ml,6.55,2800,RCA
+303,Dudon/Acanthe de Dudon,2015,750ml,7.95,2834,RCA
+304,Escot,2011,750ml,8.8,2936,RCA
+305,Aney,2014,375ml,5.3,3000,RCA
+306,Landion,2015,375ml,5.45,3000,RCA
+307,Bruilleau (Le) Blanc,2014,750ml,8.88,3000,RCA
+308,Chantegrive,2012,750ml,10.3,3000,RCA
+309,Croix Mouton,2015,750ml,6.9,3000,RCA
+310,Domeyne,2011,750ml,15.3,3000,RCA
+311,Ferrand,2013,750ml,13.5,3000,RCA
+312,Fourcas Dupré,2007,750ml,10.3,3000,RCA
+313,Garon La Tuiliere Cuvée Réserve,2012,750ml,3.75,3000,RCA
+314,Grands Chênes (Les),2007,750ml,12.8,3000,RCA
+315,Gravas,2013,750ml,10.6,3000,RCA
+316,Hargue (La) (sweet white wine),2015,750ml,3.4,3000,RCA
+317,Haut Pougnan,2015,750ml,3.25,3000,RCA
+318,Hervé-Laroque,2003,750ml,10.3,3000,RCA
+319,Larrivaux,2008,750ml,9.701,3000,RCA
+320,Larrivaux,2007,750ml,9.7,3000,RCA
+321,Maison Bel-Air (Margaux),2014,750ml,11.0,3000,RCA
+322,Marsac Seguineau,2011,750ml,14.7,3000,RCA
+323,Mont Perat Blanc,2015,750ml,6.7,3000,RCA
+324,Mont Perat Blanc,2014,750ml,6.7,3000,RCA
+325,Motte Maucourt,2015,750ml,3.2,3000,RCA
+326,Moulin des Graves,2012,750ml,3.95,3000,RCA
+327,Nére Guignard (La),2009,750ml,10.3,3000,RCA
+328,Ouest de Lamothe Guignard (L'),2009,750ml,10.3,3000,RCA
+329,Pontac Monplaisir,2013,750ml,10.1,3000,RCA
+330,"Pontet Bel Air ""Semmacari"" (sweet white wine)",2016,750ml,5.05,3000,RCA
+331,"Pontet Bel Air ""Semmacari"" (sweet white wine)",2015,750ml,5.05,3000,RCA
+332,"Sanger, Pères d'Origines Brut",2008,750ml,26.0,3000,RCA
+333,"Sanger, Prestige Ultime Grand Cru, Blanc de Blanc",2008,750ml,35.0,3000,RCA
+334,"Sanger, Tango Parodoxe (Rosé)",NV,750ml,21.0,3000,RCA
+335,"Sanger, Voyage 360 Brut",NV,750ml,17.5,3000,RCA
+336,Trois Tours (Des),2016,750ml,2.55,3000,RCA
+337,Vari,2013,750ml,6.7,3000,RCA
+338,Vari,2008,750ml,3.45,3000,RCA
+339,"Xavier, Chateauneuf-du-Pape Blanc Anonyme",2014,750ml,23.9,3000,RCA
+340,Coufran,2010,1500ml,26.5,3000,RCA
+341,Trois Tours (Des) (Blanc),2016,750ml,2.55,3000,RCA
+342,Mont Perat (Blanc),2014,750ml,6.7,3000,RCA
+343,Bruilleau (Le) (Blanc),2014,750ml,8.88,3000,RCA
+344,Garon La Tuilière Cuvée Réserve,2010,750ml,3.55,3000,RCA
+345,Moulin des Graves,2012,750ml,3.95,3000,RCA
+346,Bruilleau (Le),2013,750ml,8.88,3000,RCA
+347,Allées de Cantemerle,2013,750ml,8.95,3000,RCA
+348,Maison Bel-Air (Cuvée selected by RC&A),2014,750ml,11.0,3000,RCA
+349,Arnaudas,2013,750ml,9.95,3360,RCA
+350,Comte de Rolland,2013,750ml,9.95,3360,RCA
+351,Malagar (Sweet White),2007,750ml,6.0,3400,RCA
+352,Malagar (Sweet White),2005,750ml,6.0,3400,RCA
+353,Malagar (Rouge),2003,750ml,5.05,3500,RCA
+354,"Xavier, Chateauneuf-du-Pape Cuvée Anonyme",2012,750ml,24.5,3500,RCA
+355,"Xavier, Chateauneuf-du-Pape Cuvée Anonyme",2011,750ml,23.9,3500,RCA
+356,"Xavier, Chateauneuf-du-Pape Cuvée Anonyme",2010,750ml,24.6,3500,RCA
+357,Allées de Cantemerle,2013,750ml,8.95,3540,RCA
+358,Come (de),2014,750ml,13.5,3600,RCA
+359,Fourcas Dupré,2012,750ml,10.95,3600,RCA
+360,Gaudin ,1997,750ml,13.45,3600,RCA
+361,Lacoste,2012,750ml,3.6,3600,RCA
+362,Laulan Cuvée Clement,2012,750ml,3.99,3600,RCA
+363,Moulin Haut Laroque,2002,750ml,12.8,3600,RCA
+364,Pontac Monplaisir,2014,750ml,10.6,3600,RCA
+365,Ronceray (Domaine de la),2002,750ml,9.45,3600,RCA
+366,Tour de Mons (La),2011,750ml,16.55,3600,RCA
+367,Malagar (Rouge),2014,1500ml,10.0,3700,RCA
+368,Mont Perat Blanc,2013,750ml,6.7,3720,RCA
+369,Barbé,2011,750ml,5.5,4000,RCA
+370,Fonplégade / Fleur de Fonplégade,2013,750ml,12.2,4000,RCA
+371,Fonplégade / Fleur de Fonplégade,2012,750ml,14.0,4000,RCA
+372,Fonplégade / Fleur de Fonplégade,2011,750ml,14.0,4000,RCA
+373,Gravy (Le),2008,750ml,4.15,4000,RCA
+374,Fonplégade / Fleur de Fonplégade,2011,750ml,14.0,4000,RCA
+375,Mascard - Vent d'Ange,2012,750ml,5.95,4200,RCA
+376,Roudier (As de ),2002,750ml,6.2,4200,RCA
+377,Mascard - Vent d'Ange,2012,750ml,5.95,4200,RCA
+378,Pensées de la Tour Carnet (Les),2015,750ml,11.4,4218,RCA
+379,Pensées de la Tour Carnet (Les),2015,750ml,11.4,4218,RCA
+380,Malagar (Blanc),2006,750ml,1.55,4400,RCA
+381,Dudon (Blanc),2016,750ml,3.7,4500,RCA
+382,Dudon (Blanc),2016,750ml,3.7,4500,RCA
+383,Gaudin (Cuvée selected by RC&A),2012,750ml,15.0,4700,RCA
+384,Gaudin (Cuvée selected by RC&A),2012,750ml,15.0,4790,RCA
+385,Brespaillan,2008,750ml,3.7,4800,RCA
+386,Clos Sainte Anne (Red),2012,750ml,6.6,4800,RCA
+387,Guillaumette (La),2015,750ml,3.75,4800,RCA
+388,Marquis de Mons,2013,750ml,12.2,4800,RCA
+389,Truffe (La),2013,750ml,17.2,4800,RCA
+390,Verdignan,2011,1500ml,22.1,4800,RCA
+391,Verdignan,2010,1500ml,26.3,4800,RCA
+392,Agape,2016,750ml,5.3,5000,RCA
+393,Aurilhac (D'),2014,750ml,8.1,5000,RCA
+394,Aurilhac (D'),2011,750ml,8.1,5000,RCA
+395,Hourbanon,2011,750ml,8.25,5000,RCA
+396,Malescasse,2012,750ml,11.55,5000,RCA
+397,Malescasse,2004,750ml,10.2,5000,RCA
+398,Malescasse,2003,750ml,10.55,5000,RCA
+399,Malescasse / Closerie de Malescasse (La),2011,750ml,7.45,5000,RCA
+400,Mille Roses,2014,750ml,17.05,5000,RCA
+401,"Pascal Valadier, Rhône, Domaine Valand, Plan de Dieu AOC",2015,750ml,6.7,5000,RCA
+402,Portets (De) (Rouge),2012,750ml,6.8,5000,RCA
+403,Tessendey,2012,750ml,5.3,5000,RCA
+404,Thienpont/ La Prade ,2009,750ml,12.8,5000,RCA
+405,Thienpont/ La Prade ,2007,750ml,7.8,5000,RCA
+406,"Xavier, Chateauneuf-du-Pape Blanc",2014,750ml,18.3,5000,RCA
+407,Agape,2016,750ml,5.3,5000,RCA
+408,Aurilhac (D'),2011,750ml,8.1,5000,RCA
+409,Mille Roses,2013,750ml,15.55,5100,RCA
+410,Moulin du Cadet,2014,750ml,15.95,5400,RCA
+411,Dudon/cuvée Jean-B. Dudon,1999,750ml,6.8,5500,RCA
+412,Malagar (Sweet White),2006,750ml,6.0,5500,RCA
+413,Tour de Pez,2012,750ml,14.05,5880,RCA
+414,Dudon (Rosé),2016,750ml,3.7,5900,RCA
+415,Haut Mondain,2015,375ml,2.3,6000,RCA
+416,Haut Peyruguet,2016,375ml,2.25,6000,RCA
+417,Lande de Bertin,2015,375ml,2.2,6000,RCA
+418,Tertre de Courban,2015,375ml,2.2,6000,RCA
+419,Ailes de Berliquet,2014,750ml,9.7,6000,RCA
+420,Barbé,2012,750ml,5.4,6000,RCA
+421,Bastor Lamontagne,2013,750ml,17.7,6000,RCA
+422,Bel-Air (Roland Coiffe) - La Cerisée (100% Merlot),2012,750ml,5.25,6000,RCA
+423,Bernon,2015,750ml,4.2,6000,RCA
+424,Bourdieu N°1,2014,750ml,5.25,6000,RCA
+425,Bournac,2012,750ml,7.2,6000,RCA
+426,Bouscat (Domaine du)/ Cuvée Caduce,2014,750ml,4.55,6000,RCA
+427,Briand,2015,750ml,6.45,6000,RCA
+428,Briand,2013,750ml,8.55,6000,RCA
+429,Caroline,2013,750ml,7.3,6000,RCA
+430,"Choix du Roy, Cabernet Sauvignon",NV,750ml,3.4,6000,RCA
+431,"Choix du Roy, Malbec",NV,750ml,3.4,6000,RCA
+432,"Choix du Roy, Pinot Noir",NV,750ml,3.9,6000,RCA
+433,"Choix du Roy, Syrah",NV,750ml,3.4,6000,RCA
+434,Clos de la Dame Verte,2015,750ml,8.45,6000,RCA
+435,Clos du Pavillon,2012,750ml,7.05,6000,RCA
+436,Clos du Pavillon,2011,750ml,6.95,6000,RCA
+437,Degas,2012,750ml,3.45,6000,RCA
+438,Devise d'Ardilley,2014,750ml,8.45,6000,RCA
+439,Ferran Rouge,2014,750ml,10.7,6000,RCA
+440,Ferran Rouge,2012,750ml,10.6,6000,RCA
+441,"Freynelle (La)  cuvée ""Cabernet Sauvignon""",2014,750ml,4.5,6000,RCA
+442,Freynelle (La) (Rosé - Pink wine),2016,750ml,3.55,6000,RCA
+443,Freynelle (La) (White wine),2016,750ml,3.55,6000,RCA
+444,Grace Dieu (La),2012,750ml,11.6,6000,RCA
+445,Grand Launay,2015,750ml,6.05,6000,RCA
+446,Grand Ormeau (Domaine du),2014,750ml,9.2,6000,RCA
+447,Grand Ormeau (Domaine du),2011,750ml,9.2,6000,RCA
+448,Grand Rousseau,2015,750ml,2.5,6000,RCA
+449,Grand Rousseau,2015,750ml,2.6,6000,RCA
+450,Guibeau,2012,750ml,6.55,6000,RCA
+451,Haut Riot,2015,750ml,2.95,6000,RCA
+452,Haut Tayac,2013,750ml,12.2,6000,RCA
+453,Haut Tayac,2012,750ml,12.7,6000,RCA
+454,Julien de Savignac,2015,750ml,5.7,6000,RCA
+455,Julien de Savignac,2014,750ml,5.7,6000,RCA
+456,"La Petite Tour, Domaine Gonzague Maurice",2014,750ml,5.05,6000,RCA
+457,La Rive de Goulée,2015,750ml,4.8,6000,RCA
+458,Lacour Jacquet,2013,750ml,5.9,6000,RCA
+459,"Lamothe Vincent ""Intense""",2015,750ml,3.95,6000,RCA
+460,Larrivaux,2012,750ml,9.7,6000,RCA
+461,Laulan Cuvée Quintessence,2014,750ml,5.55,6000,RCA
+462,Lauzette (La),2012,750ml,7.3,6000,RCA
+463,Leotins (Des),2015,750ml,2.6,6000,RCA
+464,"Maison Foucher, Sancerre, Domaine Jouan",2016,750ml,11.05,6000,RCA
+465,Malescasse,2001,750ml,10.0,6000,RCA
+466,Martinon (Blanc),2013,750ml,3.6,6000,RCA
+467,Mister Pink,2016,750ml,2.8,6000,RCA
+468,Moulin de Bouty,2012,750ml,4.45,6000,RCA
+469,Moulin de Bouty,2011,750ml,4.1,6000,RCA
+470,Moulin de Grenet,2012,750ml,5.7,6000,RCA
+471,Moulin de Launay,2015,750ml,3.2,6000,RCA
+472,Noaillac,2014,750ml,7.3,6000,RCA
+473,Paloumey / Ailes de Paloumey (Les),2008,750ml,6.6,6000,RCA
+474,Paloumey / Ailes de Paloumey (Les),2006,750ml,6.8,6000,RCA
+475,"Pascal Valadier, Rhône, Domaine Valand, Plan de Dieu AOC",2014,750ml,6.45,6000,RCA
+476,Pontac Monplaisir,2015,750ml,11.3,6000,RCA
+477,Pontet Bel Air (Blanc sec / White),2016,750ml,2.7,6000,RCA
+478,Rauzan Despagne Reserve,2014,750ml,4.7,6000,RCA
+479,Roudier,2014,750ml,6.7,6000,RCA
+480,Roudier,2013,750ml,6.95,6000,RCA
+481,Roudier,2012,750ml,6.8,6000,RCA
+482,Sipian / Les Grands Cèdres du Ch. Sipian,2015,750ml,4.8,6000,RCA
+483,Taussin,2015,750ml,3.25,6000,RCA
+484,Tauzinat l'Hermitage,2014,750ml,10.5,6000,RCA
+485,Tauzinat l'Hermitage,2013,750ml,10.5,6000,RCA
+486,Temple (Le),2010,750ml,6.6,6000,RCA
+487,Temple (Le),2008,750ml,6.6,6000,RCA
+488,Terrasses de Bouey (Les),2015,750ml,2.5,6000,RCA
+489,Vallée des Aigles,2013,750ml,8.95,6000,RCA
+490,Vari,2010,750ml,4.2,6000,RCA
+491,"Vari ""Réserve""",2014,750ml,6.25,6000,RCA
+492,"Victor, Domaine Gonzague Maurice",2014,750ml,4.7,6000,RCA
+493,Vieux Chateau Guibeau,2012,750ml,6.55,6000,RCA
+494,Vieux Chevrol,2014,750ml,8.3,6000,RCA
+495,Vieux Chevrol,2012,750ml,8.55,6000,RCA
+496,"Vin ""20 de Table""",2016,750ml,4.7,6000,RCA
+497,Coufran,2014,1500ml,23.1,6000,RCA
+498,Coufran,2012,1500ml,22.5,6000,RCA
+499,Verdignan,2012,1500ml,22.6,6000,RCA
+500,Pontet Bel Air (Blanc),2016,750ml,2.7,6000,RCA
+501,Freynelle (La) (Blanc),2016,750ml,3.55,6000,RCA
+502,Freynelle (La) (Rosé - Pink wine),2016,750ml,3.55,6000,RCA
+503,Leotins (Des),2015,750ml,2.6,6000,RCA
+504,Grand Rousseau,2015,750ml,2.6,6000,RCA
+505,"Freynelle (La) Cuvée ""Cabernet Sauvignon""",2015,750ml,4.5,6000,RCA
+506,Clos de la Dame Verte,2015,750ml,8.45,6000,RCA
+507,Hervé-Laroque,2006,750ml,7.8,6000,RCA
+508,Yon Figeac / Les Roches de Yon Figeac,2014,750ml,9.9,6000,RCA
+509,Tauzinat l'Hermitage,2014,750ml,10.5,6000,RCA
+510,Caroline,2012,750ml,7.8,6000,RCA
+511,Ferran,2013,750ml,8.8,6000,RCA
+512,Escurac (D'),2013,750ml,7.8,6000,RCA
+513,Grands Chênes (Les),2013,750ml,11.0,6000,RCA
+514,"Sancerre, Domaine Jouan",2016,750ml,11.05,6000,RCA
+515,Dudon (Rouge),2008,750ml,4.05,6300,RCA
+516,Archange (L'),2014,750ml,25.3,6500,RCA
+517,Malagar (Sweet White),2003,750ml,6.4,6600,RCA
+518,Mazetier,2015,750ml,3.15,6600,RCA
+519,Carpia (du),2016,750ml,5.05,6996,RCA
+520,Agape,2016,750ml,5.05,7000,RCA
+521,Dudon/cuvée Jean-B. Dudon,2006,750ml,5.45,7000,RCA
+522,Tour Castillon,2014,750ml,8.45,7000,RCA
+523,Agape (Rosé - Pink wine),2016,750ml,5.05,7000,RCA
+524,Bastor Lamontagne,2006,750ml,15.3,7200,RCA
+525,Bruilleau (Le) Blanc,2015,750ml,9.0,7200,RCA
+526,Villegeorge ,2006,750ml,11.55,7200,RCA
+527,Dudon (Rouge),2003,750ml,4.45,7600,RCA
+528,Dudon/cuvée Jean-B. Dudon,2011,750ml,4.95,7700,RCA
+529,Dudon/cuvée Jean-B. Dudon,2010,750ml,6.2,7800,RCA
+530,Mazetier (sweet white wine),2015,750ml,2.95,7800,RCA
+531,Haut Pick (du),2013,750ml,9.05,7900,RCA
+532,Remparts de Bastor (Les),2013,750ml,9.05,7900,RCA
+533,Grand Pey Lescours,2011,750ml,9.0,7920,RCA
+534,Grand Pey Lescours,2011,750ml,9.0,7920,RCA
+535,Bessan,2011,750ml,4.7,8000,RCA
+536,Bourdieu (Le),2012,750ml,6.2,8000,RCA
+537,"Francs ""Les Cerisiers""",2013,750ml,8.45,8000,RCA
+538,Jouanin,2011,750ml,3.6,8000,RCA
+539,"Maison Foucher, Pouilly-Fumé, Les Vieilles Vignes ""Cuvée de la Nature et du Temps""",2014,750ml,9.95,8000,RCA
+540,Maison Neuve (de),2013,750ml,5.7,8000,RCA
+541,Moulin de Tricot,2014,750ml,12.2,8000,RCA
+542,Simard,1995,750ml,10.5,8000,RCA
+543,"Thieuley  ""Cuvée Francis Courselle"" (White)",2012,750ml,7.45,8000,RCA
+544,Truffe (La),2014,750ml,17.7,8000,RCA
+545,Cach (de),2006,750ml,6.0,8000,RCA
+546,Marsauda Bellevue,2013,750ml,4.75,8400,RCA
+547,MT du Château Toumalin,2011,750ml,5.3,8500,RCA
+548,Clauzet,2013,750ml,14.7,8700,RCA
+549,Malagar (Blanc),2012,750ml,3.7,8700,RCA
+550,Mazetier,2014,750ml,3.1,8800,RCA
+551,Brespaillan,2009,750ml,4.2,9000,RCA
+552,Castelbruck,2013,750ml,11.9,9000,RCA
+553,Dudon (Rouge),2006,750ml,4.2,9000,RCA
+554,Escurac (D'),2013,750ml,7.8,9000,RCA
+555,Ferrand,2014,750ml,14.7,9000,RCA
+556,Grandis,1997,750ml,7.7,9000,RCA
+557,Lauzette (La),2011,750ml,7.1,9000,RCA
+558,Moutins (Les) (white),2015,750ml,3.3,9000,RCA
+559,Yon Figeac / Les Roches de Yon Figeac,2014,750ml,9.9,9000,RCA
+560,Dudon/cuvée Jean-B. Dudon,2002,750ml,5.7,9350,RCA
+561,"Bellevue, Médoc",2011,750ml,6.05,9600,RCA
+562,"Garance Haut Grenat, Cuvée La Rivière",2012,750ml,4.3,9600,RCA
+563,Larrivaux,2014,750ml,9.7,9600,RCA
+564,Larrivaux,2011,750ml,9.7,9600,RCA
+565,"Garance Haut Grenat, Cuvée La Rivière",2012,750ml,4.3,9600,RCA
+566,Demoiselle de Sigalas,2014,750ml,10.3,9840,RCA
+567,Dudon/cuvée Jean-B. Dudon,2007,750ml,4.2,9880,RCA
+568,Ailes de Berliquet,2013,750ml,8.5,9900,RCA
+569,Grand Pey Lescours,2015,750ml,10.3,9960,RCA
+570,Grand Pey Lescours,2012,750ml,9.1,9960,RCA
+571,Arricaud (D'),2012,750ml,5.1,10000,RCA
+572,Barbé,2014,750ml,5.4,10000,RCA
+573,Bessan / Perles de Bessan blanc,NV,750ml,6.45,10000,RCA
+574,Blouin,2014,750ml,2.75,10000,RCA
+575,Bourdillot (Le) séduction,2012,750ml,4.9,10000,RCA
+576,Brespaillan,2011,750ml,3.8,10000,RCA
+577,Cach (de),2015,750ml,6.0,10000,RCA
+578,Cach (de),2006,750ml,6.0,10000,RCA
+579,Devise d'Ardilley,2012,750ml,8.45,10000,RCA
+580,Fleur Picon (La) La Douceur,2013,750ml,5.95,10000,RCA
+581,Grandchamp (de),2014,750ml,6.05,10000,RCA
+582,Grandis,2014,750ml,8.6,10000,RCA
+583,Granges d'or (des),2011,750ml,5.95,10000,RCA
+584,Haut Guiraud,2015,750ml,4.2,10000,RCA
+585,Haut Lagrange,2013,750ml,9.7,10000,RCA
+586,Haut Lagrange,2012,750ml,10.1,10000,RCA
+587,Haut Pougnan,2014,750ml,3.5,10000,RCA
+588,Lamothe Castéra,2016,750ml,2.75,10000,RCA
+589,Larcis Jaumat,2014,750ml,8.5,10000,RCA
+590,"Maison Foucher, Crémant de Loire, Cuvée des Roys de Naples, Brut",NV,750ml,5.9,10000,RCA
+591,Malagar (Blanc),2014,750ml,4.3,10000,RCA
+592,Marsauda Bellevue,2014,750ml,4.8,10000,RCA
+593,Pontey,2011,750ml,7.1,10000,RCA
+594,Port du Roy,2013,750ml,3.7,10000,RCA
+595,Portets (De) (Rouge),2013,750ml,6.8,10000,RCA
+596,Romfort,2012,750ml,3.75,10000,RCA
+597,Tessonnière (La),2014,750ml,4.3,10000,RCA
+598,Vari,2012,750ml,4.2,10000,RCA
+599,Vieille Tour (de la),2014,750ml,4.2,10000,RCA
+600,Vieille Tour (de la) - cuvée Réserve,2011,750ml,5.7,10000,RCA
+601,"Xavier, Chateauneuf-du-Pape",2012,750ml,18.5,10000,RCA
+602,Malagar (Blanc),2014,750ml,4.3,10000,RCA
+603,Haut Pougnan,2014,750ml,3.5,10000,RCA
+604,"Crémant de Loire, Cuvée des Roys de Naples, Brut",NV,750ml,5.9,10000,RCA
+605,Andron-Blanquet,2008,750ml,11.6,10200,RCA
+606,Clauzet,2007,750ml,12.2,10400,RCA
+607,Thienpont/ La Prade ,2012,750ml,9.7,10800,RCA
+608,Fon du Berger (La),2007,750ml,5.25,11000,RCA
+609,"Thieuley  ""Cuvée Francis Courselle"" (White)",2014,750ml,7.45,11000,RCA
+610,Prieur de Meyney,2008,750ml,11.6,11567,RCA
+611,Dudon/cuvée Jean-B. Dudon,2004,750ml,5.3,11900,RCA
+612,Andron-Blanquet,2007,750ml,11.0,12000,RCA
+613,Aney,2012,750ml,9.0,12000,RCA
+614,Arnauton,2012,750ml,7.8,12000,RCA
+615,Baret Blanc,2014,750ml,10.3,12000,RCA
+616,Bel Orme Tronquoy de Lalande,2011,750ml,9.7,12000,RCA
+617,Bel Orme Tronquoy de Lalande,2006,750ml,8.95,12000,RCA
+618,Bel-Air (Roland Coiffe) - Cuvée Classical,2014,750ml,5.4,12000,RCA
+619,Bel-Air (Roland Coiffe) - Cuvée Classical,2013,750ml,5.25,12000,RCA
+620,Bel-Air (Roland Coiffe) - Cuvée Classical,2012,750ml,5.25,12000,RCA
+621,Bellegrave,2013,750ml,7.2,12000,RCA
+622,Bellegrave du Poujeau,2013,750ml,6.8,12000,RCA
+623,"Bellevue, Médoc",2012,750ml,6.2,12000,RCA
+624,Bolaire,2012,750ml,8.2,12000,RCA
+625,Bourdieu (Le),2014,750ml,5.95,12000,RCA
+626,Bourdieu (Le),2011,750ml,6.45,12000,RCA
+627,Bruilleau (Le) Rouge,2013,750ml,8.88,12000,RCA
+628,Busquet,2014,750ml,7.05,12000,RCA
+629,Caroline,2012,750ml,7.8,12000,RCA
+630,"Cave de Sérignan du Comtat. Les Coteaux du Rhône, Balade de Coline",2015,750ml,2.55,12000,RCA
+631,"Cave de Sérignan du Comtat. Les Coteaux du Rhône, Domaine des Tavans",2016,750ml,4.15,12000,RCA
+632,"Cave de Sérignan du Comtat. Les Coteaux du Rhône, Vieilles Vignes ",2016,750ml,3.3,12000,RCA
+633,Come (de),2013,750ml,12.8,12000,RCA
+634,Cône (Le) Vieilles Vignes,2014,750ml,6.5,12000,RCA
+635,Côteau (Le),2014,750ml,14.05,12000,RCA
+636,Croix du Trale,2013,750ml,6.0,12000,RCA
+637,Darzac,2014,750ml,3.7,12000,RCA
+638,Different de Ch Ferrand (Le),2011,750ml,9.1,12000,RCA
+639,Escot,2013,750ml,8.9,12000,RCA
+640,Escot,2012,750ml,8.9,12000,RCA
+641,Ferran Rouge,2013,750ml,8.8,12000,RCA
+642,Fombrauge,2013,750ml,18.45,12000,RCA
+643,"Francs ""Les Cerisiers""",2014,750ml,8.45,12000,RCA
+644,Freyche (Le),2013,750ml,5.95,12000,RCA
+645,Galeteau,2011,750ml,10.3,12000,RCA
+646,German,2012,750ml,4.3,12000,RCA
+647,Grands Chênes (Les),2013,750ml,11.0,12000,RCA
+648,Guibeau,2014,750ml,6.55,12000,RCA
+649,Haut Faugères,2012,750ml,15.3,12000,RCA
+650,Haut Faugères,2010,750ml,15.3,12000,RCA
+651,Hervé-Laroque,2014,750ml,7.8,12000,RCA
+652,Hervé-Laroque,2006,750ml,7.8,12000,RCA
+653,Jeanguillon,2013,750ml,3.1,12000,RCA
+654,Jouanin,2012,750ml,3.7,12000,RCA
+655,Laffitte Carcasset,2013,750ml,11.3,12000,RCA
+656,Larrivaux,2013,750ml,8.45,12000,RCA
+657,Lauzette Declercq (La),2014,750ml,7.8,12000,RCA
+658,Les Garregades,2011,750ml,4.65,12000,RCA
+659,L'Hospital (de),2011,750ml,6.2,12000,RCA
+660,Lucques Bessan,2012,750ml,4.375,12000,RCA
+661,"Lugey (de) ""Jump off""",2014,750ml,4.8,12000,RCA
+662,Maison Bel-Air (Margaux),2016,750ml,11.0,12000,RCA
+663,Maison Neuve (de),2012,750ml,6.6,12000,RCA
+664,Malene,2014,750ml,3.75,12000,RCA
+665,Martinon (Rouge),2012,750ml,3.6,12000,RCA
+666,Mauvesin Barton,2011,750ml,12.3,12000,RCA
+667,Mauvesin Barton / L'Impression de Mauvesin Barton,2012,750ml,6.55,12000,RCA
+668,Mauvesin Barton / L'Impression de Mauvesin Barton,2011,750ml,6.55,12000,RCA
+669,MT du Château Toumalin,2013,750ml,5.3,12000,RCA
+670,Mylord,2012,750ml,3.8,12000,RCA
+671,Mylord,2011,750ml,3.8,12000,RCA
+672,"Pascal Valadier, Domaine Le Renard, IGP Blanc",2016,750ml,3.95,12000,RCA
+673,Roche Dorée (La),2014,750ml,4.65,12000,RCA
+674,Rondillon Cuvée Les Turons,2013,750ml,5.6,12000,RCA
+675,Roudier,2011,750ml,6.7,12000,RCA
+676,Semaillan Mazeau,2011,750ml,6.9,12000,RCA
+677,Siaurac,2014,750ml,12.3,12000,RCA
+678,Sipian / Cadet de Sipian,2015,750ml,3.8,12000,RCA
+679,Soudars,2005,750ml,14.7,12000,RCA
+680,"Thieuley  ""Cuvée Francis Courselle"" (White)",2011,750ml,7.45,12000,RCA
+681,Toumalin,2012,750ml,6.5,12000,RCA
+682,Toumalin,2011,750ml,6.5,12000,RCA
+683,Tour de Pez,2014,750ml,13.95,12000,RCA
+684,Tour Saint Fort,2012,750ml,10.15,12000,RCA
+685,Tour Saint Fort,2001,750ml,10.95,12000,RCA
+686,Trois Tours (Des),2016,750ml,2.6,12000,RCA
+687,Trois Tours (Des),2016,750ml,2.55,12000,RCA
+688,Vieille Cure (La),2011,750ml,14.0,12000,RCA
+689,Vrai Caillou,2012,750ml,3.3,12000,RCA
+690,Yon Figeac,2014,750ml,17.0,12000,RCA
+691,Calvimont (Blanc),2015,750ml,4.7,12000,RCA
+692,Mayne (du) (Blanc),2015,750ml,4.7,12000,RCA
+693,Rondillon Cuvée Les Turons,2013,750ml,5.6,12000,RCA
+694,Trois Tours (Des),2016,750ml,2.6,12000,RCA
+695,Haut Guillebot,2015,750ml,4.3,12000,RCA
+696,Bolaire    (54% petit-verdot),2012,750ml,8.2,12000,RCA
+697,Roudier,2011,750ml,6.7,12000,RCA
+698,Busquet,2014,750ml,7.05,12000,RCA
+699,Simard,2004,750ml,7.5,12000,RCA
+700,Arcole (D'),2014,750ml,11.9,12000,RCA
+701,Siaurac,2014,750ml,12.3,12000,RCA
+702,Verdun (de),2015,750ml,3.8,12000,RCA
+703,"Lugey (de) ""Jump off""",2014,750ml,4.8,12000,RCA
+704,Tour Haut Caussan,2007,750ml,6.75,12000,RCA
+705,Bellegrave du Poujeau,2013,750ml,6.8,12000,RCA
+706,Moulins de Citran,2006,750ml,8.45,12000,RCA
+707,Bel Orme Tronquoy de Lalande,2011,750ml,9.7,12000,RCA
+708,Tour Saint Fort,2012,750ml,10.15,12000,RCA
+709,Laffitte Carcasset,2013,750ml,11.3,12000,RCA
+710,Coufran,2009,750ml,13.0,12000,RCA
+711,"Arnauton ""Cuvée Grand Sol""",2007,750ml,7.95,12500,RCA
+712,"Arnauton ""Cuvée Grand Sol""",2007,750ml,7.95,12500,RCA
+713,Faise (de),2011,750ml,3.45,13000,RCA
+714,Haut-Du-Peyrat,2009,750ml,3.8,13000,RCA
+715,Prieuré Canteloup,2013,750ml,4.1,13000,RCA
+716,Dudon/cuvée Jean-B. Dudon,2001,750ml,5.8,13200,RCA
+717,Malagar (Blanc),2010,750ml,2.8,13700,RCA
+718,Soudars,2013,750ml,10.3,14000,RCA
+719,Tour Castillon,2015,750ml,6.55,14000,RCA
+720,Clauzet,2008,750ml,12.8,14700,RCA
+721,Cap d'Or,2014,750ml,7.8,15000,RCA
+722,Cerons Blanc / White,2013,750ml,8.0,15000,RCA
+723,Escurac (D'),2012,750ml,9.1,15000,RCA
+724,Escurac (D'),2011,750ml,9.1,15000,RCA
+725,Grandis,2012,750ml,8.6,15000,RCA
+726,Guillemin la Gaffeliere ,2014,750ml,12.2,15000,RCA
+727,Guillemin la Gaffeliere ,2013,750ml,11.25,15000,RCA
+728,Haut Guillebot,2015,750ml,4.3,15000,RCA
+729,Hourbanon,2012,750ml,8.15,15000,RCA
+730,"Maison Foucher, Touraine Sauvignon ""Les Jarriers""",2016,750ml,4.3,15000,RCA
+731,Mauvesin ,2008,750ml,7.7,15000,RCA
+732,Mauvesin ,2007,750ml,6.6,15000,RCA
+733,Mont (Du),2015,750ml,5.55,15000,RCA
+734,Plaisance,2008,750ml,4.7,15000,RCA
+735,Pontac Monplaisir,2015,750ml,10.95,15000,RCA
+736,Pontac Monplaisir,2014,750ml,10.95,15000,RCA
+737,Pontac Monplaisir,2013,750ml,10.3,15000,RCA
+738,Pouyanne,2015,750ml,4.4,15000,RCA
+739,Freyche (Le),2013,750ml,5.95,15000,RCA
+740,Touraine Sauvignon Les Jarriers,2016,750ml,4.3,15000,RCA
+741,Dudon (Rouge),2011,750ml,3.55,15200,RCA
+742,Gravy (Le),2011,750ml,4.2,15600,RCA
+743,Clauzet,2012,750ml,14.7,15800,RCA
+744,Malagar (Blanc),2011,750ml,3.45,15800,RCA
+745,Vieux Cassan,2014,750ml,3.95,16000,RCA
+746,Villadière,2014,750ml,4.8,16000,RCA
+747,Villadière,2014,750ml,4.8,16000,RCA
+748,Dudon/cuvée Jean-B. Dudon,2014,750ml,5.05,16200,RCA
+749,Dudon/cuvée Jean-B. Dudon,2000,750ml,8.55,17600,RCA
+750,Arnauton / la vierge d'Arnauton,2012,750ml,5.95,18000,RCA
+751,Coufran,2001,750ml,11.0,18000,RCA
+752,Crabitey,2011,750ml,6.8,18000,RCA
+753,Different de Ch Ferrand (Le),2010,750ml,9.5,18000,RCA
+754,Le Geai Abouriou,2013,750ml,4.4,18000,RCA
+755,Le Geai Syrah,2013,750ml,4.4,18000,RCA
+756,Lestage Simon,1998,750ml,9.8,18000,RCA
+757,Malagar (Blanc),2015,750ml,4.3,18000,RCA
+758,Malagar (Rouge),2004,750ml,4.2,18000,RCA
+759,Paloumey,2012,750ml,10.7,18000,RCA
+760,Peyrabon,2010,750ml,15.3,18000,RCA
+761,Peyrabon,2002,750ml,10.95,18000,RCA
+762,Plaisance,2006,750ml,4.65,18000,RCA
+763,Simard,1998,750ml,10.5,18000,RCA
+764,Soudars,2009,750ml,12.8,18000,RCA
+765,Tessendey,2014,750ml,5.95,18000,RCA
+766,Tour de Bessan (La),2014,750ml,14.05,18000,RCA
+767,Verdignan,2005,750ml,14.7,18000,RCA
+768,Bouscat (Domaine du)/ Caduce,2014,750ml,4.7,18000,RCA
+769,"Belle-Vue, Haut-Médoc",2013,750ml,10.7,19000,RCA
+770,Croix Fourney (La),2013,750ml,7.3,19000,RCA
+771,Dudon/cuvée Jean-B. Dudon,2015,750ml,5.55,19000,RCA
+772,Grandis,2013,750ml,7.2,19000,RCA
+773,Hourbanon,2013,750ml,7.75,19000,RCA
+774,Croix Fourney (La),2013,750ml,7.3,19000,RCA
+775,Dudon (Rouge),1998,750ml,4.95,19900,RCA
+776,Aney,2014,750ml,9.0,20000,RCA
+777,Arcole (D'),2014,750ml,11.9,20000,RCA
+778,Arnauton,2011,750ml,7.8,20000,RCA
+779,Aubastons (Les),2014,750ml,3.4,20000,RCA
+780,Belair Coubet ,2014,750ml,4.3,20000,RCA
+781,Bensse (de),2012,750ml,6.0,20000,RCA
+782,"Cave de Sérignan du Comtat. Arbouse, Les Coteaux du Rhône Villages Massif D Uchaux  ",2015,750ml,4.2,20000,RCA
+783,"Cave de Sérignan du Comtat. Panicaut, Les Coteaux du Rhône Villages Plan de Dieu",2015,750ml,4.45,20000,RCA
+784,Cerons Rouge / Red,2014,750ml,8.45,20000,RCA
+785,Clairac tradition,2014,750ml,4.0,20000,RCA
+786,Dame Verte (de la),2016,750ml,3.3,20000,RCA
+787,Darzac,2015,750ml,3.55,20000,RCA
+788,Degas,2014,750ml,3.45,20000,RCA
+789,Fondarzac,2015,750ml,3.1,20000,RCA
+790,Grace Dieu (La) Cuvée d'Automne,2013,750ml,8.45,20000,RCA
+791,Haut Nivelle,2015,750ml,3.55,20000,RCA
+792,Haut Pougnan,2016,750ml,3.25,20000,RCA
+793,Haut Riot,2014,750ml,2.9,20000,RCA
+794,Lajarre Tradition,2015,750ml,3.2,20000,RCA
+795,Lande de Bertin,2015,750ml,3.2,20000,RCA
+796,Larteau,2011,750ml,5.9,20000,RCA
+797,Laulan Cuvée Clement,2015,750ml,4.1,20000,RCA
+798,Le Geai 5 cépages,2013,750ml,4.0,20000,RCA
+799,"Maison Foucher, Petit Le Mont Chardonnay",2016,750ml,3.99,20000,RCA
+800,"Maison Foucher, Petit Le Mont Sauvignon",2016,750ml,3.99,20000,RCA
+801,Malagar (Rouge),2006,750ml,4.8,20000,RCA
+802,Minvielle ,2015,750ml,3.2,20000,RCA
+803,Minvielle / Roc de  Minvielle,2015,750ml,3.2,20000,RCA
+804,Moutins (Les) (red),2015,750ml,3.4,20000,RCA
+805,Moutins (Les) (red),2014,750ml,3.3,20000,RCA
+806,Pontet Bel Air ,2016,750ml,3.1,20000,RCA
+807,Prieuré Canteloup,2015,750ml,4.6,20000,RCA
+808,Puy Arnaud Cuvée Pervenche,2014,750ml,8.8,20000,RCA
+809,Puy Favereau,2015,750ml,3.5,20000,RCA
+810,Roc Meynard,2014,750ml,3.7,20000,RCA
+811,"Thieuley  ""Réserve Francis Courselle"" (Red)",2012,750ml,8.1,20000,RCA
+812,"Toutigeac ""Grande Réserve""",2015,750ml,3.95,20000,RCA
+813,Haut Pougnan (Blanc),2016,750ml,3.25,20000,RCA
+814,Pontet Bel Air ,2016,750ml,3.1,20000,RCA
+815,Beylie La Croix,2011,750ml,3.8,20000,RCA
+816,Bourdieu (Le),2011,750ml,6.45,20000,RCA
+817,Petit Le Mont,2016,750ml,3.99,20000,RCA
+818,Dudon (Rouge),1999,750ml,4.65,20700,RCA
+819,Trois Moulins,2013,750ml,6.3,21000,RCA
+820,Freyche (Le),2014,750ml,6.1,22000,RCA
+821,Arsac (D'),2014,750ml,13.95,24000,RCA
+822,Bellegrave,2014,750ml,8.3,24000,RCA
+823,Bellegrave du Poujeau,2014,750ml,8.3,24000,RCA
+824,Blaignan,2012,750ml,7.2,24000,RCA
+825,Cap de Faugères ,2014,750ml,10.95,24000,RCA
+826,Cap de Faugères ,2012,750ml,10.3,24000,RCA
+827,Cap de Faugères ,2011,750ml,10.3,24000,RCA
+828,Caronne Sainte Gemme,2011,750ml,9.5,24000,RCA
+829,Coudoulet Cabernet,2013,750ml,3.8,24000,RCA
+830,Coudoulet Chardonnay,2014,750ml,4.2,24000,RCA
+831,Coudoulet Marselan,2014,750ml,3.8,24000,RCA
+832,Coudoulet Merlot,2014,750ml,3.8,24000,RCA
+833,Coudoulet Petit-Verdot,2014,750ml,4.1,24000,RCA
+834,Coudoulet Pinot Gris,2014,750ml,4.2,24000,RCA
+835,Coudoulet Pinot Noir,2014,750ml,4.2,24000,RCA
+836,Coudoulet Sangiovese,2014,750ml,4.2,24000,RCA
+837,Coudoulet Syrah,2014,750ml,4.1,24000,RCA
+838,Coudoulet Viognier,2014,750ml,4.2,24000,RCA
+839,Fourcas Dupré,2011,750ml,9.4,24000,RCA
+840,Gadet Terrefort,2011,750ml,5.05,24000,RCA
+841,Hourbanon,2010,750ml,9.45,24000,RCA
+842,Lacoste Garzac,2016,750ml,2.75,24000,RCA
+843,Lalaudey,2010,750ml,10.9,24000,RCA
+844,Lateyron Brut ou Demi-Sec (Dry or semi-Dry),NV,750ml,5.9,24000,RCA
+845,Lateyron Rosé Brut ou Demi-Sec (Dry or semi-Dry),NV,750ml,6.3,24000,RCA
+846,Mauvesin Barton,2012,750ml,12.3,24000,RCA
+847,Moulins de Citran,2006,750ml,8.45,24000,RCA
+848,Panigon (de),2013,750ml,6.2,24000,RCA
+849,Plaisance,2011,750ml,5.2,24000,RCA
+850,Plaisance,2007,750ml,4.5,24000,RCA
+851,Saint Christophe,2013,750ml,4.7,24000,RCA
+852,Thienpont/ Les Charmes Godard,2014,750ml,5.7,24000,RCA
+853,Thienpont/ Les Charmes Godard,2013,750ml,5.3,24000,RCA
+854,Tour de Pez,2013,750ml,13.2,24000,RCA
+855,Tour Haut Caussan,2007,750ml,6.75,24000,RCA
+856,Tour Saint Fort,2010,750ml,13.8,24000,RCA
+857,Verdignan,2003,750ml,10.8,24000,RCA
+858,Verdignan,2002,750ml,10.0,24000,RCA
+859,Verdun (de),2015,750ml,3.8,24000,RCA
+860,Lacoste Garzac,2016,750ml,2.75,24000,RCA
+861,Cap de Faugères ,2012,750ml,10.3,24000,RCA
+862,Granges d'or (des),2012,750ml,5.95,24000,RCA
+863,Panigon (de),2013,750ml,6.2,24000,RCA
+864,Bellegrave du Poujeau,2014,750ml,8.3,24000,RCA
+865,Clauzet,2011,750ml,14.05,25000,RCA
+866,Jordi,2011,750ml,7.6,25000,RCA
+867,Rose Pauillac (La),2012,750ml,14.4,25000,RCA
+868,"Tour de Guiet ""Tradition""",2015,750ml,5.0,25000,RCA
+869,Jordi,2011,750ml,7.6,25000,RCA
+870,Arnauton,2008,750ml,6.6,30000,RCA
+871,Bourdieu (Le),2013,750ml,5.95,30000,RCA
+872,Cerons Blanc / White,2014,750ml,8.0,30000,RCA
+873,Arnauton,2008,750ml,6.6,30000,RCA
+874,Paloumey,2011,750ml,10.7,36000,RCA
+875,Lalaudey,2012,750ml,10.0,48000,RCA
+876,"Maison Foucher, Sancerre Le Mont",2016,750ml,8.8,10000,RCA
+877,"Maison Foucher, Sancerre Le Mont",2015,750ml,8.8,10000,RCA
+878,"Maison Foucher, Vouvray, La Vigne des Sablons",2016,750ml,4.95,10000,RCA
+879,"Vouvray, La Vigne des Sablons",2016,750ml,4.95,10000,RCA
+880,Sancerre Le Mont,2015,750ml,8.8,10000,RCA
+881,Malagar (Blanc),2007,750ml,1.3,12000,RCA
+882,Malagar (Blanc),2007,750ml,1.3,12000,RCA
+883,Andron-Blanquet,2013,750ml,10.3,12000,RCA
+884,Andron-Blanquet,2011,750ml,11.3,12000,RCA
+885,Chantemerle,2013,750ml,5.95,12000,RCA
+886,Fourcas Hosten,2012,750ml,11.6,12000,RCA
+887,Fourcas Hosten,2011,750ml,11.6,12000,RCA
+888,Lamothe Bergeron,2013,750ml,10.7,12000,RCA
+889,Lamothe Bergeron,2012,750ml,10.95,12000,RCA
+890,Lamothe Bergeron,2011,750ml,10.95,12000,RCA
+891,Carpia (du) Rouge,2010,750ml,5.05,12000,RCA
+892,Chantemerle,2013,750ml,5.95,12000,RCA
+893,Marjosse Rouge,2014,750ml,6.55,20000,RCA
+894,Marjosse Rouge,2012,750ml,6.3,20000,RCA
+895,Fougas Maldoror,2012,750ml,11.1,2400,RCA
+896,Fougas Maldoror,2011,750ml,12.7,2400,RCA
+897,Fougas Maldoror,2010,750ml,13.2,2400,RCA
+898,Grand Corbin Manuel,2014,750ml,12.2,2400,RCA
+899,Grand Corbin Manuel,2013,750ml,11.3,2400,RCA
+900,Grand Corbin Manuel,2011,750ml,11.55,2400,RCA
+901,Amour,2015,750ml,6.45,24000,RCA
+902,Amour,2014,750ml,6.3,24000,RCA
+903,Annereaux (des),2013,750ml,9.1,24000,RCA
+904,Annereaux (des),2012,750ml,10.6,24000,RCA
+905,Annereaux (des),2011,750ml,10.0,24000,RCA
+906,Arnauton,2010,750ml,8.1,24000,RCA
+907,Arnauton / la vierge d'Arnauton,2011,750ml,5.95,24000,RCA
+908,Aubiers (Les),2015,750ml,4.05,24000,RCA
+909,Aubiers (Les),2014,750ml,4.05,24000,RCA
+910,Baret Rouge,2014,750ml,10.2,24000,RCA
+911,Baret Rouge,2013,750ml,9.8,24000,RCA
+912,Baret Rouge,2012,750ml,10.1,24000,RCA
+913,Beard la Chapelle,2012,750ml,9.7,24000,RCA
+914,"Belle-Vue, Haut-Médoc",2015,750ml,12.8,24000,RCA
+915,"Belle-Vue, Haut-Médoc",2014,750ml,11.55,24000,RCA
+916,"Belle-vue, Haut-Médoc",2013,750ml,10.7,24000,RCA
+917,Beylie La Croix,2011,750ml,3.8,24000,RCA
+918,Blaignan,2011,750ml,7.2,24000,RCA
+919,Blanquerie (La),2015,750ml,3.7,24000,RCA
+920,Blanquerie (La),2014,750ml,3.7,24000,RCA
+921,Brandey (de),2015,750ml,2.8,24000,RCA
+922,Calvimont Blanc / White,2016,750ml,5.05,24000,RCA
+923,Calvimont Blanc / White,2015,750ml,4.7,24000,RCA
+924,Calvimont Rouge / Red,2015,750ml,5.8,24000,RCA
+925,Cap de Faugères ,2013,750ml,9.05,24000,RCA
+926,Carpia (du),2010,750ml,5.05,24000,RCA
+927,Chantemerle,2014,750ml,5.95,24000,RCA
+928,Charmail,2014,750ml,11.45,24000,RCA
+929,Clos Sainte Anne (Red),2014,750ml,6.6,24000,RCA
+930,Closerie Saint Vincent,2016,750ml,2.75,24000,RCA
+931,Coudraie (La),2016,750ml,2.9,24000,RCA
+932,Coudraie (La),2015,750ml,2.95,24000,RCA
+933,Coufran,2014,750ml,11.5,24000,RCA
+934,Coufran,2013,750ml,10.3,24000,RCA
+935,Coufran,2012,750ml,11.0,24000,RCA
+936,Coufran,2011,750ml,10.8,24000,RCA
+937,Coufran,2010,750ml,13.0,24000,RCA
+938,Coufran,2009,750ml,13.0,24000,RCA
+939,Coufran,2008,750ml,11.0,24000,RCA
+940,Coufran,2007,750ml,10.5,24000,RCA
+941,Coufran,2006,750ml,11.0,24000,RCA
+942,Croix Fourney (La),2014,750ml,7.8,24000,RCA
+943,Different de Ch Ferrand (Le),2013,750ml,8.2,24000,RCA
+944,Different de Ch Ferrand (Le),2012,750ml,9.24,24000,RCA
+945,Dudon (Rouge),2015,750ml,4.3,24000,RCA
+946,Dudon (Rouge),2014,750ml,3.55,24000,RCA
+947,Dudon (Rouge),2012,750ml,3.45,24000,RCA
+948,Dudon (Rouge),2004,750ml,4.3,24000,RCA
+949,Dudon (Rouge),2002,750ml,4.2,24000,RCA
+950,Dudon (Rouge),2001,750ml,4.3,24000,RCA
+951,Dudon (Rouge),2000,750ml,6.2,24000,RCA
+952,Escot,2014,750ml,8.9,24000,RCA
+953,Espérance (L'),2008,750ml,3.7,24000,RCA
+954,Fermenteaux (Les),2016,750ml,2.75,24000,RCA
+955,Fermenteaux (Les),2015,750ml,2.75,24000,RCA
+956,Fleur Haut Gaussens,2015,750ml,5.2,24000,RCA
+957,Fleur Haut Gaussens,2014,750ml,5.2,24000,RCA
+958,Fleur Haut Gaussens,2012,750ml,5.2,24000,RCA
+959,Fontarèche - Cuvée Pierre Mignard,2016,750ml,3.9,24000,RCA
+960,Fontbonne,2014,750ml,3.2,24000,RCA
+961,Freynelle (La) Rouge,2015,750ml,4.05,24000,RCA
+962,Gabaron,2016,750ml,2.95,24000,RCA
+963,Gabaron,2016,750ml,2.95,24000,RCA
+964,Gabaron,2016,750ml,2.95,24000,RCA
+965,Gadet Terrefort,2014,750ml,5.2,24000,RCA
+966,Galante (La),2016,750ml,2.75,24000,RCA
+967,Galante (La),2015,750ml,3.25,24000,RCA
+968,Gemeillan,2011,750ml,6.1,24000,RCA
+969,German,2014,750ml,4.45,24000,RCA
+970,Gorce (La),2012,750ml,6.5,24000,RCA
+971,Gorce (La),2011,750ml,6.5,24000,RCA
+972,Grand Moulin (LE)/ Cuvée Grande Réserve,2015,750ml,4.05,24000,RCA
+973,Grand Moulin (LE)/ Cuvée Grande Réserve,2014,750ml,4.05,24000,RCA
+974,Grand Pey Lescours,2014,750ml,9.7,24000,RCA
+975,Grand Pey Lescours,2008,750ml,9.5,24000,RCA
+976,Grandis,2011,750ml,8.2,24000,RCA
+977,Grange d'Orléan (La),2015,750ml,3.05,24000,RCA
+978,Granges d'or (des),2012,750ml,5.95,24000,RCA
+979,Graves du Champ des Chails ,2015,750ml,3.15,24000,RCA
+980,Guibeau,2015,750ml,6.55,24000,RCA
+981,Haut Canteloup (Blaye),2014,750ml,3.95,24000,RCA
+982,Haut Cormier,2015,750ml,3.1,24000,RCA
+983,Haut Lagrange,2014,750ml,10.95,24000,RCA
+984,Haut Maginet,2016,750ml,3.05,24000,RCA
+985,Haut Peyruguet,2015,750ml,3.0,24000,RCA
+986,Haut Pougnan,2015,750ml,3.5,24000,RCA
+987,Haut Riot,2015,750ml,2.95,24000,RCA
+988,Haut Sociando,2015,750ml,3.95,24000,RCA
+989,Haut Sociando,2014,750ml,3.95,24000,RCA
+990,Haut Vieux Chêne,2016,750ml,3.0,24000,RCA
+991,Haut Vieux Chêne,2015,750ml,3.0,24000,RCA
+992,Haut-Landon,2015,750ml,2.95,24000,RCA
+993,Hauts de Massonne de Château Pilet (Les),2014,750ml,3.0,24000,RCA
+994,Hyot,2015,750ml,4.45,24000,RCA
+995,Hyot,2014,750ml,4.45,24000,RCA
+996,Hyot,2012,750ml,4.45,24000,RCA
+997,Jeanguillon,2014,750ml,3.15,24000,RCA
+998,Lafite Monteil,2014,750ml,5.3,24000,RCA
+999,Lajarre Cuvée Eléonore,2014,750ml,4.0,24000,RCA
+1000,"Lamothe Castéra ""cuvée supérieure""",2015,750ml,2.95,24000,RCA
+1001,Laroche,2011,750ml,3.8,24000,RCA
+1002,Laroche,2008,750ml,3.55,24000,RCA
+1003,Laroche Bel Air,2010,750ml,6.2,24000,RCA
+1004,Laroche Joubert,2014,750ml,4.2,24000,RCA
+1005,Laures,2016,750ml,3.65,24000,RCA
+1006,Laures,2014,750ml,3.65,24000,RCA
+1007,Lestage Simon,1996,750ml,7.0,24000,RCA
+1008,Lussan,2016,750ml,3.05,24000,RCA
+1009,"Maison Foucher, Le Champs Vallin",2015,750ml,3.25,24000,RCA
+1010,"Maison Foucher, Pouilly-Fumé, La Vigne aux Sandres",2016,750ml,9.95,24000,RCA
+1011,"Maison Foucher, Pouilly-Fumé, La Vigne aux Sandres",2015,750ml,9.95,24000,RCA
+1012,"Maison Foucher, Sancerre Le Mont",2016,750ml,11.05,24000,RCA
+1013,"Maison Foucher, Sancerre Le Mont",2015,750ml,11.05,24000,RCA
+1014,"Maison Foucher, Saumur-Champigny, ""Sous le Château""",2016,750ml,5.45,24000,RCA
+1015,"Maison Foucher, Saumur-Champigny, ""Sous le Château""",2015,750ml,5.45,24000,RCA
+1016,Maison Neuve (de),2014,750ml,6.2,24000,RCA
+1017,Malagar (Blanc),2009,750ml,2.2,24000,RCA
+1018,Malagar (Rouge),2015,750ml,4.8,24000,RCA
+1019,Malagar (Rouge),2014,750ml,4.7,24000,RCA
+1020,Malagar (Rouge),2013,750ml,4.3,24000,RCA
+1021,Malagar (Rouge),2012,750ml,4.05,24000,RCA
+1022,Malagar (Rouge),2011,750ml,4.3,24000,RCA
+1023,Malagar (Rouge),2010,750ml,4.8,24000,RCA
+1024,Malagar (Rouge),2009,750ml,4.8,24000,RCA
+1025,Malagar (Rouge),2008,750ml,4.8,24000,RCA
+1026,Malagar (Rouge),2007,750ml,4.1,24000,RCA
+1027,Malagar (Rouge),2002,750ml,4.2,24000,RCA
+1028,Malbat,2015,750ml,3.0,24000,RCA
+1029,Martin,2014,750ml,5.2,24000,RCA
+1030,Mayne (du) Blanc / White,2015,750ml,4.7,24000,RCA
+1031,Meyre,2014,750ml,8.45,24000,RCA
+1032,Montet,2014,750ml,3.7,24000,RCA
+1033,Moulin de la Souloire,2014,750ml,3.2,24000,RCA
+1034,Moulin de Vignolle,2015,750ml,3.0,24000,RCA
+1035,Moulins de Citran,2012,750ml,7.45,24000,RCA
+1036,Moulins de Citran,2010,750ml,9.2,24000,RCA
+1037,Noaillac,2013,750ml,5.8,24000,RCA
+1038,Orval (d'),2014,750ml,2.8,24000,RCA
+1039,Panigon (de),2015,750ml,6.55,24000,RCA
+1040,Panigon (de),2014,750ml,6.45,24000,RCA
+1041,Pey de Pont,2014,750ml,6.3,24000,RCA
+1042,Peyrabon,2014,750ml,12.2,24000,RCA
+1043,Peyrabon,2013,750ml,8.95,24000,RCA
+1044,Peyrabon,2011,750ml,9.55,24000,RCA
+1045,Peyrabon,2009,750ml,14.05,24000,RCA
+1046,Peyrabon,2008,750ml,11.45,24000,RCA
+1047,Peyrabon,2006,750ml,11.3,24000,RCA
+1048,Pomies-Agassac,2013,750ml,7.2,24000,RCA
+1049,Pomies-Agassac,2012,750ml,7.2,24000,RCA
+1050,Pontet Barrail,2012,750ml,7.3,24000,RCA
+1051,Pouyanne (Blanc),2015,750ml,3.8,24000,RCA
+1052,Prieuré Canteloup,2014,750ml,4.6,24000,RCA
+1053,Prieuré Canteloup,2012,750ml,4.6,24000,RCA
+1054,Puy de Guirande,2016,750ml,2.75,24000,RCA
+1055,Puygueraud (by Thienpont),2013,750ml,9.2,24000,RCA
+1056,Romfort,2015,750ml,3.8,24000,RCA
+1057,Romfort,2014,750ml,3.75,24000,RCA
+1058,Rosé de Chevalier,2016,750ml,5.5,24000,RCA
+1059,Roudier (Le),2015,750ml,2.95,24000,RCA
+1060,Saint Ahon,2012,750ml,7.5,24000,RCA
+1061,Saint Hilaire,2011,750ml,6.05,24000,RCA
+1062,Sainte Marie Blanc Vieilles Vignes,2016,750ml,4.3,24000,RCA
+1063,Sainte Marie Rouge Vieilles Vignes,2015,750ml,4.6,24000,RCA
+1064,Siaurac / Baronne G,2013,750ml,7.2,24000,RCA
+1065,Siaurac / Plaisir de Siaurac,2013,750ml,6.7,24000,RCA
+1066,Simard,2014,750ml,12.0,24000,RCA
+1067,Simard,2013,750ml,11.3,24000,RCA
+1068,Simard,2012,750ml,12.0,24000,RCA
+1069,Simard,2011,750ml,12.0,24000,RCA
+1070,Simard,2010,750ml,13.5,24000,RCA
+1071,Simard,2008,750ml,12.0,24000,RCA
+1072,Simard,2004,750ml,7.5,24000,RCA
+1073,Simard,2000,750ml,12.5,24000,RCA
+1074,Simard,1996,750ml,8.5,24000,RCA
+1075,Soudars,2014,750ml,11.2,24000,RCA
+1076,Soudars,2012,750ml,10.95,24000,RCA
+1077,Soudars,2011,750ml,10.8,24000,RCA
+1078,Soudars,2010,750ml,12.8,24000,RCA
+1079,Soudars,2008,750ml,10.8,24000,RCA
+1080,Taillan (Du),2013,750ml,7.8,24000,RCA
+1081,Taillan (Du),2012,750ml,8.8,24000,RCA
+1082,Tertre de Courban,2015,750ml,3.25,24000,RCA
+1083,Theophile,2014,750ml,2.95,24000,RCA
+1084,"Thieuley  ""Cuvée Francis Courselle"" (White)",2015,750ml,7.45,24000,RCA
+1085,"Thieuley  ""Réserve Francis Courselle"" (Red)",2014,750ml,8.1,24000,RCA
+1086,Thieuley (Red),2014,750ml,5.7,24000,RCA
+1087,Thieuley (White),2015,750ml,5.0,24000,RCA
+1088,Tour Haut Caussan,2013,750ml,10.2,24000,RCA
+1089,Tour Haut Caussan,2012,750ml,10.95,24000,RCA
+1090,Toutigeac,2015,750ml,3.0,24000,RCA
+1091,Trois Manoirs (Les),2013,750ml,5.7,24000,RCA
+1092,Verdignan,2014,750ml,11.1,24000,RCA
+1093,Verdignan,2013,750ml,10.3,24000,RCA
+1094,Verdignan,2012,750ml,11.0,24000,RCA
+1095,Verdignan,2011,750ml,10.7,24000,RCA
+1096,Verdignan,2010,750ml,12.8,24000,RCA
+1097,Verdignan,2009,750ml,12.8,24000,RCA
+1098,Verdignan,2008,750ml,11.0,24000,RCA
+1099,Verdignan,2007,750ml,10.3,24000,RCA
+1100,Verdignan,2006,750ml,10.8,24000,RCA
+1101,Verdignan,2004,750ml,10.7,24000,RCA
+1102,Vieille Tour (de la),2015,750ml,4.2,24000,RCA
+1103,Vieille Tour (de la) - cuvée classique,2016,750ml,4.15,24000,RCA
+1104,Vieille Tour (de la) - cuvée Héritage,2011,750ml,6.95,24000,RCA
+1105,Vieux Cassan,2015,750ml,3.95,24000,RCA
+1106,Vieux Dominique,2014,750ml,4.05,24000,RCA
+1107,Vieux Dominique,2013,750ml,3.45,24000,RCA
+1108,"Vin de France ""to be designed by client""",2015,750ml,1.52,24000,RCA
+1109,"Vin de France ""to be designed by client""",2015,750ml,1.52,24000,RCA
+1110,"Vin d'Europe entry level""to be designed by client""",2015,750ml,1.3,24000,RCA
+1111,Virecourt Conte,2015,750ml,3.9,24000,RCA
+1112,Virecourt Conte,2014,750ml,3.9,24000,RCA
+1113,Virecourt Conte,2011,750ml,3.7,24000,RCA
+1114,"Xavier, Côtes du Rhône",2014,750ml,5.5,24000,RCA
+1115,"Xavier, Côtes du Rhône xi",2015,750ml,5.5,24000,RCA
+1116,Vieille Tour (de la) (Blanc),2016,750ml,4.15,24000,RCA
+1117,Fermenteaux (Les),2015,750ml,2.75,24000,RCA
+1118,Haut Vieux Chêne,2015,750ml,3.0,24000,RCA
+1119,Montet,2014,750ml,3.7,24000,RCA
+1120,Dudon (Rouge),2004,750ml,4.3,24000,RCA
+1121,Freynelle (La) Rouge,2015,750ml,4.05,24000,RCA
+1122,"Lamothe Castéra ""cuvée supérieure""",2015,750ml,2.95,24000,RCA
+1123,Romfort,2015,750ml,3.8,24000,RCA
+1124,Virecourt Conté,2014,750ml,3.9,24000,RCA
+1125,Malagar (Rouge),2012,750ml,4.05,24000,RCA
+1126,Vieille Tour (de la),2014,750ml,4.2,24000,RCA
+1127,Lafite Monteil,2014,750ml,5.3,24000,RCA
+1128,Annereaux (des),2011,750ml,10.0,24000,RCA
+1129,Pey de Pont,2014,750ml,6.3,24000,RCA
+1130,Amour,2014,750ml,6.3,24000,RCA
+1131,Lestage Simon,1996,750ml,7.0,24000,RCA
+1132,Grandis,2011,750ml,8.2,24000,RCA
+1133,"Saumur-Champigny, Sous le Château",2015,750ml,5.45,24000,RCA
+1134,"Pouilly-Fumé, La Vigne aux Sandres",2015,750ml,9.95,24000,RCA
+1135,Fleur Haut Gaussens,2011,750ml,5.2,3750,RCA
+1136,Lanessan,2008,750ml,12.0,600,RCA
+1137,Lanessan,2007,750ml,11.5,600,RCA
+1138,Pineau du Rey,2002,375ml,4.7,6000,RCA
+1139,Calvimont Rouge / Red,2014,750ml,5.3,6000,RCA
+1140,Malescasse,2008,750ml,9.7,6000,RCA
+1141,Malescasse,2007,750ml,9.0,6000,RCA
+1142,Malescasse,2002,750ml,10.2,6000,RCA
+1143,Malescasse / Closerie de Malescasse (La),2012,750ml,7.7,6000,RCA
+1144,Mayne (du) Rouge / Red,2014,750ml,5.3,6000,RCA
+1145,Calvimont Rouge / Red,2014,750ml,5.3,6000,RCA
+1146,Mayne (du) Rouge / Red,2014,750ml,5.3,6000,RCA

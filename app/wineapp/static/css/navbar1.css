@@ -1,0 +1,54 @@
+#faux, #browse {
+    /* style these guys however you like, the key is 
+       position:absolute. No need for z-index modification
+       since the wrapper is natually above these elements.
+    */
+    position:absolute;
+}
+
+#faux {
+    height : 30px;
+    width : 200px;
+    padding:0;
+    margin:0;
+    top : 10;
+}
+
+#browse {
+    display : inline-block;
+    left : 250px;    
+    width : 80px;
+    height : 30px;
+    background : #CCC;
+    color : #FFF;
+    text-decoration : none;
+    line-height : 30px;
+    text-align : center;
+}
+
+#input {
+    background: red;
+    /* updating font size makes the input larger */
+    font-size:50px;
+    padding : 0;
+    margin : 0;
+}
+#wrapper {
+    /* opacity : 0.5;  toggle this if you want to see where the real input lines up*/
+    opacity : 0;
+    /* each input will render differently on each browser, use this wrapper to make sure the target size is the same on each */
+    overflow: hidden;
+    width: 80px;
+    height : 30px;
+    padding:0;
+    margin:0;
+    margin-left:220px;
+}
+.formmethod2 {
+    margin-top:10px;
+    margin-left: 35px;
+}
+.formmethod2 label {
+    display: none;
+}
+

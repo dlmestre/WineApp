@@ -1,0 +1,135 @@
+,Wine,Price,Date,Year,Region,Format,Markup Price,Markup %,WS Merchant,WS Price,Negoce,Recommended Selling Price,Sell,Margin,Quantity,Type,Vendor
+0,RIDGE MONTE BELLO,1165,2017-01-22 08:00,1999,Cupertino,75cl,1392.18,19.50%,Altaya Wines,1090,Cuvees,1390,No,225,0,Red,RIDGE
+1,PAVIE,1623,2017-01-22 08:00,2006,Bordeaux,75cl,1916.76,18.10%,Grand Cru Cellar Intl Ltd Wholesale,1750,Cuvees,1915,No,292,0,Red,PAVIE
+2,Chevalier de Lascombes,183.18,2017-01-22 08:00,2011,Bordeaux,75cl,302.25,65.00%,Kerry Wines,210,Cuvees,300,No,117,0,Red,Chateau Lascombes
+3,Chateau Pichon Baron,1631.03,2017-01-22 08:00,2000,Bordeaux,75cl,1926.25,18.10%,iDealwine Hong Kong,993.1,Dynamic,1925,No,294,0,Red,Chateau Pichon Baron
+4,MALESCOT,515,2017-01-22 08:00,2008,Bordeaux,75cl,643.75,25.00%,Red Wine Cellar Ltd.,445,Cuvees,640,No,125,0,Red,MALESCOT
+5,Chateau Lafite Rothschild,8820.83,2017-01-22 08:00,1995,Bordeaux,75cl,10196.88,15.60%,"Sotheby's Wine Hong Kong, Auction",3750,Dynamic,10195,No,1374,0,Red,Chateau Lafite Rothschild
+6,DOMINUS,1170,2017-01-22 08:00,2009,Napa,75cl,1398.15,19.50%,Hong Kong Wine Vault,1280,Cuvees,1398,No,228,0,Red,DOMINUS
+7,Chateau Palmer,1742.5,2017-01-22 08:00,1998,Bordeaux,75cl,2054.41,17.90%,Ganpei Vintners Limited Marvino Wine Merchants,1650,Cuvees,2050,No,308,0,Red,Chateau Palmer
+8,CARBONNIEUX BLANC,171,2017-01-22 08:00,2012,Bordeaux,75cl,282.15,65.00%,SYBA China Ltd.,265,Cuvees,280,No,109,0,White,CARBONNIEUX
+9,FIGEAC,590,2017-01-22 08:00,1997,Bordeaux,75cl,737.50,25.00%,Red Wine Cellar Ltd.,810,Cuvees,790,Yes,200,0,Red,FIGEAC
+10,Chateau Lafite Rothschild,44100,2017-01-22 08:00,1982,Bordeaux,75cl,50847.30,15.30%,iDealwine Hong Kong,11586.21,Dynamic,50845,No,6745,0,Red,Chateau Lafite Rothschild
+11,MARJOSSE ROUGE,53,2017-01-22 08:00,2012,Bordeaux,75cl,87.45,65.00%,Y18 Elegant Spirits Ltd.,105,Cuvees,103,Yes,50,0,Red,MARJOSSE
+12,GAZIN,755,2017-01-22 08:00,2001,Bordeaux,75cl,921.86,22.10%,The Fine Wine Experience,720,Cuvees,920,No,165,0,Red,GAZIN
+13,SASSICAIA,1830,2017-01-22 08:00,2004,Tuscany,75cl,2155.74,17.80%,Ganpei Vintners Limited,1650,Cuvees,2155,No,325,0,Red,SASSICAIA
+14,Chateau Latour,10662.03,2017-01-22 08:00,2009,Bordeaux,75cl,12314.64,15.50%,"Sotheby's Wine Hong Kong, Auction",6666.67,Dynamic,12315,No,1653,0,Red,Chateau Latour
+15,Carruades de Lafite,4370.46,2017-01-22 08:00,2000,Bordeaux,75cl,5082.84,16.30%,iDealwine Hong Kong,1241.38,Dynamic,5080,No,710,0,Red,Chateau Lafite Rothschild
+16,Chateau La Mission Haut Brion,5709.4,2017-01-22 08:00,2009,Bordeaux,75cl,6622.90,16.00%,Chateau Bordeaux,4590,Dynamic,6620,No,911,0,Red,Chateau La Mission Haut Brion
+17,GRILLET,1720,2017-01-22 08:00,2011,Bordeaux,75cl,2027.88,17.90%,The Fine Wine Experience,1500,Cuvees,2028,No,308,0,White,GRILLET
+18,MONTROSE,599,2017-01-22 08:00,2007,Bordeaux,75cl,748.75,25.00%,iDealwine Hong Kong,413.79,Cuvees,748,No,149,0,Red,MONTROSE
+19,BRAINAIRE DUCRU,495,2017-01-22 08:00,1998,Bordeaux,75cl,631.12,27.50%,Y18 Elegant Spirits Ltd.,550,Cuvees,630,No,135,0,Red,BRAINAIRE DUCRU
+20,SMITH HAUT LAFITTE ROUGE,430,2017-01-22 08:00,1997,Bordeaux,75cl,548.25,27.50%,Grand Cru Cellar Intl Ltd Wholesale,620,Cuvees,608,Yes,178,0,Red,SMITH HAUT LAFITTE
+21,GRILLET,1830,2017-01-22 08:00,2012,Bordeaux,75cl,2155.74,17.80%,Y18 Elegant Spirits Ltd.,1690,Cuvees,2155,No,325,0,White,GRILLET
+22,BEYCHEVELLE,990,2017-01-22 08:00,1995,Bordeaux,75cl,1193.94,20.60%,Chateau Bordeaux,848,Cuvees,1190,No,200,0,Red,BEYCHEVELLE
+23,Chateau Lafite Rothschild,13571.61,2017-01-22 08:00,2009,Bordeaux,75cl,15675.21,15.50%,"Sotheby's Wine Hong Kong, Auction",4583.33,Dynamic,15675,No,2103,0,Red,Chateau Lafite Rothschild
+24,BATAILLEY,330,2017-01-22 08:00,2007,Bordeaux,75cl,434.61,31.70%,Grand Cru Cellar Intl Ltd Wholesale,300,Cuvees,435,No,105,0,Red,BATAILLEY
+25,DOMAINE DE LA POUSSE D'OR CLOS DE LA BOUSSE,510,2017-01-22 08:00,2009,Burgundy,75cl,637.50,25.00%,The Fine Wine Experience,720,Cuvees,705,Yes,195,0,Red,DOMAINE DE LA POUSSE
+26,Chateau Lafite Rothschild,8000,2017-01-22 08:00,2001,Bordeaux,75cl,9248.00,15.60%,"Sotheby's Wine Hong Kong, Auction",3143,Dynamic,9248,No,1248,0,Red,Chateau Lafite Rothschild
+27,Chateau Lafite Rothschild,8330.35,2017-01-22 08:00,2006,Bordeaux,75cl,9629.88,15.60%,Grand Cru Cellar Intl Ltd Wholesale,4880,Dynamic,9630,No,1300,0,Red,Chateau Lafite Rothschild
+28,Chateau Cheval Blanc,17932.44,2017-01-22 08:00,2009,Bordeaux,150cl,20711.97,15.50%,Millesima - Hong Kong,23028.67,Dynamic,22568,Yes,4636,0,Red,Chateau Cheval Blanc
+29,POMMERY CUVEE LOUISE,597,2017-01-22 08:00,1999,Champagne,75cl,746.25,25.00%,iDealwine Hong Kong,537.93,Cuvees,745,No,148,0,Champagne,POMMERY
+30,RAUZAN SEGLA,436,2017-01-22 08:00,2007,Bordeaux,75cl,555.90,27.50%,Superb Wine Company,450,Cuvees,555,No,119,0,Red,RAUZAN SEGLA
+31,RIDGE MONTE BELLO,1560,2017-01-22 08:00,2009,Cupertino,75cl,1845.48,18.30%,The Fine Wine Experience,1400,Cuvees,1845,No,285,0,Red,RIDGE
+32,Chateau Lafite Rothschild,20758.15,2017-01-22 08:00,2000,Bordeaux,75cl,23934.15,15.30%,"Sotheby's Wine Hong Kong, Auction",7916.67,Dynamic,23930,No,3172,0,Red,Chateau Lafite Rothschild
+33,mouton,700,2017-01-22 08:00,1987,,75cl,850.50,21.50%,Vintage Grand Cru,2730,,2675,Yes,1975,,,
+34,PALMER,1525,2017-01-22 08:00,2008,Bordeaux,75cl,1804.08,18.30%,Pinewood Wine,1378,Cuvees,1800,No,275,0,Red,PALMER
+35,Chateau Lafite Rothschild,9833.33,2017-01-22 08:00,1998,Bordeaux,75cl,11367.33,15.60%,iDealwine Hong Kong,3393.1,Dynamic,11365,No,1532,0,Red,Chateau Lafite Rothschild
+36,NAPANOOK,455,2017-01-22 08:00,2009,Napa,75cl,580.12,27.50%,Y18 Elegant Spirits Ltd.,438,Cuvees,580,No,125,0,Red,DOMINUS
+37,SOLAIA,888,2017-01-22 08:00,2009,Tuscany,75cl,1077.14,21.30%,Riepenau Fine & Rare,1490,Cuvees,1460,Yes,572,0,Red,ANTINORI
+38,SOLAIA,1585,2017-01-22 08:00,2007,Tuscany,75cl,1875.06,18.30%,Wine Direct Hong Kong,1548,Cuvees,1875,No,290,0,Red,ANTINORI
+39,Chateau Lynch Bages,887.61,2017-01-22 08:00,2007,Bordeaux,75cl,1076.67,21.30%,Run Dong Lee Hong Kong Trading Ltd. Pinewood Wine,820,Dynamic,1075,No,187,0,Red,Chateau Lynch Bages
+40,OPUS ONE,1764,2017-01-22 08:00,2009,Napa,75cl,2079.76,17.90%,Citicellar,2400,Cuvees,2350,Yes,586,0,Red,OPUS ONE
+41,REYNON ROUGE,83,2017-01-22 08:00,2011,Bordeaux,75cl,136.95,65.00%,Chanti Wine,170,Cuvees,167,Yes,84,0,Red,REYNON
+42,Le Pin,13569.8,2017-01-22 08:00,1994,Bordeaux,75cl,15673.12,15.50%,Conti Int'l HK Trading Co Ltd. Y18 Elegant Spirits Ltd.,14300,Dynamic,15670,No,2100,0,Red,Chateau Le Pin
+43,OPUS ONE,2400,2017-01-22 08:00,2004,Napa,75cl,2810.40,17.10%,Grand Cru Cellar Intl Ltd Wholesale,2360,Cuvees,2810,No,410,0,Red,OPUS ONE
+44,Opus One,1572.5,2017-01-22 08:00,2013,Napa,75cl,1860.27,18.30%,"Altaya Wines Ganpei Vintners Limited Sun Chateau Group HK Limited Sotheby's Wine Hong Kong, Retail",2200,Cuvees,2155,Yes,583,0,Red,Opus One
+45,Chateau Grand Puy Lacoste,265.2,2017-01-22 08:00,2013,Bordeaux,75cl,371.28,40.00%,Conti Int'l HK Trading Co Ltd.,340,Cuvees,370,No,105,0,Red,Chateau Grand Puy Lacoste
+46,CLERC MILON,560,2017-01-22 08:00,2008,Bordeaux,75cl,700.00,25.00%,Dave Fung Vintners,560,Cuvees,700,No,140,0,Red,CLERC MILON
+47,OPUS ONE,2500,2017-01-22 08:00,2005,Napa,75cl,2925.00,17.00%,Grand Cru Cellar Intl Ltd Wholesale,2670,Cuvees,2925,No,425,0,Red,OPUS ONE
+48,Le Pin,16072.53,2017-01-22 08:00,1995,Bordeaux,75cl,18563.77,15.50%,Y18 Elegant Spirits Ltd.,16470,Dynamic,18560,No,2487,0,Red,Chateau Le Pin
+49,HAUT BATAILEY,320,2017-01-22 08:00,2008,Bordeaux,75cl,421.44,31.70%,Y18 Elegant Spirits Ltd.,313,Cuvees,420,No,100,0,Red,HAUT BATAILEY
+50,PONTET CANET,798,2017-01-22 08:00,2008,Bordeaux,75cl,974.36,22.10%,iDealwine Hong Kong iDealwine Hong Kong iDealwine Hong Kong,620.69,Cuvees,970,No,172,0,Red,PONTET CANET
+51,RIDGE MONTE BELLO,1170,2017-01-22 08:00,2000,Cupertino,75cl,1398.15,19.50%,Fin Leaf Wines Ltd.,1340,Cuvees,1398,No,228,0,Red,RIDGE
+52,PICHON LALANDE COMTESSE DE LALANDE,395,2017-01-22 08:00,2009,Bordeaux,75cl,520.22,31.70%,Superb Wine Company,1140,Cuvees,1115,Yes,720,0,Red,PICHON LALANDE
+53,PAPE CLEMENT BLANC,1250,2017-01-22 08:00,2008,Bordeaux,75cl,1490.00,19.20%,Riepenau Fine & Rare,1150,Cuvees,1490,No,240,0,White,PAPE CLEMENT
+54,CLINET,392,2017-01-22 08:00,2007,Bordeaux,75cl,516.26,31.70%,Cuvees.com,720,Cuvees,705,Yes,313,0,Red,CLINET
+55,Chateau Mouton Rothschild,7595.77,2017-01-22 08:00,2009,Bordeaux,75cl,8788.31,15.70%,East Power Vins Limited,4950,Dynamic,8788,No,1192,0,Red,Chateau Mouton Rothschild
+56,La Clarte de Haut Brion Blanc,535.5,2017-01-22 08:00,2014,Bordeaux,75cl,669.38,25.00%,Millesima - Hong Kong,753.17,Cuvees,738,Yes,203,0,White,Chateau Haut Brion
+57,BEYCHEVELLE,817,2017-01-22 08:00,2008,Bordeaux,75cl,991.02,21.30%,Run Dong Lee Hong Kong Trading Ltd.,700,Cuvees,990,No,173,0,Red,BEYCHEVELLE
+58,Chateau Lafite Rothschild,18444.44,2017-01-22 08:00,1986,Bordeaux,75cl,21303.33,15.50%,Bidvino Auction HK,6200,Dynamic,21300,No,2856,0,Red,Chateau Lafite Rothschild
+59,Chateau Mouton Rothschild,6088.28,2017-01-22 08:00,2008,Bordeaux,75cl,7050.23,15.80%,Sun Chateau Group HK Limited,3415,Dynamic,7050,No,962,0,Red,Chateau Mouton Rothschild
+60,LEOVILLE POYFERRE,597,2017-01-22 08:00,2006,Bordeaux,75cl,746.25,25.00%,Ganpei Vintners Limited Superb Wine Company Hong Kong Wine Vault,540,Cuvees,745,No,148,0,Red,LEOVILLE POYFERRE
+61,LASCOMBES CHEVALIER DE LASCOMBES,230,2017-01-22 08:00,2009,Bordeaux,75cl,322.00,40.00%,GRM Wine,285,Cuvees,320,No,90,0,Red,LASCOMBES
+62,Chateau Lynch Bages,998.79,2017-01-22 08:00,2001,Bordeaux,75cl,1204.54,20.60%,Grand Cru Cellar Intl Ltd Wholesale,900,Dynamic,1205,No,206,0,Red,Chateau Lynch Bages
+63,Chateau Monbousquet,220.58,2017-01-22 08:00,2013,Bordeaux,75cl,308.81,40.00%,City Noble,285,Cuvees,308,No,87,0,Red,Chateau Monbousquet
+64,RIDGE MONTE BELLO,1014,2017-01-22 08:00,2012,Cupertino,75cl,1216.80,20.00%,Riepenau Fine & Rare,1150,Cuvees,1215,No,201,0,Red,RIDGE
+65,OPUS ONE,1422,2017-01-22 08:00,2011,Napa,75cl,1686.49,18.60%,Grand Cru Cellar Intl Ltd Wholesale,1900,Cuvees,1860,Yes,438,0,Red,OPUS ONE
+66,LEOVILLE LAS CASES,1385,2017-01-22 08:00,2006,Bordeaux,75cl,1645.38,18.80%,East Power Vins Limited,1200,Cuvees,1645,No,260,0,Red,LEOVILLE LAS CASES
+67,Chateau Lafite Rothschild,15083.33,2017-01-22 08:00,2002,Bordeaux,150cl,17421.25,15.50%,City Noble,8598,Dynamic,17420,No,2337,0,Red,Chateau Lafite Rothschild
+68,Chateau Pichon Lalande,1365.86,2017-01-22 08:00,2009,Bordeaux,75cl,1622.64,18.80%,Superb Wine Company,1140,Dynamic,1620,No,254,0,Red,Chateau Pichon Lalande
+69,Chateau Cheval Blanc,8961.08,2017-01-22 08:00,2009,Bordeaux,75cl,10359.01,15.60%,Riepenau Fine & Rare,5900,Dynamic,10358,No,1397,0,Red,Chateau Cheval Blanc
+70,RIDGE MONTE BELLO,1014,2017-01-22 08:00,2011,Cupertino,75cl,1216.80,20.00%,Y18 Elegant Spirits Ltd.,1113,Cuvees,1215,No,201,0,Red,RIDGE
+71,Chateau Calon Segur,646,2017-01-22 08:00,2002,Bordeaux,75cl,796.52,23.30%,Ganpei Vintners Limited,700,Cuvees,795,No,149,0,Red,Chateau Calon Segur
+72,Chateau Lynch Bages,1721.45,2017-01-22 08:00,1996,Bordeaux,75cl,2029.59,17.90%,Con Vino,1400,Dynamic,2030,No,309,0,Red,Chateau Lynch Bages
+73,CANTEMERLE,229,2017-01-22 08:00,2008,Bordeaux,75cl,320.60,40.00%,Y18 Elegant Spirits Ltd. Grand Cru Cellar Intl Ltd Wholesale,270,Cuvees,320,No,91,0,Red,CANTEMERLE
+74,Chateau La Mission Haut Brion,11427.63,2017-01-22 08:00,2009,Bordeaux,150cl,13198.91,15.50%,Vintage Grand Cru,8300,Dynamic,13198,No,1770,0,Red,Chateau La Mission Haut Brion
+75,DOMAINE LA ROQUETE CHATEAUNEAUF-DU-PAPE,301,2017-01-22 08:00,2009,Rhone,75cl,396.42,31.70%,Cuvees.com,597,Cuvees,585,Yes,284,0,Red,DOMAINE LA ROQUETE
+76,PALMER ALTER EGO,414,2017-01-22 08:00,2008,Bordeaux,75cl,527.85,27.50%,Y18 Elegant Spirits Ltd.,526,Cuvees,528,No,114,0,Red,PALMER
+77,Chateau Lynch Bages,998.79,2017-01-22 08:00,2008,Bordeaux,75cl,1204.54,20.60%,iDealwine Hong Kong,703.45,Dynamic,1205,No,206,0,Red,Chateau Lynch Bages
+78,Chateau Dauzac,178.5,2017-01-22 08:00,2013,Bordeaux,75cl,294.52,65.00%,Y18 Elegant Spirits Ltd.,313,Cuvees,305,Yes,127,0,Red,Chateau Dauzac
+79,FIGEAC,1622,2017-01-22 08:00,2009,Bordeaux,75cl,1915.58,18.10%,Riepenau Fine & Rare,1350,Cuvees,1915,No,293,0,Red,FIGEAC
+80,TIGNANELLO,489,2017-01-22 08:00,2008,Tuscany,75cl,623.47,27.50%,Superb Wine Company Hong Kong Wine Vault,680,Cuvees,665,Yes,176,0,Red,ANTINORI
+81,CHARMAIL,100,2017-01-22 08:00,2011,Bordeaux,75cl,165.00,65.00%,Millesima - Hong Kong,144.17,Cuvees,165,No,65,0,Red,CHARMAIL
+82,Chateau Palmer,2456.99,2017-01-22 08:00,2009,Bordeaux,75cl,2877.14,17.10%,Superb Wine Company Ganpei Vintners Limited,2040,Dynamic,2875,No,418,0,Red,Chateau Palmer
+83,OPUS ONE,5400,2017-01-22 08:00,2009,Napa,150cl,6264.00,16.00%,Y18 Elegant Spirits Ltd.,5390,Cuvees,6260,No,860,0,Red,OPUS ONE
+84,TALBOT,395,2017-01-22 08:00,2007,Bordeaux,75cl,520.22,31.70%,Y18 Elegant Spirits Ltd.,479,Cuvees,520,No,125,0,Red,TALBOT
+85,Chateau Latour,23155.84,2017-01-22 08:00,2009,Bordeaux,150cl,26698.68,15.30%,The Fine Wine Experience,17000,Dynamic,26698,No,3542,0,Red,Chateau Latour
+86,PICHON BARON,1782,2017-01-22 08:00,2000,Bordeaux,75cl,2100.98,17.90%,iDealwine Hong Kong,993.1,Cuvees,2100,No,318,0,Red,PICHON BARON
+87,Chateau Ducru Beaucaillou,833,2017-01-22 08:00,1997,Bordeaux,75cl,1010.43,21.30%,Red Wine Cellar Ltd.,1060,Cuvees,1038,Yes,205,0,Red,Chateau Ducru Beaucaillou
+88,Carruades de Lafite,3657.78,2017-01-22 08:00,2008,Bordeaux,75cl,4257.66,16.40%,East Power Vins Limited Y18 Elegant Spirits Ltd.,1925,Dynamic,4258,No,600,0,Red,Chateau Lafite Rothschild
+89,Carruades de Lafite,3539.04,2017-01-22 08:00,2007,Bordeaux,75cl,4119.44,16.40%,SYBA China Ltd. Ganpei Vintners Limited,1950,Dynamic,4118,No,579,0,Red,Chateau Lafite Rothschild
+90,LASCOMBES,750,2017-01-22 08:00,1996,Bordeaux,75cl,915.75,22.10%,Y18 Elegant Spirits Ltd.,671,Cuvees,915,No,165,0,Red,LASCOMBES
+91,Chateau Angelus,2247.16,2017-01-22 08:00,2009,Bordeaux,75cl,2635.92,17.30%,Dave Fung Vintners Ganpei Vintners Limited East Power Vins Limited Superb Wine Company,2850,Dynamic,2790,Yes,543,0,Red,Chateau Angelus
+92,Chateau Dauzac,297.5,2017-01-22 08:00,2009,Bordeaux,75cl,416.50,40.00%,Y18 Elegant Spirits Ltd.,469,Cuvees,460,Yes,163,0,Red,Chateau Dauzac
+93,Chateau Haut Brion,14784.95,2017-01-22 08:00,2009,Bordeaux,150cl,17076.62,15.50%,Citicellar,20000,Dynamic,19600,Yes,4815,0,Red,Chateau Haut Brion
+94,Chateau Lafite Rothschild,8341.67,2017-01-22 08:00,2004,Bordeaux,75cl,9642.97,15.60%,"Sotheby's Wine Hong Kong, Auction",3500,Dynamic,9640,No,1298,0,Red,Chateau Lafite Rothschild
+95,Chateau Talbot,314.5,2017-01-22 08:00,2012,Bordeaux,75cl,414.20,31.70%,Le Grand Cru,350,Cuvees,410,No,96,0,Red,Chateau Talbot
+96,Chateau Angelus,4503.16,2017-01-22 08:00,2009,Bordeaux,150cl,5228.17,16.10%,Citicellar,6400,Dynamic,6270,Yes,1767,0,Red,Chateau Angelus
+97,Sena,620.5,2017-01-22 08:00,2014,Aconcagua,75cl,765.08,23.30%,Sun Chateau Group HK Limited,721,Cuvees,765,No,145,0,Red,Sena
+98,Chateau Palmer,1572.5,2017-01-22 08:00,1985,Bordeaux,75cl,1860.27,18.30%,Y18 Elegant Spirits Ltd.,1830,Cuvees,1860,No,288,0,Red,Chateau Palmer
+99,VILLARS,109,2017-01-22 08:00,2010,Bordeaux,75cl,179.85,65.00%,Y18 Elegant Spirits Ltd.,163,Cuvees,180,No,71,0,Red,VILLARS
+100,LEOVILLE LAS CASES CLOS DU MARQUIS,480,2017-01-22 08:00,1999,Bordeaux,75cl,612.00,27.50%,Y18 Elegant Spirits Ltd.,405,Cuvees,610,No,130,0,Red,LEOVILLE LAS CASES
+101,OPUS ONE,2500,2017-01-22 08:00,1997,Napa,75cl,2925.00,17.00%,Vintage Grand Cru,2430,Cuvees,2925,No,425,0,Red,OPUS ONE
+102,SASSICAIA,2000,2017-01-22 08:00,2001,Tuscany,75cl,2350.00,17.50%,Y18 Elegant Spirits Ltd.,1794,Cuvees,2350,No,350,0,Red,SASSICAIA
+103,Chateau Pichon Lalande,1218.07,2017-01-22 08:00,2000,Bordeaux,75cl,1451.94,19.20%,Riepenau Fine & Rare,1680,Dynamic,1645,Yes,427,0,Red,Chateau Pichon Lalande
+104,GRAND PUY LACOSTE,395,2017-01-22 08:00,2012,Bordeaux,75cl,520.22,31.70%,Chateau Bordeaux,368,Cuvees,520,No,125,0,Red,GRAND PUY LACOSTE
+105,Chateau Lafite Rothschild,12749.05,2017-01-22 08:00,1996,Bordeaux,75cl,14725.15,15.50%,"Sotheby's Wine Hong Kong, Auction",5833.33,Dynamic,14725,No,1976,0,Red,Chateau Lafite Rothschild
+106,Chateau Lynch Bages,1276.74,2017-01-22 08:00,2005,Bordeaux,75cl,1521.87,19.20%,iDealwine Hong Kong,868.97,Dynamic,1520,No,243,0,Red,Chateau Lynch Bages
+107,Chateau Lafite Rothschild,12932.99,2017-01-22 08:00,2003,Bordeaux,75cl,14937.60,15.50%,"Sotheby's Wine Hong Kong, Auction",5000,Dynamic,14938,No,2005,0,Red,Chateau Lafite Rothschild
+108,RIDGE MONTE BELLO,2486,2017-01-22 08:00,1996,Cupertino,75cl,2911.11,17.10%,The Fine Wine Experience,1600,Cuvees,2910,No,424,0,Red,RIDGE
+109,Chateau Lynch Bages,998.79,2017-01-22 08:00,2006,Bordeaux,75cl,1204.54,20.60%,Metropolitan Wine Cellar Limited,558,Dynamic,1205,No,206,0,Red,Chateau Lynch Bages
+110,Latour,5880,2017-01-22 08:00,2003,Bordeaux,75cl,6967.80,18.50%,Con Vino,5800,No Name,6968,No,1088,0,,
+111,Chateau Rauzan Segla,790.5,2017-01-22 08:00,1995,Bordeaux,75cl,965.20,22.10%,The Fine Wine Experience,650,Cuvees,965,No,175,0,Red,Chateau Rauzan Segla
+112,Chateau Lafite Rothschild,12606.81,2017-01-22 08:00,2008,Bordeaux,75cl,14560.87,15.50%,"Sotheby's Wine Hong Kong, Auction",5000,Dynamic,14560,No,1953,0,Red,Chateau Lafite Rothschild
+113,CALON SEGUR,920,2017-01-22 08:00,1996,Bordeaux,75cl,1109.52,20.60%,iDealwine Hong Kong,496.55,Cuvees,1110,No,190,0,Red,CALON SEGUR
+114,Chateau Lafite Rothschild,8600.59,2017-01-22 08:00,1999,Bordeaux,75cl,9942.28,15.60%,Grand Cru Cellar Intl Ltd Wholesale,4930,Dynamic,9940,No,1339,0,Red,Chateau Lafite Rothschild
+115,Le Pin,12568.7,2017-01-22 08:00,1997,Bordeaux,75cl,14516.85,15.50%,Dave Fung Vintners,14500,Dynamic,14515,No,1946,0,Red,Chateau Le Pin
+116,OPUS ONE,2250,2017-01-22 08:00,2007,Napa,75cl,2639.25,17.30%,Dave Fung Vintners,2500,Cuvees,2638,No,388,0,Red,OPUS ONE
+117,Chateau Mouton Rothschild,15255.17,2017-01-22 08:00,2009,Bordeaux,150cl,17619.72,15.50%,Y18 Elegant Spirits Ltd.,15347,Dynamic,17620,No,2365,0,Red,Chateau Mouton Rothschild
+118,Aile d'Argent Blanc du Chateau Mouton Rothschild,425,2017-01-22 08:00,2014,Bordeaux,75cl,541.88,27.50%,Chateau Bordeaux,478,Cuvees,540,No,115,0,White,Chateau Mouton Rothschild
+119,Chateau Lafite Rothschild,7600,2017-01-22 08:00,1985,Bordeaux,75cl,8793.20,15.70%,Y18 Elegant Spirits Ltd.,4363,Dynamic,8790,No,1190,0,Red,Chateau Lafite Rothschild
+120,Chateau Lafite Rothschild,11667.02,2017-01-22 08:00,2005,Bordeaux,75cl,13475.41,15.50%,"Sotheby's Wine Hong Kong, Auction",4583.33,Dynamic,13475,No,1808,0,Red,Chateau Lafite Rothschild
+121,GRAND PUY LACOSTE,395,2017-01-22 08:00,2007,Bordeaux,75cl,520.22,31.70%,Conti Int'l HK Trading Co Ltd.,345,Cuvees,520,No,125,0,Red,GRAND PUY LACOSTE
+122,Chateau Lafite Rothschild,27167.28,2017-01-22 08:00,2009,Bordeaux,150cl,31323.87,15.30%,Y18 Elegant Spirits Ltd.,17600,Dynamic,31320,No,4153,0,Red,Chateau Lafite Rothschild
+123,Antinori Solaia,1105,2017-01-22 08:00,2013,Tuscany,75cl,1320.48,19.50%,Hong Kong Wine Vault,1400,Cuvees,1370,Yes,265,0,Red,Antinori
+124,GRAND PUY LACOSTE,470,2017-01-22 08:00,2006,Bordeaux,75cl,599.25,27.50%,SYBA China Ltd.,410,Cuvees,598,No,128,0,Red,GRAND PUY LACOSTE
+125,HAUT BAGES LIBERAL,320,2017-01-22 08:00,2008,Bordeaux,75cl,421.44,31.70%,Grand Cru Cellar Intl Ltd Wholesale,300,Cuvees,420,No,100,0,Red,HAUT BAGES LIBERAL
+126,SASSICAIA,1760,2017-01-22 08:00,2007,Tuscany,75cl,2075.04,17.90%,Hong Kong Wine Vault,1440,Cuvees,2075,No,315,0,Red,SASSICAIA
+127,Le Pin,24832.09,2017-01-22 08:00,1998,Bordeaux,75cl,28631.40,15.30%,Ginsberg+Chan Wine Merchants Asia,24500,Dynamic,28630,No,3798,0,Red,Chateau Le Pin
+128,TUA RITA SYRAH,780,2017-01-22 08:00,2008,Tuscany,75cl,952.38,22.10%,Cuvees.com,1553,Cuvees,1520,Yes,740,0,Red,TUA RITA
+129,SASSICAIA,1104,2017-01-22 08:00,2013,Tuscany,75cl,1319.28,19.50%,City Noble Xtrawine HK Conti Int'l HK Trading Co Ltd.,999,Cuvees,1318,No,214,0,Red,SASSICAIA
+130,CHARMAIL,174,2017-01-22 08:00,2007,Bordeaux,75cl,287.10,65.00%,Red Wine Cellar Ltd.,195,Cuvees,285,No,111,0,Red,CHARMAIL
+131,Chateau Rauzan Segla,833,2017-01-22 08:00,2000,Bordeaux,75cl,1010.43,21.30%,Red Wine Cellar Ltd.,948,Cuvees,1010,No,177,0,Red,Chateau Rauzan Segla
+132,OPUS ONE,5220,2017-01-22 08:00,2008,Napa,150cl,6055.20,16.00%,"Sotheby's Wine Hong Kong, Retail",4800,Cuvees,6055,No,835,0,Red,OPUS ONE
+133,SCARECROW M. ETAIN CABERNET SAUVIGNON,1100,2017-01-22 08:00,2009,Napa,75cl,1314.50,19.50%,Ginsberg+Chan Wine Merchants Asia,1950,Cuvees,1910,Yes,810,0,Red,SCARECROW

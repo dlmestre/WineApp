@@ -1,0 +1,104 @@
+,Unnamed: 0,item id,wine,wine chinese,growth,type english,type chinese,vendor english,vendor chinese,region english,region chinese,country english,country chinese,rating,year,format,price,qty,negoce
+0,0,CFW00032-1996-00750,Chateau Lascombes,力士金,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,1996,750ml,750.0,1,Cuvees
+1,1,CFW00050-2007-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,750ml,599.0,1,Cuvees
+2,2,CFW00658-2004-00750,Sassicaia,西施佳雅,,Red,紅酒,Tenuta San Guido,圣圭托酒庄,Tuscany,托斯卡納,Italy,意大利,,2004,750ml,1830.0,1,Cuvees
+3,3,CFW00658-2007-00750,Sassicaia,西施佳雅,,Red,紅酒,Tenuta San Guido,圣圭托酒庄,Tuscany,托斯卡納,Italy,意大利,,2007,750ml,1760.0,1,Cuvees
+4,4,CFW00648-2007-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2007,750ml,1585.0,1,Cuvees
+5,5,CFW01960-2008-00750,Tua Rita Syrah,,,Red,紅酒,Tua Rita,,Tuscany,托斯卡納,Italy,意大利,,2008,750ml,780.0,1,Cuvees
+6,6,CFW00017-1995-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,1995,750ml,790.5,1,Cuvees
+7,7,CFW00708-2008-01500,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2008,1500ml,5220.0,2,Cuvees
+8,8,CFW00708-2009-01500,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2009,1500ml,5400.0,2,Cuvees
+9,9,CFW00114-1995-00750,Chateau Beychevelle,龍船,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Beychevelle,龍船酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1995,750ml,990.0,2,Cuvees
+10,10,CFW00162-2008-00750,Chateau Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,229.0,2,Cuvees
+11,11,CFW00708-2007-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2007,750ml,2250.0,2,Cuvees
+12,12,CFW00708-2005-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2005,750ml,2500.0,2,Cuvees
+13,13,CFW00220-2006-00750,Chateau Pavie,帕菲正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Pavie,帕菲,"St. Emilion, Bordeaux",波爾多,France,法國,,2006,750ml,1623.0,2,Cuvees
+14,14,CFW00159-2008-00750,Chateau Clerc Milon,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Baron Philippe de Rothschild,,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,560.0,3,Cuvees
+15,15,CFW00309-2001-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2001,750ml,755.0,3,Cuvees
+16,16,CFW00130-2007-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2007,750ml,395.0,3,Cuvees
+17,17,CFW00078-2008-00750,Chateau Palmer,宝马正牌,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Palmer,宝马,"Margaux, Bordeaux",波爾多,France,法國,,2008,750ml,1525.0,3,Cuvees
+18,18,CFW00708-1997-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,1997,750ml,2500.0,3,Cuvees
+19,19,CFW01496-1999-00750,Pommery Cuvee Louise,,,Champagne,香槟,Pommery,,Champagne,香槟,France,法國,,1999,750ml,597.0,3,Cuvees
+20,20,CFW00098-2008-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2008,750ml,440.0,4,Cuvees
+21,21,CFW00130-2012-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,395.0,5,Cuvees
+22,22,CFW00126-2008-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,798.0,5,Cuvees
+23,23,CFW01482-2004-00750,Dom Perignon Jeff Koons,,,Champagne,香槟,Dom Perignon,,Champagne,香槟,France,法國,,2004,750ml,1125.0,5,Cuvees
+24,24,CFW01497-2008-00750,Ruinart Blanc De Blanc,,,Champagne,香槟,Ruinart,,Champagne,香槟,France,法國,,2008,750ml,443.0,5,Cuvees
+25,25,CFW00128-2007-00750,Chateau Batailley,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Batailley,,"Pauillac, Bordeaux",波爾多,France,法國,,2007,750ml,330.0,5,Cuvees
+26,26,CFW00014-1996-01500,Chateau Mouton Rothschild,武當正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Baron Philippe de Rothschild,武當酒莊 －罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,1996,1500ml,8150.0,5,Cuvees
+27,27,CFW00710-1999-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,1999,750ml,1165.0,6,Cuvees
+28,28,CFW00710-2001-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,2001,750ml,1959.0,6,Cuvees
+29,29,CFW01505-2004-00750,Veuve Clicquot Ponsardin La Grande Dame,,,Champagne,香槟,Veuve Clicquot Ponsardin,,Champagne,香槟,France,法國,,2004,750ml,790.0,6,Cuvees
+30,30,CFW00070-2006-00750,Chateau Boyd Cantenac,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Boyd Cantenac,,"Margaux, Bordeaux",波爾多,France,法國,,2006,750ml,252.3,6,Cuvees
+31,31,CFW00098-2012-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,314.5,7,Cuvees
+32,32,CFW00128-2008-00750,Chateau Batailley,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Batailley,,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,320.0,8,Cuvees
+33,33,CFW01485-2002-00750,Dom Perignon Silver,,,Champagne,香槟,Dom Perignon,,Champagne,香槟,France,法國,,2002,750ml,1295.0,8,Cuvees
+34,34,CFW00251-2008-00750,Chateau Dassault,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Dassault,,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,295.0,9,Cuvees
+35,35,CFW00838-2008-00750,Chateau Fourcas Borie,,,Red,紅酒,Chateau Fourcas Borie,,Bordeaux,波爾多,France,法國,,2008,750ml,110.0,9,Cuvees
+36,36,CFW00017-2000-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2000,750ml,833.0,9,Cuvees
+37,37,CFW00087-2002-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2002,750ml,646.0,10,Cuvees
+38,38,CFW00078-1985-00750,Chateau Palmer,宝马正牌,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Palmer,宝马,"Margaux, Bordeaux",波爾多,France,法國,,1985,750ml,1572.5,10,Cuvees
+39,39,CFW00710-2012-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,2012,750ml,1014.0,10,Cuvees
+40,40,CFW00114-2008-00750,Chateau Beychevelle,龍船,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Beychevelle,龍船酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2008,750ml,817.0,11,Cuvees
+41,41,CFW02030-2011-00750,Chateau Grillet,,,Red,紅酒,Chateau Grillet,,Rhone,羅納,France,法國,,2011,750ml,1720.0,11,Cuvees
+42,42,CFW00145-2008-00750,Chateau Haut Bages Liberal,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Haut Bages Liberal,,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,320.0,11,Cuvees
+43,43,CFW00078-1998-00750,Chateau Palmer,宝马正牌,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Palmer,宝马,"Margaux, Bordeaux",波爾多,France,法國,,1998,750ml,1742.5,11,Cuvees
+44,44,CFW00043-1997-00750,Chateau Ducru Beaucaillou,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Ducru Beaucaillou,宝嘉龙酒庄,"St. Julien, Bordeaux",波爾多,France,法國,,1997,750ml,833.0,12,Cuvees
+45,45,CFW02030-2012-00750,Chateau Grillet,,,Red,紅酒,Chateau Grillet,,Rhone,羅納,France,法國,,2012,750ml,1830.0,12,Cuvees
+46,46,CFW01600-2016-00750,Chateau La Vieille Cure,,,Red,紅酒,Chateau La Vieille Cure,,"Fronsac, Bordeaux",波爾多,France,法國,,2016,750ml,100.0,12,Cuvees
+47,47,CFW02118-2004-00750,Chateau Musar,,,Red,紅酒,Chateau Musar,,Bordeaux,波爾多,Lebanon,黎巴嫩,,2004,750ml,196.0,12,Cuvees
+48,48,CFW01772-2013-00750,Egon Muller Scharzhof Riesling,,,White,白酒,Egon Muller,,Mosel,摩澤爾,Germany,德國,,2013,750ml,315.0,12,Cuvees
+49,49,CFW00710-1996-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,1996,750ml,2486.0,12,Cuvees
+50,50,CFW00710-2009-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,2009,750ml,1560.0,12,Cuvees
+51,51,CFW00658-2013-00750,Sassicaia,西施佳雅,,Red,紅酒,Tenuta San Guido,圣圭托酒庄,Tuscany,托斯卡納,Italy,意大利,,2013,750ml,1104.0,12,Cuvees
+52,52,CFW00648-2013-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2013,750ml,1105.0,12,Cuvees
+53,53,CFW00064-2012-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,313.2,12,Cuvees
+54,54,CFW00401-2014-00375,Chateau du Glana,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Glana,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,375ml,62.5,12,Cuvees
+55,55,CFW00058-2012-00375,Moulin d'Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2012,375ml,32.6,12,Cuvees
+56,56,CFW00058-2014-00750,Moulin d'Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,60.9,12,Cuvees
+57,57,CFW00323-2006-00750,Chateau Trotanoy,,,Red,紅酒,Chateau Trotanoy,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2006,750ml,1087.5,12,Cuvees
+58,58,CFW00032-2014-00750,Chateau Lascombes,力士金,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,750ml,439.0,12,Cuvees
+59,59,CFW01959-2008-00750,Tua Rita Lodano,,,Red,紅酒,Tua Rita,,Tuscany,托斯卡納,Italy,意大利,,2008,750ml,161.0,13,Cuvees
+60,60,CFW02103-2012-00750,Chateau Marjosse Rouge,,,Red,紅酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2012,750ml,52.2,15,Cuvees
+61,61,CFW00208-2008-00750,Chateau Pape Clement Blanc,,Graves,White,白酒,Chateau Pape Clement,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2008,750ml,1250.0,16,Cuvees
+62,62,CFW00017-2007-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2007,750ml,436.0,22,Cuvees
+63,63,CFW00226-2009-00750,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2009,750ml,1622.0,23,Cuvees
+64,64,CFW00710-2011-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,2011,750ml,1014.0,23,Cuvees
+65,65,CFW00130-2013-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2013,750ml,265.2,23,Cuvees
+66,66,CFW00138-2009-00750,Chateau Dauzac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Dauzac,,"Margaux, Bordeaux",波爾多,France,法國,,2009,750ml,297.5,24,Cuvees
+67,67,CFW00138-2013-00750,Chateau Dauzac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Dauzac,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,178.5,24,Cuvees
+68,68,CFW00640-2014-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,750ml,620.5,24,Cuvees
+69,69,CFW00142-2014-00750,Chateau d’Armailhac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Baron Philippe de Rothschild,,"Pauillac, Bordeaux",波爾多,France,法國,,2014,750ml,258.0,24,Cuvees
+70,70,CFW00051-2011-00750,La Dame de Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,196.1,24,Cuvees
+71,71,CFW00022-2011-00750,Petit Lion du Marquis de Las Cases,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,249.4,24,Cuvees
+72,72,CFW00182-2014-00750,Chateau de Fieuzal Rouge,,Graves,Red,紅酒,Chateau de Fieuzal,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,180.6,24,Cuvees
+73,73,CFW00078-2001-00750,Chateau Palmer,宝马正牌,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Palmer,宝马,"Margaux, Bordeaux",波爾多,France,法國,,2001,750ml,1522.5,24,Cuvees
+74,74,CFW00721-2004-00750,Dom Perignon,唐培里侬香槟王,,Champagne,香檳,Dom Perignon,唐培里侬,Champagne,香檳,France,法國,,2004,750ml,932.0,28,Cuvees
+75,75,CFW00711-2009-00750,Dominus,多米纳斯,,Red,紅酒,Dominus,多米纳斯酒庄,Napa,納帕,USA,美國,,2009,750ml,1170.0,30,Cuvees
+76,76,CFW00020-2006-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2006,750ml,1385.0,35,Cuvees
+77,77,CFW00710-2000-00750,Ridge Monte Bello,山脊庄园丽山葡萄园干红,,Red,紅酒,Ridge,山脊庄园,Cupertino,庫比蒂諾,USA,美國,,2000,750ml,1170.0,35,Cuvees
+78,78,CFW00978-2011-00750,Chateau Reynon Rouge,,,Red,紅酒,Chateau Reynon,,Bordeaux,波爾多,France,法國,,2011,750ml,83.0,35,Cuvees
+79,79,CFW00182-2010-00750,Chateau de Fieuzal Rouge,,Graves,Red,紅酒,Chateau de Fieuzal,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2010,750ml,287.1,36,Cuvees
+80,80,CFW00032-2011-00750,Chateau Lascombes,力士金,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2011,750ml,445.0,44,Cuvees
+81,81,CFW00385-2011-00750,Chateau Charmail,,Cru Bourgeois Superieur,Red,紅酒,Chateau Charmail,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,100.0,48,Cuvees
+82,82,CFW00595-2011-00750,Chateau Tour Saint Bonnet,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Bonnet,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,59.2,48,Cuvees
+83,83,CFW00642-2012-00750,Clos Apalta,,,Red,紅酒,Lapostolle,,Colchagua,空加瓜谷,Chile,智利,,2012,750ml,426.4,56,Cuvees
+84,84,CFW00017-2000-00375,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2000,375ml,487.2,58,Cuvees
+85,85,CFW02143-2012-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2012,750ml,161.3,60,Cuvees
+86,86,CFW00205-2013-00750,La Chapelle de La Mission Haut Brion,,Graves,Red,紅酒,Domaine Clarence Dillon,,"Graves, Bordeaux",波爾多,France,法國,,2013,750ml,292.4,60,Cuvees
+87,87,CFW00205-2014-00750,La Chapelle de La Mission Haut Brion,,Graves,Red,紅酒,Domaine Clarence Dillon,,"Graves, Bordeaux",波爾多,France,法國,,2014,750ml,344.0,60,Cuvees
+88,88,CFW02165-2010-00750,Chateau Villars,,,Red,紅酒,Chateau Villars,,Bordeaux,波爾多,France,法國,,2010,750ml,109.0,85,Cuvees
+89,89,CFW00174-2012-00750,Chateau Carbonnieux Blanc,,Graves,White,白酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2012,750ml,171.0,88,Cuvees
+90,90,CFW00280-2013-00750,Chateau Monbousquet Rouge,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Monbousquet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,220.6,95,Cuvees
+91,91,CFW00941-2012-00750,Chateau Marjosse Blanc,,,White,白酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2012,750ml,71.0,108,Cuvees
+92,92,CFW00033-2011-00750,Chevalier de Lascombes,力士金副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2011,750ml,183.2,120,Cuvees
+93,93,CFW00098-2011-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,365.4,129,Cuvees
+94,94,CFW00416-2014-00750,Chateau Lilian Ladouys,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lilian Ladouys,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,122.4,132,Cuvees
+95,95,CFW00385-2007-00750,Chateau Charmail,,Cru Bourgeois Superieur,Red,紅酒,Chateau Charmail,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,174.0,136,Cuvees
+96,96,CFW00099-2011-00750,Connetable Talbot,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,224.0,215,Cuvees
+97,97,CFW00979-2010-00750,Chateau Reynon Clos de Reynon,,,Red,紅酒,Chateau Reynon Clos de Reynon,,Bordeaux,波爾多,France,法國,,2010,750ml,45.0,232,Cuvees
+98,98,CFW00645-2010-00750,Gaja Sperss,嘉雅思波斯园巴罗洛干红,,Red,紅酒,Gaja,嘉雅,Piedmont,皮埃蒙特,Italy,意大利,,2010,750ml,1140.0,12,Cuvees
+99,99,CFW01824-2011-00750,Gaja Sori San Lorenzo,,,Red,紅酒,Gaja,,Piedmont,,Italy,意大利,,2011,750ml,2117.0,14,Cuvees
+100,100,CFW01825-2011-00750,Gaja Sori Tildin,,,Red,紅酒,Gaja,,Piedmont,,Italy,意大利,,2011,750ml,2114.0,14,Cuvees
+101,101,CFW00643-2013-00750,Gaja Barbaresco,嘉雅巴巴莱斯科干红,,Red,紅酒,Gaja,嘉雅,Piedmont,皮埃蒙特,Italy,意大利,,2013,750ml,1040.0,2,Cuvees
+102,102,CFW00643-2013-00750,Gaja Barbaresco,嘉雅巴巴莱斯科干红,,Red,紅酒,Gaja,嘉雅,Piedmont,皮埃蒙特,Italy,意大利,,2013,750ml,1040.0,2,Cuvees

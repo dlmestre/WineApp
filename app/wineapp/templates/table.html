@@ -1,0 +1,65 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+<div class="downloadbutton"><a href="/download">Download</a></div>
+<div class="winetable3">
+<table class="table2 table table-striped databaseclass">
+  <thead>
+    <tr>
+      <th>Wine</th>
+      <th>Cost</th>
+      <th>Date</th>
+      <th>Vintage</th>
+      <th>Region</th>
+      <th>Format</th>
+      <th>Markup Price</th>
+      <th>Markup (%)</th>
+      <th>Merchants</th>
+      <th>WS Price</th>
+      <th>Negoce File</th>
+      <th>Recommended Selling Price</th>
+      <th>Sell</th>
+      <th>Margin</th>
+      <th>Quantity</th>
+      <th>Type</th>
+      <th>Vendor</th>
+    <tr>
+  </thead>
+  <tbody>
+  {%if error %}
+    {{error}}
+  {% else %}
+    {% for wine,price,date,year,region,format,markup,percentile,merchant,wsprice,negoce,recommended,sell,margin,quantity,a_type,vendor in values %}
+    <tr>
+      <td>{{wine}}</td><td>{{price}}</td><td>{{date}}</td><td>{{year}}</td><td>{{region}}</td>
+      <td>{{format}}</td><td>{{markup}}</td><td>{{percentile}}</td><td>{{merchant}}</td>
+      <td>{{wsprice}}</td><td>{{negoce}}</td><td>{{recommended}}</td><td>{{sell}}</td>
+      <td>{{margin}}</td><td>{{quantity}}</td><td>{{a_type}}</td><td>{{vendor}}</td>
+    </tr>
+    {% endfor %}
+  {% endif %}
+  </tbody>
+</table>
+</div>
+{% if error %}
+  <p>Please load a csv file</p>
+
+{% endif %}
+
+<div id="output"></div>
+
+<div class="winetable3 selectorAjax"></div>
+
+<!-- <script type="text/javascript">
+makeAllSortable2();
+</script> -->
+
+
+<script type="text/javascript">
+$(function(){
+  $('.table2').tablesorter(); 
+});
+</script>
+
+{% endblock %}

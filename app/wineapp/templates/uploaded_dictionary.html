@@ -1,0 +1,65 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+
+<h3>Dictionary</h3>
+</br>
+<div id="downloadtable"></div>
+
+<div class="winetable3">
+<table class="table2 table table-striped dictionarycss">
+  <thead>
+    <tr>
+      <th>Item ID</th>
+      <th>Wine (English)</th>
+      <th>Wine (Chinese)</th>
+      <th>Vintage</th>
+      <th>Country (English)</th>
+      <th>Country (Chinese)</th>
+      <th>Vendor (English)</th>
+      <th>Vendor (Chinese)</th>
+      <th>Region (English)</th>
+      <th>Region (Chinese)</th>
+      <th>Type (English)</th>
+      <th>Type (Chinese)</th>
+      <th>Ratings</th>
+      <th>Growth</th>
+    <tr>
+  </thead>
+  <tbody>
+  {%if error %}
+    {{error}}
+  {% else %}
+
+    {% for Item, Rating, TypeEnglish, WineEnglish, Vintage, CountryEnglish,WineChinese,RegionEnglish, Growth, TypeChinese,RegionChinese,VendorChinese,CountryChinese,VendorEnglish in Results %}
+    <tr><td>{{Item}}</td><td>{{WineEnglish}}</td><td>{{WineChinese}}</td><td>{{Vintage}}</td><td>{{CountryEnglish}}</td><td>{{CountryChinese}}</td>
+    <td>{{VendorEnglish}}</td><td>{{VendorChinese}}</td><td>{{RegionEnglish}}</td><td>{{RegionChinese}}</td><td>{{TypeEnglish}}</td>
+    <td>{{TypeChinese}}</td><td>{{Rating}}</td><td>{{Growth}}</td></tr>
+    {% endfor %}
+  {% endif %}
+  </tbody>
+</table>
+</div>
+{% if error %}
+  <p>Please load a csv file</p>
+{% else %}
+{% endif %}
+
+<div id="output"></div>
+
+<div class="winetable3 selectorAjax"></div>
+
+
+<!-- <script type="text/javascript">
+makeAllSortable2();
+</script> -->
+
+
+<script type="text/javascript">
+$(function(){
+  $('.table2').tablesorter(); 
+});
+</script>
+
+{% endblock %}

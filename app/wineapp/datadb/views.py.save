@@ -1,0 +1,159 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.contrib.auth.decorators import login_required
+from django.template import RequestContext
+from django.shortcuts import render_to_response
+from .forms import UploadFileForm, handle_uploaded_file,chuncks
+import logging
+import sys,json,ast,time
+from apiAccess import openAPI,Main
+from wineClass import handleNegoceFile
+# Create your views here. apiAccess
+#handleNegoceFile:
+#    def __init__(self,path,production_env,location='/home/ubuntu/app/data/',negoces=negoces_dictionary):
+
+logging.basicConfig(filename="logfile.txt")
+stderrLogger = logging.StreamHandler()
+stderrLogger.setFormatter(logging.Formatter(logging.BASIC_FORMAT))
+logging.getLogger().addHandler(stderrLogger)
+
+def home(request):
+    return render(request,'home.html')
+
+@login_required
+def logged_in(request):
+    #results = {}
+    if request.method == 'POST':
+        form = UploadFileForm(request.POST, request.FILES)
+        if form.is_valid():
+            #msg = handle_uploaded_file(request.FILES['file'])
+            #msg = handle_uploaded_file(request.FILES['django_file'])
+            
+            if "wines" in msg.keys() and "prices" in msg.keys() and "years" in msg.keys():
+                Wines = msg["wines"]
+                Prices = msg["prices"]
+                Years = msg["years"]
+                Regions = msg["regions"]
+                Formats = msg["formats"]
+                PricesMarkup = msg["markup prices"]
+                Percentiles = msg["percentiles"]
+                Negoces = msg["negoces"]
+                error = None
+            else:
+                Wines = None
+                Prices = None
+                Years = None
+                Regions = None
+                error = msg["error"]
+            if Wines and Prices and Years:
+                results = zip(Wines,Prices,Years,Regions,Formats,PricesMarkup,Percentiles,Negoces)
+            else:
+                results = None
+            return render(request,'upload.html', {"Results":results,"error":error})
+    #        return HttpResponse(json.dumps(results),content_type="application/json")
+        else:
+            form = UploadFileForm()
+            form.fields["file"].widget.attrs = {"class":"custom-file-input"}
+    else:
+        form = UploadFileForm()
+        form.fields["file"].widget.attrs = {"class":"custom-file-input"}
+    print "logged"
+    form = UploadFileForm()
+    form.fields["file"].widget.attrs = {"class":"custom-file-input"}
+    return render(request, 'logged_in.html', {'form': form})
+
+def upload(request):
+    return render(request,'upload.html')
+
+@login_required
+def wine(request):
+    values = None
+    wine = "wine"
+    year = "year"
+    msg = None
+    if request.method == "POST":
+        wine = request.POST.get('wine')
+        year = request.POST.get('year')   
+        obj_wine = openAPI(year,"A",wine)
+        merchants, prices, bottles, links = obj_wine.apiData()
+        if len(merchants) == 0:
+            wine = "wine"
+            year = "year"
+        else:
+            msg = "data"
+            values = zip(merchants,prices,bottles,links)
+        return render(request,'wine.html',{"values":values,"wine":wine,"year":year,"msg":msg})
+    return render(request,'wine.html',{"values":values,"wine":wine,"year":year,"msg":msg})
+
+def results(request):
+    if request.method == 'POST':
+        query_var = request.POST.get("django_file")
+        results = ast.literal_eval(query_var)
+        mode = "A"
+        sender = {}
+        dictionary_wines = {}
+        wines = []
+        prices = []
+        years = []
+        regions = []        
+        formats = []
+        markups = []
+        percentiles = []
+        negoces = []
+
+        bigList = []
+
+        for wine,price,year,region,format,markup,percentile,negoce in results:
+            wines.append(wine)
+            prices.append(price)
+            years.append(year)
+            regions.append(region)
+            formats.append(format)
+            markups.append(markup)
+            percentiles.append(percentile)
+            negoces.append(negoce)
+
+        sender["wines"] = wines
+        sender["years"] = years
+        sender["prices"] = prices
+        sender["regions"] = regions
+        sender["formats"] = formats
+        sender["markups"] = markups     
+        sender["percentiles"] = percentiles
+        sender["negoces"] = negoces
+
+        dictionary = Main(sender)
+ 
+        print dictionary
+
+        for each_result in dictionary:
+            dic = {}
+            dic["Wines"] = dictionary[each_result]["wine"]
+            dic["Prices"] = dictionary[each_result]["price"]
+            dic["Years"] = dictionary[each_result]["year"]
+            dic["Regions"] = dictionary[each_result]["region"]
+            dic["Formats"] = dictionary[each_result]["format"]
+            dic["Merchants"] = dictionary[each_result]["merchants"]
+            dic["PricesMin"] = dictionary[each_result]["pricesmin"]
+            dic["Bottles"] = dictionary[each_result]["bottles"]
+            dic["Links"] = dictionary[each_result]["links"] 
+            dic["Markups"] = dictionary[each_result]["markup"]
+            dic["Percentiles"] = dictionary[each_result]["percentile"] 
+            dic["Recommended"] = dictionary[each_result]["recommended"] #["recommended"]
+            dic["Sell"] = dictionary[each_result]["sell"]
+            dic["Margin"] = dictionary[each_result]["margin"]
+            bigList.append(dic) 
+        FinalDictionary = {}
+        
+        FinalDictionary["Raw"] = results
+        FinalDictionary["Result"] = bigList
+        FinalDictionary["Wines"] = wines
+        FinalDictionary["Prices"] = prices
+        FinalDictionary["Years"] = years
+        FinalDictionary["Regions"] = regions
+        FinalDictionary["Formats"] = formats
+        FinalDictionary["Markups"] = markups
+        FinalDictionary["Percentiles"] = percentiles
+        FinalDictionary["Negoces"] = negoces       
+        FinalDictionary["Dict"] = dictionary
+    return HttpResponse(json.dumps(FinalDictionary),content_type="application/json")

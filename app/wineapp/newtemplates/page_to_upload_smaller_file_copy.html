@@ -1,0 +1,50 @@
+{% extends 'pages_base.html' %}
+
+{% load staticfiles %}
+{% block header %}
+
+<link href="{% static 'css/jquery.dataTables.min.css' %}" rel="stylesheet">
+
+<link href="{% static 'new_css/forms.css' %}" rel="stylesheet"> 
+
+<script type="text/javascript" src="{% static 'js/ajax.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ajax2.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/form.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/helper_functions.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.dataTables.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tablesorter.min.js' %}"></script>
+<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>
+
+{% endblock %}
+
+
+{% block content %}
+
+<div id="querysearch">
+
+<span id=result></span>
+</p>
+
+</div>
+
+<h3>Upload DataBase</h3>
+<br>
+<form class="formmethod2" name="test2" method="post" class="formclassmethod" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div style="position:relative">
+        <a class="btn btn-primary" href='javascript:;'>
+            Choose File...
+            <input type="file" name="negocefile" style='position:absolute;z-index:2;top:0;left:0;filter: alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";opacity:0;background-color:transparent;color:transparent;width:112px;height:32px' name="file_source" size="40"  onchange='$("#upload-file-info").html($(this).val());'>
+        </a>
+        &nbsp;
+        <span class="label label-info" id="upload-file-info"></span>
+    </div>
+    <br>
+    <button type="submit" class="btn btn-primary">Upload</button>    
+</form>
+
+{{failure}}
+{{msg}}
+
+
+{% endblock %} 

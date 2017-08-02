@@ -1,0 +1,704 @@
+,Unnamed: 0,item id,wine,wine chinese,growth,type english,type chinese,vendor english,vendor chinese,region english,region chinese,country english,country chinese,rating,year,format,price,qty,negoce
+0,0,CFW01775-2011-00750,Chateau Caroline,,,Red,紅酒,Chateau Caroline,,"Moulis, Bordeaux",波爾多,France,法國,,2011,750ml,7.9,6,RCA
+1,1,CFW00494-2000-00750,Chateau Donissan,,Crus Bourgeois,Red,紅酒,Chateau Donissan,,"Listrac, Bordeaux",波爾多,France,法國,,2000,750ml,7.0,12,RCA
+2,2,CFW01602-2008-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2008,750ml,6.5,36,RCA
+3,3,CFW00566-2007-00750,Chateau Pontey,,Crus Bourgeois,Red,紅酒,Chateau Pontey,,"Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,4.9,36,RCA
+4,4,CFW01656-2012-00750,Chateau de Retout,,,Red,紅酒,Chateau de Retout,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.2,36,RCA
+5,5,CFW01789-2008-00750,La Rose Pauillac,,,Red,紅酒,La Rose Pauillac,,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,14.0,36,RCA
+6,6,CFW00466-2012-01500,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,1500ml,19.1,48,RCA
+7,7,CFW00466-2009-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,11.6,60,RCA
+8,8,CFW01762-2013-01500,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2013,1500ml,13.8,60,RCA
+9,9,CFW00302-2011-00750,Chateau Bellegrave,,,Red,紅酒,Chateau Bellegrave,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2011,750ml,5.2,78,RCA
+10,10,CFW00532-2013-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,1500ml,18.5,80,RCA
+11,11,CFW00595-2011-00750,Chateau Tour Saint Bonnet,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Bonnet,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.8,108,RCA
+12,12,CFW00263-2012-00375,Chateau Fonplegade,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fonplegade,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,375ml,15.0,120,RCA
+13,13,CFW01762-2013-00375,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2013,375ml,3.7,120,RCA
+14,14,CFW00445-2012-00375,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,375ml,7.95,120,RCA
+15,15,CFW00259-2011-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,17.5,120,RCA
+16,16,CFW00930-2010-00750,Chateau Larteau,,,Red,紅酒,Chateau Larteau,,Bordeaux,波爾多,France,法國,,2010,750ml,7.2,120,RCA
+17,17,CFW00560-2009-00750,Chateau Peyre Lebade,,Crus Bourgeois,Red,紅酒,Chateau Peyre Lebade,,"Listrac, Bordeaux",波爾多,France,法國,,2009,750ml,14.0,120,RCA
+18,18,CFW01897-2002-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2002,750ml,10.5,120,RCA
+19,19,CFW00532-2011-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,1500ml,21.0,120,RCA
+20,20,CFW00532-2008-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,1500ml,21.7,120,RCA
+21,21,CFW01017-2012-01500,Chateau Moulin des Graves,,,Red,紅酒,Chateau Moulin des Graves,,Bourg Cotes de Bordeaux,波爾多,France,法國,,2012,1500ml,7.8,120,RCA
+22,22,CFW00281-2013-00750,Chateau Moulin Du Cadet,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Moulin Du Cadet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,14.05,150,RCA
+23,23,CFW00532-2014-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,1500ml,21.0,150,RCA
+24,24,CFW00398-2014-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2014,750ml,11.8,168,RCA
+25,25,CFW00379-2007-00750,Chateau Cambon Le Pelouse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Cambon Le Pelouse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,8.8,192,RCA
+26,26,CFW01897-2007-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,750ml,10.5,216,RCA
+27,27,CFW00532-2010-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,1500ml,32.2,220,RCA
+28,28,CFW00445-2014-01500,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,1500ml,28.8,220,RCA
+29,29,CFW00445-2013-01500,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,1500ml,27.3,220,RCA
+30,30,CFW01865-2014-00750,Chateau Fonbel,,,Red,紅酒,Chateau Fonbel,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,11.0,238,RCA
+31,31,CFW01535-2015-01500,Clos de la Dame Verte,,,Red,紅酒,Clos de la Dame Verte,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,1500ml,17.0,240,RCA
+32,32,CFW00445-2011-01500,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,1500ml,31.5,240,RCA
+33,33,CFW00532-2012-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,1500ml,21.0,250,RCA
+34,34,CFW00532-2007-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,1500ml,21.0,250,RCA
+35,35,CFW00532-2006-01500,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,1500ml,23.5,250,RCA
+36,36,CFW00389-2013-01500,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,1500ml,30.3,260,RCA
+37,37,CFW00930-2008-00750,Chateau Larteau,,,Red,紅酒,Chateau Larteau,,Bordeaux,波爾多,France,法國,,2008,750ml,3.9,282,RCA
+38,38,CFW01692-2014-00750,Chateau Pavillon Beauregard,,,Red,紅酒,Chateau Pavillon Beauregard,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,11.55,300,RCA
+39,39,CFW00567-2004-00750,Chateau Pontoise Cabarrus,,Crus Bourgeois,Red,紅酒,Chateau Pontoise Cabarrus,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2004,750ml,10.5,300,RCA
+40,40,CFW00567-2000-00750,Chateau Pontoise Cabarrus,,Crus Bourgeois,Red,紅酒,Chateau Pontoise Cabarrus,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2000,750ml,12.6,300,RCA
+41,41,CFW01537-2015-01500,Agape,,,Red,紅酒,Domaine Laurent Vigneron,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,1500ml,10.3,300,RCA
+42,42,CFW00389-2011-01500,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,1500ml,29.05,300,RCA
+43,43,CFW01762-2014-01500,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2014,1500ml,14.3,300,RCA
+44,44,CFW00490-2012-00375,Chateau Devise d’Ardilley,,Crus Bourgeois,Red,紅酒,Chateau Devise d’Ardilley,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,375ml,6.05,400,RCA
+45,45,CFW00864-2002-00750,Chateau Haut Landon,,,Red,紅酒,Chateau Haut Landon,,Bordeaux,波爾多,France,法國,,2002,750ml,9.2,400,RCA
+46,46,CFW00389-2012-01500,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,1500ml,30.3,410,RCA
+47,47,CFW01897-2001-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2001,750ml,11.0,432,RCA
+48,48,CFW00490-2014-00375,Chateau Devise d’Ardilley,,Crus Bourgeois,Red,紅酒,Chateau Devise d’Ardilley,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,375ml,6.05,450,RCA
+49,49,CFW00453-2012-00375,Chateau Aney,,Crus Bourgeois,Red,紅酒,Chateau Aney,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,375ml,4.75,500,RCA
+50,50,CFW00466-2011-01500,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,1500ml,19.1,500,RCA
+51,51,CFW01645-2011-00750,Chateau Bernadotte,,,Red,紅酒,Chateau Bernadotte,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.7,516,RCA
+52,52,CFW00936-2015-00375,Chateau Les Terrasses de Bouey,,,Red,紅酒,Chateau Les Terrasses de Bouey,,Bordeaux,波爾多,France,法國,,2015,375ml,1.6,600,RCA
+53,53,CFW00466-2008-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,8.8,600,RCA
+54,54,CFW01859-2015-00750,Chateau Cap Saint George,,,Red,紅酒,Chateau Cap Saint George,,"St. Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,12.9,600,RCA
+55,55,CFW01916-2007-00750,Chateau de Come,,,Red,紅酒,Chateau de Come,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,750ml,10.5,600,RCA
+56,56,CFW01013-2013-00750,Chateau Croix Mouton,,,Red,紅酒,Jean Philippe Janoueix,,Bordeaux,波爾多,France,法國,,2013,750ml,6.1,600,RCA
+57,57,CFW00259-2007-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,750ml,18.0,600,RCA
+58,58,CFW00398-2009-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2009,750ml,12.8,600,RCA
+59,59,CFW00412-1999-00750,Chateau Lanessan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,1999,750ml,12.0,600,RCA
+60,60,CFW00532-2006-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,10.95,600,RCA
+61,61,CFW00930-2012-00750,Chateau Larteau,,,Red,紅酒,Chateau Larteau,,Bordeaux,波爾多,France,法國,,2012,750ml,5.8,600,RCA
+62,62,CFW01660-2009-00750,Chateau La Lauzette,,,Red,紅酒,Chateau La Lauzette,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,8.7,600,RCA
+63,63,CFW00281-2012-00750,Chateau Moulin Du Cadet,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Moulin Du Cadet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,15.95,600,RCA
+64,64,CFW01897-2011-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,11.0,600,RCA
+65,65,CFW00444-2012-00750,Chateau La Tour de Mons,,Cru Bourgeois Superieur,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,17.2,600,RCA
+66,66,CFW00936-2015-01500,Chateau Les Terrasses de Bouey,,,Red,紅酒,Chateau Les Terrasses de Bouey,,Bordeaux,波爾多,France,法國,,2015,1500ml,7.7,600,RCA
+67,67,CFW01859-2015-00750,Chateau Cap Saint George,,,Red,紅酒,Chateau Cap Saint George,,"St. Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,12.9,600,RCA
+68,68,CFW00466-2006-01500,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,1500ml,18.0,650,RCA
+69,69,CFW00389-2008-01500,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2008,1500ml,26.55,730,RCA
+70,70,CFW00603-2011-00750,Chateau Mont Perat Rouge,,,Red,紅酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2011,750ml,11.2,828,RCA
+71,71,CFW00535-2009-00375,Chateau La Lauzette Declercq,,Crus Bourgeois,Red,紅酒,Chateau La Lauzette Declercq,,"Listrac, Bordeaux",波爾多,France,法國,,2009,375ml,5.2,900,RCA
+72,72,CFW01831-2013-00750,Chateau La Croix Saint Vincent,,,Red,紅酒,Chateau La Croix Saint Vincent,,"Pomerol, Bordeaux",波爾多,France,法國,,2013,750ml,13.45,900,RCA
+73,73,CFW00263-2014-00750,Chateau Fonplegade,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fonplegade,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,23.0,900,RCA
+74,74,CFW00456-2012-01500,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,1500ml,20.95,900,RCA
+75,75,CFW01712-2012-00750,Marquis de Mons,,,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,12.3,948,RCA
+76,76,CFW00445-2014-00375,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,375ml,7.8,960,RCA
+77,77,CFW00445-2013-00375,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,375ml,7.4,960,RCA
+78,78,CFW00340-2014-00375,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,375ml,2.5,1000,RCA
+79,79,CFW01655-2004-00750,Chateau de Cach,,,Red,紅酒,Chateau de Cach,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2004,750ml,4.7,1000,RCA
+80,80,CFW00830-2010-00750,Chateau Fleur Haut Gaussens,,,Red,紅酒,Chateau Fleur Haut Gaussens,,Bordeaux,波爾多,France,法國,,2010,750ml,5.2,1000,RCA
+81,81,CFW01930-2011-00750,Chateau Fontaine,,,Sweet,甜酒,Chateau Fontaine,,"Sauternes, Bordeaux",波爾多,France,法國,,2011,750ml,10.05,1000,RCA
+82,82,CFW00542-2012-00750,Chateau Marsac Seguineau,,Crus Bourgeois,Red,紅酒,Chateau Marsac Seguineau,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,13.0,1000,RCA
+83,83,CFW00340-2015-01500,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,1500ml,8.4,1000,RCA
+84,84,CFW00954-2012-00750,Chateau Mont Perat Blanc,,,White,白酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2012,750ml,6.7,1020,RCA
+85,85,CFW00456-2010-00375,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,375ml,5.9,1100,RCA
+86,86,CFW00398-2008-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2008,750ml,10.95,1100,RCA
+87,87,CFW01597-2011-00750,Chateau Puygueraud,,,Red,紅酒,Chateau Puygueraud,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,8.0,1104,RCA
+88,88,CFW01557-2012-00750,Arbouse,,,Red,紅酒,Massif d'Uchaux,,"Cotes du Rhone Villages, Rhone",羅納,France,法國,,2012,750ml,3.85,1128,RCA
+89,89,CFW00300-2004-00375,Chateau Yon Figeac,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Yon Figeac,,"St. Emilion, Bordeaux",波爾多,France,法國,,2004,375ml,9.0,1170,RCA
+90,90,CFW00412-2015-00750,Chateau Lanessan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,10.5,1176,RCA
+91,91,CFW01929-2014-00375,Chateau du Haut Pick,,,Sweet,甜酒,Chateau du Haut Pick,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,375ml,5.3,1200,RCA
+92,92,CFW01926-2015-00750,Chateau Andoyse du Hayot,,,Sweet,甜酒,Chateau Andoyse du Hayot,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,750ml,10.2,1200,RCA
+93,93,CFW01926-2013-00750,Chateau Andoyse du Hayot,,,Sweet,甜酒,Chateau Andoyse du Hayot,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,10.3,1200,RCA
+94,94,CFW01926-2012-00750,Chateau Andoyse du Hayot,,,Sweet,甜酒,Chateau Andoyse du Hayot,,"Sauternes, Bordeaux",波爾多,France,法國,,2012,750ml,10.2,1200,RCA
+95,95,CFW00456-2013-00750,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.55,1200,RCA
+96,96,CFW00462-2011-00750,Chateau Beau Site Haut Vignoble,,Crus Bourgeois,Red,紅酒,Chateau Beau Site Haut Vignoble,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,11.25,1200,RCA
+97,97,CFW00466-2012-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,9.7,1200,RCA
+98,98,CFW00786-2013-00750,Chateau de Bellegarde,,,Red,紅酒,Chateau de Bellegarde,,Bordeaux,波爾多,France,法國,,2013,750ml,11.45,1200,RCA
+99,99,CFW01655-2014-00750,Chateau de Cach,,,Red,紅酒,Chateau de Cach,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.0,1200,RCA
+100,100,CFW01843-2014-00750,Chateau La Croix Teynac,,,Red,紅酒,Chateau La Croix Teynac,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,5.95,1200,RCA
+101,101,CFW00398-2013-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2013,750ml,9.75,1200,RCA
+102,102,CFW00254-2011-00750,Chateau Faugeres,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Faugeres,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,12.8,1200,RCA
+103,103,CFW01834-2014-00750,Chateau Lafleur du Roy,,,Red,紅酒,Chateau Lafleur du Roy,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,17.8,1200,RCA
+104,104,CFW00864-2014-00750,Chateau Haut Landon,,,Red,紅酒,Chateau Haut Landon,,Bordeaux,波爾多,France,法國,,2014,750ml,9.0,1200,RCA
+105,105,CFW01884-2014-00750,Chateau Marquis de Bellefont,,,Red,紅酒,Chateau Marquis de Bellefont,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,11.55,1200,RCA
+106,106,CFW01884-2013-00750,Chateau Marquis de Bellefont,,,Red,紅酒,Chateau Marquis de Bellefont,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,11.55,1200,RCA
+107,107,CFW01551-2014-00750,Chateau Martinat,,,Red,紅酒,Chateau Martinat,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2014,750ml,7.2,1200,RCA
+108,108,CFW00603-2012-00750,Chateau Mont Perat Rouge,,,Red,紅酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2012,750ml,9.8,1200,RCA
+109,109,CFW01602-2014-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2014,750ml,15.3,1200,RCA
+110,110,CFW01602-2010-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2010,750ml,19.05,1200,RCA
+111,111,CFW01602-2004-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2004,750ml,14.05,1200,RCA
+112,112,CFW01604-2014-00750,Chateau Moulin Haut Villars,,,Red,紅酒,Chateau Moulin Haut Villars,,"Fronsac, Bordeaux",波爾多,France,法國,,2014,750ml,6.05,1200,RCA
+113,113,CFW01604-2012-00750,Chateau Moulin Haut Villars,,,Red,紅酒,Chateau Moulin Haut Villars,,"Fronsac, Bordeaux",波爾多,France,法國,,2012,750ml,6.0,1200,RCA
+114,114,CFW01604-2011-00750,Chateau Moulin Haut Villars,,,Red,紅酒,Chateau Moulin Haut Villars,,"Fronsac, Bordeaux",波爾多,France,法國,,2011,750ml,6.05,1200,RCA
+115,115,CFW00558-2001-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2001,750ml,12.2,1200,RCA
+116,116,CFW00364-2007-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,17.0,1200,RCA
+117,117,CFW01836-2012-00750,Chateau Prieurs de la Commanderie,,,Red,紅酒,Chateau Prieurs de la Commanderie,,"Pomerol, Bordeaux",波爾多,France,法國,,2012,750ml,16.55,1200,RCA
+118,118,CFW01656-2014-00750,Chateau de Retout,,,Red,紅酒,Chateau de Retout,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.3,1200,RCA
+119,119,CFW01656-2013-00750,Chateau de Retout,,,Red,紅酒,Chateau de Retout,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.2,1200,RCA
+120,120,CFW01895-2014-00750,Chateau Saint Pey,,,Red,紅酒,Chateau Saint Pey,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,8.95,1200,RCA
+121,121,CFW01662-2013-00750,Chateau de Sainte Gemme,,,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.0,1200,RCA
+122,122,CFW01662-2012-00750,Chateau de Sainte Gemme,,,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,5.95,1200,RCA
+123,123,CFW00586-2013-00750,Chateau Tayac,,Crus Bourgeois,Red,紅酒,Chateau Tayac,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,15.0,1200,RCA
+124,124,CFW00586-2012-00750,Chateau Tayac,,Crus Bourgeois,Red,紅酒,Chateau Tayac,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,15.0,1200,RCA
+125,125,CFW01737-2012-00750,Chateau La Tessonniere,,,Red,紅酒,Chateau La Tessonniere,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,4.3,1200,RCA
+126,126,CFW01600-2004-00750,Chateau La Vieille Cure,,,Red,紅酒,Chateau La Vieille Cure,,"Fronsac, Bordeaux",波爾多,France,法國,,2004,750ml,12.5,1200,RCA
+127,127,CFW00398-2011-01500,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2011,1500ml,19.7,1200,RCA
+128,128,CFW00440-2005-01500,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2005,1500ml,30.1,1200,RCA
+129,129,CFW01929-2014-00375,Chateau du Haut Pick,,,Sweet,甜酒,Chateau du Haut Pick,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,375ml,5.3,1200,RCA
+130,130,CFW01926-2012-00750,Chateau Andoyse du Hayot,,,Sweet,甜酒,Chateau Andoyse du Hayot,,"Sauternes, Bordeaux",波爾多,France,法國,,2012,750ml,10.2,1200,RCA
+131,131,CFW01656-2013-00750,Chateau de Retout,,,Red,紅酒,Chateau de Retout,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.2,1200,RCA
+132,132,CFW00364-2007-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,17.0,1200,RCA
+133,133,CFW00445-2011-00375,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,375ml,7.95,1300,RCA
+134,134,CFW01897-2012-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,10.7,1500,RCA
+135,135,CFW00389-2007-01500,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,1500ml,25.3,1700,RCA
+136,136,CFW00767-2010-00750,Chateau Barbe,,,Red,紅酒,Chateau Barbe,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2010,750ml,5.6,1800,RCA
+137,137,CFW01786-2002-00750,Chateau Gaudin,,,Red,紅酒,Chateau Gaudin,,"Pauillac, Bordeaux",波爾多,France,法國,,2002,750ml,14.7,1800,RCA
+138,138,CFW00862-2014-00750,Chateau Haut Domingue,,,Red,紅酒,Chateau Haut Domingue,,Bordeaux,波爾多,France,法國,,2014,750ml,2.45,1800,RCA
+139,139,CFW01834-2013-00750,Chateau Lafleur du Roy,,,Red,紅酒,Chateau Lafleur du Roy,,"Pomerol, Bordeaux",波爾多,France,法國,,2013,750ml,15.3,1800,RCA
+140,140,CFW01834-2012-00750,Chateau Lafleur du Roy,,,Red,紅酒,Chateau Lafleur du Roy,,"Pomerol, Bordeaux",波爾多,France,法國,,2012,750ml,17.8,1800,RCA
+141,141,CFW01660-2010-00750,Chateau La Lauzette,,,Red,紅酒,Chateau La Lauzette,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,7.95,1800,RCA
+142,142,CFW00941-2014-00750,Chateau Marjosse Blanc,,,White,白酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2014,750ml,5.6,1800,RCA
+143,143,CFW00456-2002-00750,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2002,750ml,7.05,2000,RCA
+144,144,CFW01458-2014-00750,Chateau Canon La Chapelle,,,Red,紅酒,Chateau Canon La Chapelle,,"Canon Fronsac, Bordeaux",波爾多,France,法國,,2014,750ml,5.95,2000,RCA
+145,145,CFW01903-2014-00750,"Clos du Pavillon ""La Petite Folie""",,,Red,紅酒,Clos du Pavillon,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,8.8,2000,RCA
+146,146,CFW01865-2013-00750,Chateau Fonbel,,,Red,紅酒,Chateau Fonbel,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,10.5,2000,RCA
+147,147,CFW01590-2007-00750,"Chateau de Francs ""Les Cerisiers""",,,Red,紅酒,Chateau de Francs,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2007,750ml,8.45,2000,RCA
+148,148,CFW00933-2010-00750,Chateau Le Gravy,,,Red,紅酒,Chateau Le Gravy,,Bordeaux,波爾多,France,法國,,2010,750ml,4.45,2000,RCA
+149,149,CFW01929-2014-00750,Chateau du Haut Pick,,,Sweet,甜酒,Chateau du Haut Pick,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,750ml,9.05,2000,RCA
+150,150,CFW00864-1999-00750,Chateau Haut Landon,,,Red,紅酒,Chateau Haut Landon,,Bordeaux,波爾多,France,法國,,1999,750ml,9.3,2000,RCA
+151,151,CFW01699-2014-00750,Le Pavillon de Saint Jacques,,,Red,紅酒,Le Pavillon de Saint Jacques,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,7.8,2000,RCA
+152,152,CFW00596-2009-00750,Chateau Tour Saint Fort,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Fort,,"St. Estephe, Bordeaux",波爾多,France,法國,,2009,750ml,13.8,2000,RCA
+153,153,CFW01701-2014-00750,"Le Chinon ""Les 10 Plus Belles Pieces"" ",,,Red,紅酒,Foucher Lebrun,,Loire,波爾多,France,法國,,2014,750ml,7.75,2000,RCA
+154,154,CFW01855-2014-00750,Chateau Bernateau,,,Red,紅酒,Chateau Bernateau,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,15.7,2400,RCA
+155,155,CFW01916-2011-00750,Chateau de Come,,,Red,紅酒,Chateau de Come,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,12.2,2400,RCA
+156,156,CFW01831-2014-00750,Chateau La Croix Saint Vincent,,,Red,紅酒,Chateau La Croix Saint Vincent,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,14.05,2400,RCA
+157,157,CFW01828-2012-00750,Chateau Franc Maillet,,,Red,紅酒,Chateau Franc Maillet,,"Pomerol, Bordeaux",波爾多,France,法國,,2012,750ml,17.2,2400,RCA
+158,158,CFW00532-2010-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,13.45,2400,RCA
+159,159,CFW00941-2014-00750,Chateau Marjosse Blanc,,,White,白酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2014,750ml,5.6,2400,RCA
+160,160,CFW01712-2011-00750,Marquis de Mons,,,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2011,750ml,12.8,2400,RCA
+161,161,CFW01602-2008-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2008,750ml,15.3,2400,RCA
+162,162,CFW01635-2014-00750,Chateau de Portets Blanc,,,White,白酒,Chateau de Portets,,"Graves, Bordeaux",波爾多,France,法國,,2014,750ml,5.9,2400,RCA
+163,163,CFW01635-2013-00750,Chateau de Portets Blanc,,,White,白酒,Chateau de Portets,,"Graves, Bordeaux",波爾多,France,法國,,2013,750ml,5.9,2400,RCA
+164,164,CFW01766-2001-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2001,750ml,7.0,2400,RCA
+165,165,CFW00441-2010-00750,Chateau du Taillan,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Taillan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,11.55,2400,RCA
+166,166,CFW01605-2011-00750,Chateau Tessendey,,,Red,紅酒,Chateau Tessendey,,"Fronsac, Bordeaux",波爾多,France,法國,,2011,750ml,5.2,2400,RCA
+167,167,CFW00445-2011-00750,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,15.2,2400,RCA
+168,168,CFW01827-2014-00750,Chateau de Valois,,,Red,紅酒,Chateau de Valois,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,16.55,2400,RCA
+169,169,CFW01600-2008-00750,Chateau La Vieille Cure,,,Red,紅酒,Chateau La Vieille Cure,,"Fronsac, Bordeaux",波爾多,France,法國,,2008,750ml,12.5,2400,RCA
+170,170,CFW01600-2006-00750,Chateau La Vieille Cure,,,Red,紅酒,Chateau La Vieille Cure,,"Fronsac, Bordeaux",波爾多,France,法國,,2006,750ml,12.5,2400,RCA
+171,171,CFW00440-2014-01500,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,1500ml,23.1,2400,RCA
+172,172,CFW00440-2010-01500,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,1500ml,26.3,2400,RCA
+173,173,CFW00449-2009-01500,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,1500ml,26.3,2400,RCA
+174,174,CFW00941-2014-00750,Chateau Marjosse Blanc,,,White,白酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2014,750ml,5.6,2400,RCA
+175,175,CFW01831-2014-00750,Chateau La Croix Saint Vincent,,,Red,紅酒,Chateau La Croix Saint Vincent,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,14.05,2400,RCA
+176,176,CFW00863-2012-00750,Chateau Haut Guillebot,,,Red,紅酒,Chateau Haut Guillebot,,Bordeaux,波爾多,France,法國,,2012,750ml,3.3,2500,RCA
+177,177,CFW00389-2007-00375,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,375ml,7.0,2600,RCA
+178,178,CFW00933-2006-00750,Chateau Le Gravy,,,Red,紅酒,Chateau Le Gravy,,Bordeaux,波爾多,France,法國,,2006,750ml,4.35,2600,RCA
+179,179,CFW01912-2012-00750,L'Archange,,,Red,紅酒,Vignobles Chatonnet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,22.2,2700,RCA
+180,180,CFW00930-2006-00750,Chateau Larteau,,,Red,紅酒,Chateau Larteau,,Bordeaux,波爾多,France,法國,,2006,750ml,3.9,2742,RCA
+181,181,CFW01871-2007-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,750ml,8.8,2760,RCA
+182,182,CFW01786-1994-00750,Chateau Gaudin,,,Red,紅酒,Chateau Gaudin,,"Pauillac, Bordeaux",波爾多,France,法國,,1994,750ml,15.05,2800,RCA
+183,183,CFW00500-2011-00750,Chateau d’Escot,,Crus Bourgeois,Red,紅酒,Chateau d’Escot,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.8,2936,RCA
+184,184,CFW00453-2014-00375,Chateau Aney,,Crus Bourgeois,Red,紅酒,Chateau Aney,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,375ml,5.3,3000,RCA
+185,185,CFW00864-2015-00375,Chateau Haut Landon,,,Red,紅酒,Chateau Haut Landon,,Bordeaux,波爾多,France,法國,,2015,375ml,5.45,3000,RCA
+186,186,CFW01806-2014-00750,Chateau Le Bruilleau Blanc,,,White,白酒,Chateau Le Bruilleau,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,8.88,3000,RCA
+187,187,CFW01013-2015-00750,Chateau Croix Mouton,,,Red,紅酒,Jean Philippe Janoueix,,Bordeaux,波爾多,France,法國,,2015,750ml,6.9,3000,RCA
+188,188,CFW00493-2011-00750,Chateau Domeyne,,Crus Bourgeois,Red,紅酒,Chateau Domeyne,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,15.3,3000,RCA
+189,189,CFW00256-2013-00750,Chateau de Ferrand,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,13.5,3000,RCA
+190,190,CFW00398-2007-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2007,750ml,10.3,3000,RCA
+191,191,CFW01931-2013-00750,Chateau Gravas,,,Sweet,甜酒,Chateau Gravas,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,10.6,3000,RCA
+192,192,CFW01599-2003-00750,Chateau Herve Laroque,,,Red,紅酒,Chateau Herve Laroque,,"Fronsac, Bordeaux",波爾多,France,法國,,2003,750ml,10.3,3000,RCA
+193,193,CFW00532-2008-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,9.701,3000,RCA
+194,194,CFW00532-2007-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,9.7,3000,RCA
+195,195,CFW00542-2011-00750,Chateau Marsac Seguineau,,Crus Bourgeois,Red,紅酒,Chateau Marsac Seguineau,,"Margaux, Bordeaux",波爾多,France,法國,,2011,750ml,14.7,3000,RCA
+196,196,CFW00954-2015-00750,Chateau Mont Perat Blanc,,,White,白酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2015,750ml,6.7,3000,RCA
+197,197,CFW00954-2014-00750,Chateau Mont Perat Blanc,,,White,白酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2014,750ml,6.7,3000,RCA
+198,198,CFW00956-2015-00750,Chateau Motte Maucourt,,,White,白酒,Chateau Motte Maucourt,,Bordeaux,波爾多,France,法國,,2015,750ml,3.2,3000,RCA
+199,199,CFW01017-2012-00750,Chateau Moulin des Graves,,,Red,紅酒,Chateau Moulin des Graves,,Bourg Cotes de Bordeaux,波爾多,France,法國,,2012,750ml,3.95,3000,RCA
+200,200,CFW00392-2010-01500,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,1500ml,26.5,3000,RCA
+201,201,CFW00954-2014-00750,Chateau Mont Perat Blanc,,,White,白酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2014,750ml,6.7,3000,RCA
+202,202,CFW01806-2014-00750,Chateau Le Bruilleau Blanc,,,White,白酒,Chateau Le Bruilleau,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,8.88,3000,RCA
+203,203,CFW01017-2012-00750,Chateau Moulin des Graves,,,Red,紅酒,Chateau Moulin des Graves,,Bourg Cotes de Bordeaux,波爾多,France,法國,,2012,750ml,3.95,3000,RCA
+204,204,CFW02084-2013-00750,Chateau Le Bruilleau,,,Red,紅酒,Chateau Le Bruilleau,,Bordeaux,波爾多,France,法國,,2013,750ml,8.88,3000,RCA
+205,205,CFW00163-2013-00750,Les Allees de Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,8.95,3000,RCA
+206,206,CFW01927-2013-00750,Chateau Arnaudas,,,Sweet,甜酒,Chateau Arnaudas,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,9.95,3360,RCA
+207,207,CFW00163-2013-00750,Les Allees de Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,8.95,3540,RCA
+208,208,CFW01916-2014-00750,Chateau de Come,,,Red,紅酒,Chateau de Come,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,13.5,3600,RCA
+209,209,CFW00398-2012-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2012,750ml,10.95,3600,RCA
+210,210,CFW01786-1997-00750,Chateau Gaudin,,,Red,紅酒,Chateau Gaudin,,"Pauillac, Bordeaux",波爾多,France,法國,,1997,750ml,13.45,3600,RCA
+211,211,CFW01471-2012-00750,Chateau Lacoste,,,Red,紅酒,Chateau Lacoste,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,3.6,3600,RCA
+212,212,CFW01594-2012-00750,Chateau Laulan Cuvee Clement,,,Red,紅酒,Chateau Laulan,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,3.99,3600,RCA
+213,213,CFW01602-2002-00750,Chateau Moulin de la Roque,,,Red,紅酒,Chateau Moulin de la Roque,,"Fronsac, Bordeaux",波爾多,France,法國,,2002,750ml,12.8,3600,RCA
+214,214,CFW00444-2011-00750,Chateau La Tour de Mons,,Cru Bourgeois Superieur,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2011,750ml,16.55,3600,RCA
+215,215,CFW00954-2013-00750,Chateau Mont Perat Blanc,,,White,白酒,Chateau Mont Perat,,Bordeaux,波爾多,France,法國,,2013,750ml,6.7,3720,RCA
+216,216,CFW00767-2011-00750,Chateau Barbe,,,Red,紅酒,Chateau Barbe,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,5.5,4000,RCA
+217,217,CFW00933-2008-00750,Chateau Le Gravy,,,Red,紅酒,Chateau Le Gravy,,Bordeaux,波爾多,France,法國,,2008,750ml,4.15,4000,RCA
+218,218,CFW01668-2012-00750,"Chateau Mascard ""Vent d'Ange""",,,Red,紅酒,Chateau Mascard,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,5.95,4200,RCA
+219,219,CFW01668-2012-00750,"Chateau Mascard ""Vent d'Ange""",,,Red,紅酒,Chateau Mascard,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,5.95,4200,RCA
+220,220,CFW00109-2015-00750,Les Pensees de la Tour Carnet,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Bernard Magrez,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,11.4,4218,RCA
+221,221,CFW00109-2015-00750,Les Pensees de la Tour Carnet,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Bernard Magrez,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,11.4,4218,RCA
+222,222,CFW01856-2008-00750,Chateau Brespaillan,,,Red,紅酒,Chateau Brespaillan,,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,3.7,4800,RCA
+223,223,CFW01712-2013-00750,Marquis de Mons,,,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,12.2,4800,RCA
+224,224,CFW01832-2013-00750,Chateau La Truffe,,,Red,紅酒,Chateau La Truffe,,"Pomerol, Bordeaux",波爾多,France,法國,,2013,750ml,17.2,4800,RCA
+225,225,CFW00449-2011-01500,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,1500ml,22.1,4800,RCA
+226,226,CFW00449-2010-01500,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,1500ml,26.3,4800,RCA
+227,227,CFW01537-2016-00750,Agape,,,Red,紅酒,Domaine Laurent Vigneron,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2016,750ml,5.3,5000,RCA
+228,228,CFW00456-2014-00750,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.1,5000,RCA
+229,229,CFW00456-2011-00750,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.1,5000,RCA
+230,230,CFW00521-2011-00750,Chateau Hourbanon,,Crus Bourgeois,Red,紅酒,Chateau Hourbanon,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.25,5000,RCA
+231,231,CFW00419-2012-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,11.55,5000,RCA
+232,232,CFW00419-2004-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2004,750ml,10.2,5000,RCA
+233,233,CFW00419-2003-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2003,750ml,10.55,5000,RCA
+234,234,CFW01714-2014-00750,Chateau Mille Roses,,,Red,紅酒,Chateau Mille Roses,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,17.05,5000,RCA
+235,235,CFW01636-2012-00750,Chateau de Portets Rouge,,,Red,紅酒,Chateau de Portets,,"Graves, Bordeaux",波爾多,France,法國,,2012,750ml,6.8,5000,RCA
+236,236,CFW01605-2012-00750,Chateau Tessendey,,,Red,紅酒,Chateau Tessendey,,"Fronsac, Bordeaux",波爾多,France,法國,,2012,750ml,5.3,5000,RCA
+237,237,CFW01537-2016-00750,Agape,,,Red,紅酒,Domaine Laurent Vigneron,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2016,750ml,5.3,5000,RCA
+238,238,CFW00456-2011-00750,Chateau d’Aurilhac,,Crus Bourgeois,Red,紅酒,Chateau d’Aurilhac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.1,5000,RCA
+239,239,CFW01714-2013-00750,Chateau Mille Roses,,,Red,紅酒,Chateau Mille Roses,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,15.55,5100,RCA
+240,240,CFW00281-2014-00750,Chateau Moulin Du Cadet,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Moulin Du Cadet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,15.95,5400,RCA
+241,241,CFW00445-2012-00750,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,14.05,5880,RCA
+242,242,CFW00866-2015-00375,Chateau Haut Mondain,,,Red,紅酒,Chateau Haut Mondain,,Bordeaux,波爾多,France,法國,,2015,375ml,2.3,6000,RCA
+243,243,CFW00868-2016-00375,Chateau Haut Peyruguet,,,Red,紅酒,Chateau Haut Peyruguet,,Bordeaux,波爾多,France,法國,,2016,375ml,2.25,6000,RCA
+244,244,CFW00895-2015-00375,Chateau Lande de Bertin,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2015,375ml,2.2,6000,RCA
+245,245,CFW00896-2015-00375,Chateau Tertre de Courban,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2015,375ml,2.2,6000,RCA
+246,246,CFW01854-2014-00750,Les Ailes de Berliquet,,,Red,紅酒,Chateau Berliquet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,9.7,6000,RCA
+247,247,CFW00767-2012-00750,Chateau Barbe,,,Red,紅酒,Chateau Barbe,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,5.4,6000,RCA
+248,248,CFW01966-2013-00750,Chateau Bastor Lamontagne,,,Red,紅酒,Chateau Bastor Lamontagne,,Bordeaux,波爾多,France,法國,,2013,750ml,17.7,6000,RCA
+249,249,CFW01719-2015-00750,Chateau Bernon,,,Red,紅酒,Chateau Bernon,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,4.2,6000,RCA
+250,250,CFW00377-2012-00750,Chateau Bournac,,Cru Bourgeois Superieur,Red,紅酒,Chateau Bournac,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.2,6000,RCA
+251,251,CFW01775-2013-00750,Chateau Caroline,,,Red,紅酒,Chateau Caroline,,"Moulis, Bordeaux",波爾多,France,法國,,2013,750ml,7.3,6000,RCA
+252,252,CFW01535-2015-00750,Clos de la Dame Verte,,,Red,紅酒,Clos de la Dame Verte,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,8.45,6000,RCA
+253,253,CFW01846-2012-00750,Clos du Pavillon,,,Red,紅酒,Clos du Pavillon,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,7.05,6000,RCA
+254,254,CFW01846-2011-00750,Clos du Pavillon,,,Red,紅酒,Clos du Pavillon,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,6.95,6000,RCA
+255,255,CFW00490-2014-00750,Chateau Devise d’Ardilley,,Crus Bourgeois,Red,紅酒,Chateau Devise d’Ardilley,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.45,6000,RCA
+256,256,CFW00887-2014-00750,Chateau La Freynelle Cuvee Cabernet Sauvignon,,,Red,紅酒,Chateau La Freynelle,,Bordeaux,波爾多,France,法國,,2014,750ml,4.5,6000,RCA
+257,257,CFW01842-2012-00750,Chateau Guibeau,,,Red,紅酒,Chateau Guibeau,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,6.55,6000,RCA
+258,258,CFW00586-2013-00750,Chateau Tayac,,Crus Bourgeois,Red,紅酒,Chateau Tayac,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,12.2,6000,RCA
+259,259,CFW00586-2012-00750,Chateau Tayac,,Crus Bourgeois,Red,紅酒,Chateau Tayac,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,12.7,6000,RCA
+260,260,CFW01735-2015-00750,Chateau La Rive de Goulee,,,Red,紅酒,Chateau La Rive de Goulee,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,4.8,6000,RCA
+261,261,CFW01661-2013-00750,Chateau Lacour Jacquet,,,Red,紅酒,Chateau Lacour Jacquet,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.9,6000,RCA
+262,262,CFW00532-2012-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,9.7,6000,RCA
+263,263,CFW01595-2014-00750,Chateau Laulan Cuvee Quintessence,,,Red,紅酒,Chateau Laulan,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,5.55,6000,RCA
+264,264,CFW01660-2012-00750,Chateau La Lauzette,,,Red,紅酒,Chateau La Lauzette,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.3,6000,RCA
+265,265,CFW00419-2001-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2001,750ml,10.0,6000,RCA
+266,266,CFW01584-2013-00750,Chateau Martinon Blanc,,,White,白酒,Chateau Martinon,,"Entre Deux Mers, Bordeaux",波爾多,France,法國,,2013,750ml,3.6,6000,RCA
+267,267,CFW00953-2016-00750,Chateau Mister Pink,,,Rose,玫瑰酒,Chateau Mister Pink,,Bordeaux,波爾多,France,法國,,2016,750ml,2.8,6000,RCA
+268,268,CFW01472-2012-00750,Chateau Moulin de Bouty,,,Red,紅酒,Chateau Moulin de Bouty,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,4.45,6000,RCA
+269,269,CFW01472-2011-00750,Chateau Moulin de Bouty,,,Red,紅酒,Chateau Moulin de Bouty,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,4.1,6000,RCA
+270,270,CFW01887-2012-00750,Chateau Moulin de Grenet,,,Red,紅酒,Chateau Moulin de Grenet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,5.7,6000,RCA
+271,271,CFW01585-2015-00750,Chateau Moulin de Launay,,,White,白酒,Chateau Moulin de Launay,,"Entre Deux Mers, Bordeaux",波爾多,France,法國,,2015,750ml,3.2,6000,RCA
+272,272,CFW00555-2014-00750,Chateau Noaillac,,Crus Bourgeois,Red,紅酒,Chateau Noaillac,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,7.3,6000,RCA
+273,273,CFW01766-2014-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,6.7,6000,RCA
+274,274,CFW01766-2013-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,6.95,6000,RCA
+275,275,CFW01766-2012-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,6.8,6000,RCA
+276,276,CFW00987-2015-00750,Chateau Taussin,,,White,白酒,Chateau Taussin,,Bordeaux,波爾多,France,法國,,2015,750ml,3.25,6000,RCA
+277,277,CFW01897-2014-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,10.5,6000,RCA
+278,278,CFW01897-2013-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,10.5,6000,RCA
+279,279,CFW00587-2010-00750,Chateau Le Temple,,Crus Bourgeois,Red,紅酒,Chateau Le Temple,,"Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,6.6,6000,RCA
+280,280,CFW00587-2008-00750,Chateau Le Temple,,Crus Bourgeois,Red,紅酒,Chateau Le Temple,,"Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,6.6,6000,RCA
+281,281,CFW00936-2015-00750,Chateau Les Terrasses de Bouey,,,Red,紅酒,Chateau Les Terrasses de Bouey,,Bordeaux,波爾多,France,法國,,2015,750ml,2.5,6000,RCA
+282,282,CFW01847-2012-00750,Vieux Chateau Guibeau,,,Red,紅酒,Vieux Chateau Guibeau,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,6.55,6000,RCA
+283,283,CFW01696-2014-00750,Chateau Vieux Chevrol,,,Red,紅酒,Chateau Vieux Chevrol,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,8.3,6000,RCA
+284,284,CFW01696-2012-00750,Chateau Vieux Chevrol,,,Red,紅酒,Chateau Vieux Chevrol,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2012,750ml,8.55,6000,RCA
+285,285,CFW00392-2014-01500,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,1500ml,23.1,6000,RCA
+286,286,CFW00392-2012-01500,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,1500ml,22.5,6000,RCA
+287,287,CFW00449-2012-01500,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,1500ml,22.6,6000,RCA
+288,288,CFW00886-2016-00750,Chateau La Freynelle Blanc,,,White,白酒,Chateau La Freynelle,,Bordeaux,波爾多,France,法國,,2016,750ml,3.55,6000,RCA
+289,289,CFW00887-2015-00750,Chateau La Freynelle Cuvee Cabernet Sauvignon,,,Red,紅酒,Chateau La Freynelle,,Bordeaux,波爾多,France,法國,,2015,750ml,4.5,6000,RCA
+290,290,CFW01535-2015-00750,Clos de la Dame Verte,,,Red,紅酒,Clos de la Dame Verte,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,8.45,6000,RCA
+291,291,CFW01599-2006-00750,Chateau Herve Laroque,,,Red,紅酒,Chateau Herve Laroque,,"Fronsac, Bordeaux",波爾多,France,法國,,2006,750ml,7.8,6000,RCA
+292,292,CFW01897-2014-00750,Chateau Tauzinat l'Hermitage,,,Red,紅酒,Chateau Tauzinat l'Hermitage,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,10.5,6000,RCA
+293,293,CFW01775-2012-00750,Chateau Caroline,,,Red,紅酒,Chateau Caroline,,"Moulis, Bordeaux",波爾多,France,法國,,2012,750ml,7.8,6000,RCA
+294,294,CFW00256-2013-00750,Chateau de Ferrand,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,8.8,6000,RCA
+295,295,CFW00395-2013-00750,Chateau d’Escurac,,Cru Bourgeois Superieur,Red,紅酒,Chateau d’Escurac,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.8,6000,RCA
+296,296,CFW01912-2014-00750,L'Archange,,,Red,紅酒,Vignobles Chatonnet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,25.3,6500,RCA
+297,297,CFW01537-2016-00750,Agape,,,Red,紅酒,Domaine Laurent Vigneron,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2016,750ml,5.05,7000,RCA
+298,298,CFW01753-2014-00750,Chateau Tour Castillon,,,Red,紅酒,Chateau Tour Castillon,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.45,7000,RCA
+299,299,CFW01966-2006-00750,Chateau Bastor Lamontagne,,,Red,紅酒,Chateau Bastor Lamontagne,,Bordeaux,波爾多,France,法國,,2006,750ml,15.3,7200,RCA
+300,300,CFW01806-2015-00750,Chateau Le Bruilleau Blanc,,,White,白酒,Chateau Le Bruilleau,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2015,750ml,9.0,7200,RCA
+301,301,CFW00451-2006-00750,Chateau de Villegorge,,Cru Bourgeois Superieur,Red,紅酒,Chateau de Villegorge,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,11.55,7200,RCA
+302,302,CFW01929-2013-00750,Chateau du Haut Pick,,,Sweet,甜酒,Chateau du Haut Pick,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,9.05,7900,RCA
+303,303,CFW01871-2011-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,9.0,7920,RCA
+304,304,CFW01871-2011-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,9.0,7920,RCA
+305,305,CFW01717-2011-00750,Chateau La Bessane,,,Red,紅酒,Vignobles Paloumey,,"Margaux, Bordeaux",波爾多,France,法國,,2011,750ml,4.7,8000,RCA
+306,306,CFW00473-2012-00750,Chateau Bourdieu,,Crus Bourgeois,Red,紅酒,Chateau Bourdieu,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,6.2,8000,RCA
+307,307,CFW01590-2013-00750,"Chateau de Francs ""Les Cerisiers""",,,Red,紅酒,Chateau de Francs,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2013,750ml,8.45,8000,RCA
+308,308,CFW01466-2011-00750,Chateau Jouanin,,,Red,紅酒,Chateau Jouanin,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,3.6,8000,RCA
+309,309,CFW01762-2013-00750,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,5.7,8000,RCA
+310,310,CFW01896-1995-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,1995,750ml,10.5,8000,RCA
+311,311,CFW01832-2014-00750,Chateau La Truffe,,,Red,紅酒,Chateau La Truffe,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,17.7,8000,RCA
+312,312,CFW01655-2006-00750,Chateau de Cach,,,Red,紅酒,Chateau de Cach,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,6.0,8000,RCA
+313,313,CFW01845-2013-00750,Chateau Marsauda Bellevue,,,Red,紅酒,Chateau Marsauda Bellevue,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,4.75,8400,RCA
+314,314,CFW00389-2013-00750,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,14.7,8700,RCA
+315,315,CFW01856-2009-00750,Chateau Brespaillan,,,Red,紅酒,Chateau Brespaillan,,"St. Emilion, Bordeaux",波爾多,France,法國,,2009,750ml,4.2,9000,RCA
+316,316,CFW01704-2013-00750,Chateau Castelbruck,,,Red,紅酒,Chateau Castelbruck,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,11.9,9000,RCA
+317,317,CFW00395-2013-00750,Chateau d’Escurac,,Cru Bourgeois Superieur,Red,紅酒,Chateau d’Escurac,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.8,9000,RCA
+318,318,CFW00256-2014-00750,Chateau de Ferrand,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,14.7,9000,RCA
+319,319,CFW00511-1997-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,1997,750ml,7.7,9000,RCA
+320,320,CFW01660-2011-00750,Chateau La Lauzette,,,Red,紅酒,Chateau La Lauzette,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,7.1,9000,RCA
+321,321,CFW00532-2014-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,9.7,9600,RCA
+322,322,CFW00532-2011-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.7,9600,RCA
+323,323,CFW01854-2013-00750,Les Ailes de Berliquet,,,Red,紅酒,Chateau Berliquet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,8.5,9900,RCA
+324,324,CFW01871-2015-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,10.3,9960,RCA
+325,325,CFW01871-2012-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,9.1,9960,RCA
+326,326,CFW00767-2014-00750,Chateau Barbe,,,Red,紅酒,Chateau Barbe,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,5.4,10000,RCA
+327,327,CFW00788-2014-00750,Chateau Blouin,,,Red,紅酒,Chateau Blouin,,Bordeaux,波爾多,France,法國,,2014,750ml,2.75,10000,RCA
+328,328,CFW01856-2011-00750,Chateau Brespaillan,,,Red,紅酒,Chateau Brespaillan,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,3.8,10000,RCA
+329,329,CFW01655-2015-00750,Chateau de Cach,,,Red,紅酒,Chateau de Cach,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,6.0,10000,RCA
+330,330,CFW01655-2006-00750,Chateau de Cach,,,Red,紅酒,Chateau de Cach,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,6.0,10000,RCA
+331,331,CFW00490-2012-00750,Chateau Devise d’Ardilley,,Crus Bourgeois,Red,紅酒,Chateau Devise d’Ardilley,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,8.45,10000,RCA
+332,332,CFW01879-2013-00750,"Chateau La Fleur Picon ""La Douceur""",,,Red,紅酒,Chateau La Fleur Picon,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,10000,RCA
+333,333,CFW01863-2014-00750,Chateau de Grandchamp,,,Red,紅酒,Chateau de Grandchamp,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,6.05,10000,RCA
+334,334,CFW00511-2014-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.6,10000,RCA
+335,335,CFW00340-2015-00750,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,750ml,4.2,10000,RCA
+336,336,CFW00059-2013-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,9.7,10000,RCA
+337,337,CFW00059-2012-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,10.1,10000,RCA
+338,338,CFW01881-2014-00750,Chateau Larcis Jaumat,,,Red,紅酒,Chateau Larcis Jaumat,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,8.5,10000,RCA
+339,339,CFW01845-2014-00750,Chateau Marsauda Bellevue,,,Red,紅酒,Chateau Marsauda Bellevue,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,4.8,10000,RCA
+340,340,CFW00566-2011-00750,Chateau Pontey,,Crus Bourgeois,Red,紅酒,Chateau Pontey,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,7.1,10000,RCA
+341,341,CFW00967-2013-00750,Chateau Port du Roy,,,Red,紅酒,Chateau Port du Roy,,Bordeaux,波爾多,France,法國,,2013,750ml,3.7,10000,RCA
+342,342,CFW01636-2013-00750,Chateau de Portets Rouge,,,Red,紅酒,Chateau de Portets,,"Graves, Bordeaux",波爾多,France,法國,,2013,750ml,6.8,10000,RCA
+343,343,CFW01552-2012-00750,Chateau Romfort,,,Red,紅酒,Chateau Romfort,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2012,750ml,3.75,10000,RCA
+344,344,CFW01737-2014-00750,Chateau La Tessonniere,,,Red,紅酒,Chateau La Tessonniere,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,4.3,10000,RCA
+345,345,CFW00452-2008-00750,Chateau Andron Blanquet,,Crus Bourgeois,Red,紅酒,Chateau Andron Blanquet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2008,750ml,11.6,10200,RCA
+346,346,CFW00389-2007-00750,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,750ml,12.2,10400,RCA
+347,347,CFW00503-2007-00750,Chateau La Fon du Berger,,Crus Bourgeois,Red,紅酒,Chateau La Fon du Berger,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,5.25,11000,RCA
+348,348,CFW01918-2008-00750,Chateau Prieur de Meyney,,,Red,紅酒,Chateau Prieur de Meyney,,"St. Estephe, Bordeaux",波爾多,France,法國,,2008,750ml,11.6,11567,RCA
+349,349,CFW00452-2007-00750,Chateau Andron Blanquet,,Crus Bourgeois,Red,紅酒,Chateau Andron Blanquet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,750ml,11.0,12000,RCA
+350,350,CFW00453-2012-00750,Chateau Aney,,Crus Bourgeois,Red,紅酒,Chateau Aney,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,9.0,12000,RCA
+351,351,CFW01963-2012-00750,Chateau Arnauton,,,Red,紅酒,Chateau Arnauton,,Bordeaux,波爾多,France,法國,,2012,750ml,7.8,12000,RCA
+352,352,CFW01799-2014-00750,Chateau Baret Blanc,,,White,白酒,Chateau Baret,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,10.3,12000,RCA
+353,353,CFW00466-2011-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.7,12000,RCA
+354,354,CFW00466-2006-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,8.95,12000,RCA
+355,355,CFW00302-2013-00750,Chateau Bellegrave,,,Red,紅酒,Chateau Bellegrave,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,7.2,12000,RCA
+356,356,CFW01644-2013-00750,Chateau Bellegrave du Poujeau,,,Red,紅酒,Chateau Bellegrave du Poujeau,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.8,12000,RCA
+357,357,CFW01016-2012-00750,Chateau Bolaire,,,Red,紅酒,Vincent Mulliez,,Bordeaux,波爾多,France,法國,,2012,750ml,8.2,12000,RCA
+358,358,CFW00473-2014-00750,Chateau Bourdieu,,Crus Bourgeois,Red,紅酒,Chateau Bourdieu,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,5.95,12000,RCA
+359,359,CFW00473-2011-00750,Chateau Bourdieu,,Crus Bourgeois,Red,紅酒,Chateau Bourdieu,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.45,12000,RCA
+360,360,CFW01807-2013-00750,Chateau Le Bruilleau Rouge,,,Red,紅酒,Chateau Le Bruilleau,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2013,750ml,8.88,12000,RCA
+361,361,CFW01857-2014-00750,Chateau Busquet,,,Red,紅酒,Chateau Busquet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,7.05,12000,RCA
+362,362,CFW01775-2012-00750,Chateau Caroline,,,Red,紅酒,Chateau Caroline,,"Moulis, Bordeaux",波爾多,France,法國,,2012,750ml,7.8,12000,RCA
+363,363,CFW01916-2013-00750,Chateau de Come,,,Red,紅酒,Chateau de Come,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,12.8,12000,RCA
+364,364,CFW00485-2014-00750,Chateau Le Coteau,,Crus Bourgeois,Red,紅酒,Chateau Le Coteau,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,14.05,12000,RCA
+365,365,CFW01647-2013-00750,Chateau Croix du Trale,,,Red,紅酒,Chateau Croix du Trale,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.0,12000,RCA
+366,366,CFW01862-2011-00750,Le Different de Chateau de Ferrand,,,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,9.1,12000,RCA
+367,367,CFW00500-2013-00750,Chateau d’Escot,,Crus Bourgeois,Red,紅酒,Chateau d’Escot,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,8.9,12000,RCA
+368,368,CFW00500-2012-00750,Chateau d’Escot,,Crus Bourgeois,Red,紅酒,Chateau d’Escot,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,8.9,12000,RCA
+369,369,CFW00259-2013-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,18.45,12000,RCA
+370,370,CFW01590-2014-00750,"Chateau de Francs ""Les Cerisiers""",,,Red,紅酒,Chateau de Francs,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,8.45,12000,RCA
+371,371,CFW01882-2013-00750,Chateau Le Freyche,,,Red,紅酒,Chateau Le Freyche,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,12000,RCA
+372,372,CFW01869-2011-00750,Chateau Galeteau,,,Red,紅酒,Chateau Galeteau,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,10.3,12000,RCA
+373,373,CFW01464-2012-00750,Chateau German,,,Red,紅酒,Chateau German,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,4.3,12000,RCA
+374,374,CFW01842-2014-00750,Chateau Guibeau,,,Red,紅酒,Chateau Guibeau,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,6.55,12000,RCA
+375,375,CFW00254-2012-00750,Chateau Faugeres,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Faugeres,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,15.3,12000,RCA
+376,376,CFW00254-2010-00750,Chateau Faugeres,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Faugeres,,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,15.3,12000,RCA
+377,377,CFW01599-2014-00750,Chateau Herve Laroque,,,Red,紅酒,Chateau Herve Laroque,,"Fronsac, Bordeaux",波爾多,France,法國,,2014,750ml,7.8,12000,RCA
+378,378,CFW01599-2006-00750,Chateau Herve Laroque,,,Red,紅酒,Chateau Herve Laroque,,"Fronsac, Bordeaux",波爾多,France,法國,,2006,750ml,7.8,12000,RCA
+379,379,CFW00879-2013-00750,Chateau Jeanguillon,,,Red,紅酒,Chateau Jeanguillon,,Bordeaux,波爾多,France,法國,,2013,750ml,3.1,12000,RCA
+380,380,CFW01466-2012-00750,Chateau Jouanin,,,Red,紅酒,Chateau Jouanin,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,3.7,12000,RCA
+381,381,CFW00525-2013-00750,Chateau Laffitte Carcasset,,Crus Bourgeois,Red,紅酒,Chateau Laffitte Carcasset,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,11.3,12000,RCA
+382,382,CFW00532-2013-00750,Chateau Larrivaux,,Crus Bourgeois,Red,紅酒,Chateau Larrivaux,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,8.45,12000,RCA
+383,383,CFW00535-2014-00750,Chateau La Lauzette Declercq,,Crus Bourgeois,Red,紅酒,Chateau La Lauzette Declercq,,"Listrac, Bordeaux",波爾多,France,法國,,2014,750ml,7.8,12000,RCA
+384,384,CFW01740-2011-00750,Chateau Les Garregades,,,Red,紅酒,Chateau Les Garregades,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,4.65,12000,RCA
+385,385,CFW01524-2012-00750,Chateau Lucques Bessan,,,Red,紅酒,Chateau Lucques Bessan,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,4.375,12000,RCA
+386,386,CFW01762-2012-00750,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,6.6,12000,RCA
+387,387,CFW00940-2014-00750,Chateau Malene,,,Red,紅酒,Chateau Malene,,Bordeaux,波爾多,France,法國,,2014,750ml,3.75,12000,RCA
+388,388,CFW00943-2012-00750,Chateau Martinon Rouge,,,Red,紅酒,Chateau Martinon,,Bordeaux,波爾多,France,法國,,2012,750ml,3.6,12000,RCA
+389,389,CFW02108-2011-00750,Chateau Mauvesin Barton,,,Red,紅酒,Chateau Mauvesin Barton,,Bordeaux,波爾多,France,法國,,2011,750ml,12.3,12000,RCA
+390,390,CFW00959-2012-00750,Chateau Mylord,,,Red,紅酒,Chateau Mylord,,Bordeaux,波爾多,France,法國,,2012,750ml,3.8,12000,RCA
+391,391,CFW00959-2011-00750,Chateau Mylord,,,Red,紅酒,Chateau Mylord,,Bordeaux,波爾多,France,法國,,2011,750ml,3.8,12000,RCA
+392,392,CFW01736-2014-00750,Chateau La Roche Doree,,,Red,紅酒,Chateau La Roche Doree,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,4.65,12000,RCA
+393,393,CFW01702-2013-00750,Chateau Rondillon Cuvee Les Turons,,,Sweet,甜酒,Chateau Rondillon,,"Loupiac, Bordeaux",波爾多,France,法國,,2013,750ml,5.6,12000,RCA
+394,394,CFW01766-2011-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,6.7,12000,RCA
+395,395,CFW00583-2011-00750,Chateau Semeillan Mazeau,,Crus Bourgeois,Red,紅酒,Chateau Semeillan Mazeau,,"Listrac, Bordeaux",波爾多,France,法國,,2011,750ml,6.9,12000,RCA
+396,396,CFW01694-2014-00750,Chateau Siaurac,,,Red,紅酒,Chateau Siaurac,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,12.3,12000,RCA
+397,397,CFW00440-2005-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2005,750ml,14.7,12000,RCA
+398,398,CFW01459-2012-00750,Chateau Toumalin,,,Red,紅酒,Chateau Toumalin,,"Canon Fronsac, Bordeaux",波爾多,France,法國,,2012,750ml,6.5,12000,RCA
+399,399,CFW01459-2011-00750,Chateau Toumalin,,,Red,紅酒,Chateau Toumalin,,"Canon Fronsac, Bordeaux",波爾多,France,法國,,2011,750ml,6.5,12000,RCA
+400,400,CFW00445-2014-00750,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,13.95,12000,RCA
+401,401,CFW00596-2012-00750,Chateau Tour Saint Fort,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Fort,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,10.15,12000,RCA
+402,402,CFW00596-2001-00750,Chateau Tour Saint Fort,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Fort,,"St. Estephe, Bordeaux",波爾多,France,法國,,2001,750ml,10.95,12000,RCA
+403,403,CFW01600-2011-00750,Chateau La Vieille Cure,,,Red,紅酒,Chateau La Vieille Cure,,"Fronsac, Bordeaux",波爾多,France,法國,,2011,750ml,14.0,12000,RCA
+404,404,CFW00300-2014-00750,Chateau Yon Figeac,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Yon Figeac,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,17.0,12000,RCA
+405,405,CFW01615-2015-00750,Chateau Calvimont Blanc,,,White,白酒,Chateau Calvimont,,"Graves, Bordeaux",波爾多,France,法國,,2015,750ml,4.7,12000,RCA
+406,406,CFW01637-2015-00750,Chateau du Mayne Blanc,,,White,白酒,Chateau du Mayne,,"Graves, Bordeaux",波爾多,France,法國,,2015,750ml,4.7,12000,RCA
+407,407,CFW01702-2013-00750,Chateau Rondillon Cuvee Les Turons,,,Sweet,甜酒,Chateau Rondillon,,"Loupiac, Bordeaux",波爾多,France,法國,,2013,750ml,5.6,12000,RCA
+408,408,CFW00863-2015-00750,Chateau Haut Guillebot,,,Red,紅酒,Chateau Haut Guillebot,,Bordeaux,波爾多,France,法國,,2015,750ml,4.3,12000,RCA
+409,409,CFW01766-2011-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,6.7,12000,RCA
+410,410,CFW01857-2014-00750,Chateau Busquet,,,Red,紅酒,Chateau Busquet,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,7.05,12000,RCA
+411,411,CFW01896-2004-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2004,750ml,7.5,12000,RCA
+412,412,CFW01861-2014-00750,Chateau D'Arcole,,,Red,紅酒,Chateau D'Arcole,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,11.9,12000,RCA
+413,413,CFW01694-2014-00750,Chateau Siaurac,,,Red,紅酒,Chateau Siaurac,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,12.3,12000,RCA
+414,414,CFW01748-2015-00750,Chateau de Verdun,,,Red,紅酒,Chateau Sipian,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,3.8,12000,RCA
+415,415,CFW00447-2007-00750,Chateau Tour Haut Caussan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour Haut Caussan,,"Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,6.75,12000,RCA
+416,416,CFW01644-2013-00750,Chateau Bellegrave du Poujeau,,,Red,紅酒,Chateau Bellegrave du Poujeau,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.8,12000,RCA
+417,417,CFW01670-2006-00750,Chateau Moulins de Citran,,,Red,紅酒,Chateau Moulins de Citran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,8.45,12000,RCA
+418,418,CFW00466-2011-00750,Chateau Bel Orme Tronquoy de Lalande,,Crus Bourgeois,Red,紅酒,Chateau Bel Orme Tronquoy de Lalande,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.7,12000,RCA
+419,419,CFW00596-2012-00750,Chateau Tour Saint Fort,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Fort,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,10.15,12000,RCA
+420,420,CFW00525-2013-00750,Chateau Laffitte Carcasset,,Crus Bourgeois,Red,紅酒,Chateau Laffitte Carcasset,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,11.3,12000,RCA
+421,421,CFW00392-2009-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,13.0,12000,RCA
+422,422,CFW00803-2011-00750,Chateau de Faise,,,Red,紅酒,Chateau de Faise,,Bordeaux,波爾多,France,法國,,2011,750ml,3.45,13000,RCA
+423,423,CFW00772-2009-00750,Chateau Haut du Peyrat,,,Red,紅酒,Chateau Haut du Peyrat,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2009,750ml,3.8,13000,RCA
+424,424,CFW00969-2013-00750,Chateau Prieure Canteloup,,,Red,紅酒,Chateau Prieure Canteloup,,Bordeaux,波爾多,France,法國,,2013,750ml,4.1,13000,RCA
+425,425,CFW00440-2013-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,10.3,14000,RCA
+426,426,CFW01753-2015-00750,Chateau Tour Castillon,,,Red,紅酒,Chateau Tour Castillon,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,6.55,14000,RCA
+427,427,CFW00389-2008-00750,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2008,750ml,12.8,14700,RCA
+428,428,CFW01904-2014-00750,Cap d'Or,,,Red,紅酒,Jean Philippe Janoueix,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,7.8,15000,RCA
+429,429,CFW00395-2012-00750,Chateau d’Escurac,,Cru Bourgeois Superieur,Red,紅酒,Chateau d’Escurac,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,9.1,15000,RCA
+430,430,CFW00395-2011-00750,Chateau d’Escurac,,Cru Bourgeois Superieur,Red,紅酒,Chateau d’Escurac,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.1,15000,RCA
+431,431,CFW00511-2012-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,8.6,15000,RCA
+432,432,CFW01872-2014-00750,Chateau Guillemin la Gaffeliere,,,Red,紅酒,Chateau Guillemin la Gaffeliere,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,12.2,15000,RCA
+433,433,CFW01872-2013-00750,Chateau Guillemin la Gaffeliere,,,Red,紅酒,Chateau Guillemin la Gaffeliere,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,11.25,15000,RCA
+434,434,CFW00863-2015-00750,Chateau Haut Guillebot,,,Red,紅酒,Chateau Haut Guillebot,,Bordeaux,波爾多,France,法國,,2015,750ml,4.3,15000,RCA
+435,435,CFW00521-2012-00750,Chateau Hourbanon,,Crus Bourgeois,Red,紅酒,Chateau Hourbanon,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,8.15,15000,RCA
+436,436,CFW01778-2008-00750,Chateau Mauvesin,,,Red,紅酒,Chateau Mauvesin,,"Moulis, Bordeaux",波爾多,France,法國,,2008,750ml,7.7,15000,RCA
+437,437,CFW01778-2007-00750,Chateau Mauvesin,,,Red,紅酒,Chateau Mauvesin,,"Moulis, Bordeaux",波爾多,France,法國,,2007,750ml,6.6,15000,RCA
+438,438,CFW01763-2008-00750,Chateau Plaisance,,,Red,紅酒,Chateau Plaisance,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,4.7,15000,RCA
+439,439,CFW01882-2013-00750,Chateau Le Freyche,,,Red,紅酒,Chateau Le Freyche,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,15000,RCA
+440,440,CFW00933-2011-00750,Chateau Le Gravy,,,Red,紅酒,Chateau Le Gravy,,Bordeaux,波爾多,France,法國,,2011,750ml,4.2,15600,RCA
+441,441,CFW00389-2012-00750,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,14.7,15800,RCA
+442,442,CFW01754-2014-00750,Chateau Vieux Cassan,,,Red,紅酒,Chateau Vieux Cassan,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,3.95,16000,RCA
+443,443,CFW01902-2014-00750,Chateau Villadiere,,,Red,紅酒,Chateau Villadiere,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,4.8,16000,RCA
+444,444,CFW01902-2014-00750,Chateau Villadiere,,,Red,紅酒,Chateau Villadiere,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,4.8,16000,RCA
+445,445,CFW00392-2001-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2001,750ml,11.0,18000,RCA
+446,446,CFW01618-2011-00750,Chateau Crabitey,,,Red,紅酒,Chateau Crabitey,,"Graves, Bordeaux",波爾多,France,法國,,2011,750ml,6.8,18000,RCA
+447,447,CFW01862-2010-00750,Le Different de Chateau de Ferrand,,,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,9.5,18000,RCA
+448,448,CFW00415-1998-00750,Chateau Lestage Simon,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lestage Simon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,1998,750ml,9.8,18000,RCA
+449,449,CFW00429-2012-00750,Chateau Paloumey,,Cru Bourgeois Superieur,Red,紅酒,Chateau Paloumey,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,10.7,18000,RCA
+450,450,CFW00558-2010-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,15.3,18000,RCA
+451,451,CFW00558-2002-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2002,750ml,10.95,18000,RCA
+452,452,CFW01763-2006-00750,Chateau Plaisance,,,Red,紅酒,Chateau Plaisance,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2006,750ml,4.65,18000,RCA
+453,453,CFW01896-1998-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,1998,750ml,10.5,18000,RCA
+454,454,CFW00440-2009-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,12.8,18000,RCA
+455,455,CFW01605-2014-00750,Chateau Tessendey,,,Red,紅酒,Chateau Tessendey,,"Fronsac, Bordeaux",波爾多,France,法國,,2014,750ml,5.95,18000,RCA
+456,456,CFW00591-2014-00750,Chateau La Tour de Bessan,,Crus Bourgeois,Red,紅酒,Chateau La Tour de Bessan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,14.05,18000,RCA
+457,457,CFW00449-2005-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2005,750ml,14.7,18000,RCA
+458,458,CFW01877-2013-00750,Chateau La Croix Fourney,,,Red,紅酒,Chateau La Croix Fourney,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,7.3,19000,RCA
+459,459,CFW00511-2013-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.2,19000,RCA
+460,460,CFW00521-2013-00750,Chateau Hourbanon,,Crus Bourgeois,Red,紅酒,Chateau Hourbanon,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.75,19000,RCA
+461,461,CFW01877-2013-00750,Chateau La Croix Fourney,,,Red,紅酒,Chateau La Croix Fourney,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,7.3,19000,RCA
+462,462,CFW00453-2014-00750,Chateau Aney,,Crus Bourgeois,Red,紅酒,Chateau Aney,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,9.0,20000,RCA
+463,463,CFW01861-2014-00750,Chateau D'Arcole,,,Red,紅酒,Chateau D'Arcole,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,11.9,20000,RCA
+464,464,CFW01963-2011-00750,Chateau Arnauton,,,Red,紅酒,Chateau Arnauton,,Bordeaux,波爾多,France,法國,,2011,750ml,7.8,20000,RCA
+465,465,CFW01549-2014-00750,Chateau Les Aubastons,,,Red,紅酒,Chateau Les Aubastons,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2014,750ml,3.4,20000,RCA
+466,466,CFW01538-2014-00750,Chateau Belair Coubet,,,Red,紅酒,Chateau Belair Coubet,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2014,750ml,4.3,20000,RCA
+467,467,CFW01723-2012-00750,Chateau de Bensse,,,Red,紅酒,Chateau de Bensse,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,6.0,20000,RCA
+468,468,CFW00769-2014-00750,Chateau Clairac Tradition,,,Red,紅酒,Chateau Clairac,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,4.0,20000,RCA
+469,469,CFW00807-2016-00750,Chateau de la Dame Verte,,,Red,紅酒,Chateau de la Dame Verte,,Bordeaux,波爾多,France,法國,,2016,750ml,3.3,20000,RCA
+470,470,CFW00831-2015-00750,Chateau Fondarzac,,,Red,紅酒,Chateau Fondarzac,,Bordeaux,波爾多,France,法國,,2015,750ml,3.1,20000,RCA
+471,471,CFW00867-2015-00750,Chateau Haut Nivelle,,,Red,紅酒,Chateau Haut Nivelle,,Bordeaux,波爾多,France,法國,,2015,750ml,3.55,20000,RCA
+472,472,CFW00913-2015-00750,Chateau Lajarre Tradition,,,Red,紅酒,Chateau Lajarre,,Bordeaux,波爾多,France,法國,,2015,750ml,3.2,20000,RCA
+473,473,CFW00895-2015-00750,Chateau Lande de Bertin,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2015,750ml,3.2,20000,RCA
+474,474,CFW00930-2011-00750,Chateau Larteau,,,Red,紅酒,Chateau Larteau,,Bordeaux,波爾多,France,法國,,2011,750ml,5.9,20000,RCA
+475,475,CFW01594-2015-00750,Chateau Laulan Cuvee Clement,,,Red,紅酒,Chateau Laulan,,"Francs Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,4.1,20000,RCA
+476,476,CFW00951-2015-00750,Chateau Minvielle,,,Red,紅酒,Chateau Minvielle,,Bordeaux,波爾多,France,法國,,2015,750ml,3.2,20000,RCA
+477,477,CFW00969-2015-00750,Chateau Prieure Canteloup,,,Red,紅酒,Chateau Prieure Canteloup,,Bordeaux,波爾多,France,法國,,2015,750ml,4.6,20000,RCA
+478,478,CFW00971-2015-00750,Chateau Puy Favereau,,,Red,紅酒,Chateau Puy Favereau,,Bordeaux,波爾多,France,法國,,2015,750ml,3.5,20000,RCA
+479,479,CFW00980-2014-00750,Chateau Roc Meynard,,,Red,紅酒,Chateau Roc Meynard,,Bordeaux,波爾多,France,法國,,2014,750ml,3.7,20000,RCA
+480,480,CFW00992-2012-00750,"Chateau Thieuley ""Reserve Francis Courselle"" Rouge",,,Red,紅酒,Chateau Thieuley,,Bordeaux,波爾多,France,法國,,2012,750ml,8.1,20000,RCA
+481,481,CFW00869-2016-00750,Chateau Haut Pougnan Blanc,,,White,白酒,Chateau Haut Pougnan,,Bordeaux,波爾多,France,法國,,2016,750ml,3.25,20000,RCA
+482,482,CFW00787-2011-00750,Chateau Beylie La Croix,,,Red,紅酒,Chateau Beylie La Croix,,Bordeaux,波爾多,France,法國,,2011,750ml,3.8,20000,RCA
+483,483,CFW00473-2011-00750,Chateau Bourdieu,,Crus Bourgeois,Red,紅酒,Chateau Bourdieu,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.45,20000,RCA
+484,484,CFW00598-2013-00750,Chateau Trois Moulins,,Crus Bourgeois,Red,紅酒,Chateau Trois Moulins,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.3,21000,RCA
+485,485,CFW01882-2014-00750,Chateau Le Freyche,,,Red,紅酒,Chateau Le Freyche,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,6.1,22000,RCA
+486,486,CFW00372-2014-00750,Chateau d’Arsac,,Cru Bourgeois Superieur,Red,紅酒,Chateau d’Arsac,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,13.95,24000,RCA
+487,487,CFW00302-2014-00750,Chateau Bellegrave,,,Red,紅酒,Chateau Bellegrave,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,8.3,24000,RCA
+488,488,CFW01644-2014-00750,Chateau Bellegrave du Poujeau,,,Red,紅酒,Chateau Bellegrave du Poujeau,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.3,24000,RCA
+489,489,CFW00471-2012-00750,Chateau Blaignan,,Crus Bourgeois,Red,紅酒,Chateau Blaignan,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.2,24000,RCA
+490,490,CFW01460-2014-00750,Chateau Cap de Faugeres,,,Red,紅酒,Chateau Cap de Faugeres,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,10.95,24000,RCA
+491,491,CFW01460-2012-00750,Chateau Cap de Faugeres,,,Red,紅酒,Chateau Cap de Faugeres,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,10.3,24000,RCA
+492,492,CFW01460-2011-00750,Chateau Cap de Faugeres,,,Red,紅酒,Chateau Cap de Faugeres,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,10.3,24000,RCA
+493,493,CFW00382-2011-00750,Chateau Caronne Sainte Gemme,,Cru Bourgeois Superieur,Red,紅酒,Chateau Caronne Sainte Gemme,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.5,24000,RCA
+494,494,CFW00398-2011-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2011,750ml,9.4,24000,RCA
+495,495,CFW01729-2011-00750,Chateau Gadet Terrefort,,,Red,紅酒,Chateau Gadet Terrefort,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,5.05,24000,RCA
+496,496,CFW00521-2010-00750,Chateau Hourbanon,,Crus Bourgeois,Red,紅酒,Chateau Hourbanon,,"Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,9.45,24000,RCA
+497,497,CFW00910-2016-00750,Chateau Lacoste Garzac,,,Red,紅酒,Chateau Lacoste Garzac,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+498,498,CFW01777-2010-00750,Chateau Lalaudey,,,Red,紅酒,Chateau Lalaudey,,"Moulis, Bordeaux",波爾多,France,法國,,2010,750ml,10.9,24000,RCA
+499,499,CFW02108-2012-00750,Chateau Mauvesin Barton,,,Red,紅酒,Chateau Mauvesin Barton,,Bordeaux,波爾多,France,法國,,2012,750ml,12.3,24000,RCA
+500,500,CFW01670-2006-00750,Chateau Moulins de Citran,,,Red,紅酒,Chateau Moulins de Citran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,8.45,24000,RCA
+501,501,CFW01724-2013-00750,Chateau de Panigon,,,Red,紅酒,Chateau de Panigon,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.2,24000,RCA
+502,502,CFW01763-2011-00750,Chateau Plaisance,,,Red,紅酒,Chateau Plaisance,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,5.2,24000,RCA
+503,503,CFW01763-2007-00750,Chateau Plaisance,,,Red,紅酒,Chateau Plaisance,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2007,750ml,4.5,24000,RCA
+504,504,CFW00577-2013-00750,Chateau Saint Christophe,,Crus Bourgeois,Red,紅酒,Chateau Saint Christophe,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,4.7,24000,RCA
+505,505,CFW00445-2013-00750,Chateau Tour de Pez,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,13.2,24000,RCA
+506,506,CFW00447-2007-00750,Chateau Tour Haut Caussan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour Haut Caussan,,"Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,6.75,24000,RCA
+507,507,CFW00596-2010-00750,Chateau Tour Saint Fort,,Crus Bourgeois,Red,紅酒,Chateau Tour Saint Fort,,"St. Estephe, Bordeaux",波爾多,France,法國,,2010,750ml,13.8,24000,RCA
+508,508,CFW00449-2003-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2003,750ml,10.8,24000,RCA
+509,509,CFW00449-2002-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2002,750ml,10.0,24000,RCA
+510,510,CFW01748-2015-00750,Chateau de Verdun,,,Red,紅酒,Chateau Sipian,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,3.8,24000,RCA
+511,511,CFW00910-2016-00750,Chateau Lacoste Garzac,,,Red,紅酒,Chateau Lacoste Garzac,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+512,512,CFW01460-2012-00750,Chateau Cap de Faugeres,,,Red,紅酒,Chateau Cap de Faugeres,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,10.3,24000,RCA
+513,513,CFW01724-2013-00750,Chateau de Panigon,,,Red,紅酒,Chateau de Panigon,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,6.2,24000,RCA
+514,514,CFW01644-2014-00750,Chateau Bellegrave du Poujeau,,,Red,紅酒,Chateau Bellegrave du Poujeau,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.3,24000,RCA
+515,515,CFW00389-2011-00750,Chateau Clauzet,,Cru Bourgeois Superieur,Red,紅酒,Chateau Clauzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,14.05,25000,RCA
+516,516,CFW01776-2011-00750,Chateau Jordi,,,Red,紅酒,Chateau Jordi,,"Moulis, Bordeaux",波爾多,France,法國,,2011,750ml,7.6,25000,RCA
+517,517,CFW01789-2012-00750,La Rose Pauillac,,,Red,紅酒,La Rose Pauillac,,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,14.4,25000,RCA
+518,518,CFW01555-2015-00750,"Chateau Tour de Guiet ""Tradition""",,,Red,紅酒,Chateau Tour de Guiet,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2015,750ml,5.0,25000,RCA
+519,519,CFW01776-2011-00750,Chateau Jordi,,,Red,紅酒,Chateau Jordi,,"Moulis, Bordeaux",波爾多,France,法國,,2011,750ml,7.6,25000,RCA
+520,520,CFW01963-2008-00750,Chateau Arnauton,,,Red,紅酒,Chateau Arnauton,,Bordeaux,波爾多,France,法國,,2008,750ml,6.6,30000,RCA
+521,521,CFW00473-2013-00750,Chateau Bourdieu,,Crus Bourgeois,Red,紅酒,Chateau Bourdieu,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,30000,RCA
+522,522,CFW01963-2008-00750,Chateau Arnauton,,,Red,紅酒,Chateau Arnauton,,Bordeaux,波爾多,France,法國,,2008,750ml,6.6,30000,RCA
+523,523,CFW00429-2011-00750,Chateau Paloumey,,Cru Bourgeois Superieur,Red,紅酒,Chateau Paloumey,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.7,36000,RCA
+524,524,CFW01777-2012-00750,Chateau Lalaudey,,,Red,紅酒,Chateau Lalaudey,,"Moulis, Bordeaux",波爾多,France,法國,,2012,750ml,10.0,48000,RCA
+525,525,CFW00452-2013-00750,Chateau Andron Blanquet,,Crus Bourgeois,Red,紅酒,Chateau Andron Blanquet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,10.3,12000,RCA
+526,526,CFW00452-2011-00750,Chateau Andron Blanquet,,Crus Bourgeois,Red,紅酒,Chateau Andron Blanquet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,11.3,12000,RCA
+527,527,CFW00162-2013-00750,Chateau Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,12000,RCA
+528,528,CFW00399-2012-00750,Chateau Fourcas Hosten,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Hosten,,"Listrac, Bordeaux",波爾多,France,法國,,2012,750ml,11.6,12000,RCA
+529,529,CFW00399-2011-00750,Chateau Fourcas Hosten,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Hosten,,"Listrac, Bordeaux",波爾多,France,法國,,2011,750ml,11.6,12000,RCA
+530,530,CFW00411-2013-00750,Chateau Lamothe Bergeron,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lamothe Bergeron,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,10.7,12000,RCA
+531,531,CFW00411-2012-00750,Chateau Lamothe Bergeron,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lamothe Bergeron,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,10.95,12000,RCA
+532,532,CFW00411-2011-00750,Chateau Lamothe Bergeron,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lamothe Bergeron,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.95,12000,RCA
+533,533,CFW00819-2010-00750,Chateau du Carpia Rouge,,,Red,紅酒,Chateau du Carpia,,Bordeaux,波爾多,France,法國,,2010,750ml,5.05,12000,RCA
+534,534,CFW00162-2013-00750,Chateau Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.95,12000,RCA
+535,535,CFW02103-2014-00750,Chateau Marjosse Rouge,,,Red,紅酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2014,750ml,6.55,20000,RCA
+536,536,CFW02103-2012-00750,Chateau Marjosse Rouge,,,Red,紅酒,Chateau Marjosse,,Bordeaux,波爾多,France,法國,,2012,750ml,6.3,20000,RCA
+537,537,CFW01539-2012-00750,Chateau Fougas Maldoror,,,Red,紅酒,Chateau Fougas,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2012,750ml,11.1,2400,RCA
+538,538,CFW01539-2011-00750,Chateau Fougas Maldoror,,,Red,紅酒,Chateau Fougas,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2011,750ml,12.7,2400,RCA
+539,539,CFW01539-2010-00750,Chateau Fougas Maldoror,,,Red,紅酒,Chateau Fougas,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2010,750ml,13.2,2400,RCA
+540,540,CFW01870-2014-00750,Chateau Grand Corbin Manuel,,,Red,紅酒,Chateau Grand Corbin Manuel,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,12.2,2400,RCA
+541,541,CFW01870-2013-00750,Chateau Grand Corbin Manuel,,,Red,紅酒,Chateau Grand Corbin Manuel,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,11.3,2400,RCA
+542,542,CFW01870-2011-00750,Chateau Grand Corbin Manuel,,,Red,紅酒,Chateau Grand Corbin Manuel,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,11.55,2400,RCA
+543,543,CFW01718-2015-00750,Chateau Amour,,,Red,紅酒,Chateau Amour,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,6.45,24000,RCA
+544,544,CFW01718-2014-00750,Chateau Amour,,,Red,紅酒,Chateau Amour,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.3,24000,RCA
+545,545,CFW01963-2010-00750,Chateau Arnauton,,,Red,紅酒,Chateau Arnauton,,Bordeaux,波爾多,France,法國,,2010,750ml,8.1,24000,RCA
+546,546,CFW01533-2015-00750,Chateau Les Aubiers,,,Red,紅酒,Chateau Les Aubiers,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,4.05,24000,RCA
+547,547,CFW01533-2014-00750,Chateau Les Aubiers,,,Red,紅酒,Chateau Les Aubiers,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,4.05,24000,RCA
+548,548,CFW01800-2014-00750,Chateau Baret Rouge,,,Red,紅酒,Chateau Baret,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,10.2,24000,RCA
+549,549,CFW01800-2013-00750,Chateau Baret Rouge,,,Red,紅酒,Chateau Baret,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2013,750ml,9.8,24000,RCA
+550,550,CFW01800-2012-00750,Chateau Baret Rouge,,,Red,紅酒,Chateau Baret,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2012,750ml,10.1,24000,RCA
+551,551,CFW01853-2012-00750,Chateau Beard la Chapelle,,,Red,紅酒,Chateau Beard la Chapelle,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,9.7,24000,RCA
+552,552,CFW00787-2011-00750,Chateau Beylie La Croix,,,Red,紅酒,Chateau Beylie La Croix,,Bordeaux,波爾多,France,法國,,2011,750ml,3.8,24000,RCA
+553,553,CFW00471-2011-00750,Chateau Blaignan,,Crus Bourgeois,Red,紅酒,Chateau Blaignan,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,7.2,24000,RCA
+554,554,CFW00883-2015-00750,Chateau la Blanquerie,,,Red,紅酒,Chateau la Blanquerie,,Bordeaux,波爾多,France,法國,,2015,750ml,3.7,24000,RCA
+555,555,CFW00883-2014-00750,Chateau la Blanquerie,,,Red,紅酒,Chateau la Blanquerie,,Bordeaux,波爾多,France,法國,,2014,750ml,3.7,24000,RCA
+556,556,CFW00801-2015-00750,Chateau de Brandey,,,Red,紅酒,Chateau de Brandey,,Bordeaux,波爾多,France,法國,,2015,750ml,2.8,24000,RCA
+557,557,CFW01460-2013-00750,Chateau Cap de Faugeres,,,Red,紅酒,Chateau Cap de Faugeres,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2013,750ml,9.05,24000,RCA
+558,558,CFW00162-2014-00750,Chateau Cantemerle,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Cantemerle,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,5.95,24000,RCA
+559,559,CFW00385-2014-00750,Chateau Charmail,,Cru Bourgeois Superieur,Red,紅酒,Chateau Charmail,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,11.45,24000,RCA
+560,560,CFW01006-2016-00750,Closerie Saint Vincent,,,Red,紅酒,Closerie Saint Vincent,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+561,561,CFW00884-2016-00750,Chateau La Coudraie,,,Red,紅酒,Chateau La Coudraie,,Bordeaux,波爾多,France,法國,,2016,750ml,2.9,24000,RCA
+562,562,CFW00884-2015-00750,Chateau La Coudraie,,,Red,紅酒,Chateau La Coudraie,,Bordeaux,波爾多,France,法國,,2015,750ml,2.95,24000,RCA
+563,563,CFW00392-2014-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,11.5,24000,RCA
+564,564,CFW00392-2013-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,10.3,24000,RCA
+565,565,CFW00392-2012-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,11.0,24000,RCA
+566,566,CFW00392-2011-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.8,24000,RCA
+567,567,CFW00392-2010-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,13.0,24000,RCA
+568,568,CFW00392-2009-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,13.0,24000,RCA
+569,569,CFW00392-2008-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,11.0,24000,RCA
+570,570,CFW00392-2007-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,10.5,24000,RCA
+571,571,CFW00392-2006-00750,Chateau Coufran,,Cru Bourgeois Superieur,Red,紅酒,Chateau Coufran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,11.0,24000,RCA
+572,572,CFW01877-2014-00750,Chateau La Croix Fourney,,,Red,紅酒,Chateau La Croix Fourney,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,7.8,24000,RCA
+573,573,CFW01862-2013-00750,Le Different de Chateau de Ferrand,,,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,8.2,24000,RCA
+574,574,CFW01862-2012-00750,Le Different de Chateau de Ferrand,,,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,9.24,24000,RCA
+575,575,CFW00500-2014-00750,Chateau d’Escot,,Crus Bourgeois,Red,紅酒,Chateau d’Escot,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.9,24000,RCA
+576,576,CFW01734-2008-00750,Chateau L'Esperance,,,Red,紅酒,Chateau L'Esperance,,"Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,3.7,24000,RCA
+577,577,CFW00934-2016-00750,Chateau Les Fermenteaux,,,Red,紅酒,Chateau Les Fermenteaux,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+578,578,CFW00934-2015-00750,Chateau Les Fermenteaux,,,Red,紅酒,Chateau Les Fermenteaux,,Bordeaux,波爾多,France,法國,,2015,750ml,2.75,24000,RCA
+579,579,CFW00830-2015-00750,Chateau Fleur Haut Gaussens,,,Red,紅酒,Chateau Fleur Haut Gaussens,,Bordeaux,波爾多,France,法國,,2015,750ml,5.2,24000,RCA
+580,580,CFW00830-2014-00750,Chateau Fleur Haut Gaussens,,,Red,紅酒,Chateau Fleur Haut Gaussens,,Bordeaux,波爾多,France,法國,,2014,750ml,5.2,24000,RCA
+581,581,CFW00830-2012-00750,Chateau Fleur Haut Gaussens,,,Red,紅酒,Chateau Fleur Haut Gaussens,,Bordeaux,波爾多,France,法國,,2012,750ml,5.2,24000,RCA
+582,582,CFW00889-2015-00750,Chateau La Freynelle Rouge,,,Red,紅酒,Chateau La Freynelle,,Bordeaux,波爾多,France,法國,,2015,750ml,4.05,24000,RCA
+583,583,CFW01729-2014-00750,Chateau Gadet Terrefort,,,Red,紅酒,Chateau Gadet Terrefort,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,5.2,24000,RCA
+584,584,CFW00891-2016-00750,Chateau La Galante,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+585,585,CFW00891-2015-00750,Chateau La Galante,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2015,750ml,3.25,24000,RCA
+586,586,CFW01732-2011-00750,Chateau Gemeillan,,,Red,紅酒,Chateau Gemeillan,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.1,24000,RCA
+587,587,CFW01464-2014-00750,Chateau German,,,Red,紅酒,Chateau German,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,4.45,24000,RCA
+588,588,CFW00508-2012-00750,Chateau La Gorce,,Crus Bourgeois,Red,紅酒,Chateau La Gorce,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,6.5,24000,RCA
+589,589,CFW00508-2011-00750,Chateau La Gorce,,Crus Bourgeois,Red,紅酒,Chateau La Gorce,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.5,24000,RCA
+590,590,CFW01871-2014-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,9.7,24000,RCA
+591,591,CFW01871-2008-00750,Chateau Grand Pey Lescours,,,Red,紅酒,Chateau Grand Pey Lescours,,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,9.5,24000,RCA
+592,592,CFW00511-2011-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.2,24000,RCA
+593,593,CFW00774-2015-00750,Chateau La Grange d'Orlean,,,Red,紅酒,Chateau La Grange d'Orlean,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,3.05,24000,RCA
+594,594,CFW00771-2015-00750,Chateau Graves du Champ des Chails,,,Red,紅酒,Chateau Graves du Champ des Chails,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,3.15,24000,RCA
+595,595,CFW01842-2015-00750,Chateau Guibeau,,,Red,紅酒,Chateau Guibeau,,"Puisseguin Saint Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,6.55,24000,RCA
+596,596,CFW00861-2015-00750,Chateau Haut Cormier,,,Red,紅酒,Chateau Haut Cormier,,Bordeaux,波爾多,France,法國,,2015,750ml,3.1,24000,RCA
+597,597,CFW00059-2014-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,10.95,24000,RCA
+598,598,CFW00865-2016-00750,Chateau Haut Maginet,,,Red,紅酒,Chateau Haut Maginet,,Bordeaux,波爾多,France,法國,,2016,750ml,3.05,24000,RCA
+599,599,CFW00868-2015-00750,Chateau Haut Peyruguet,,,Red,紅酒,Chateau Haut Peyruguet,,Bordeaux,波爾多,France,法國,,2015,750ml,3.0,24000,RCA
+600,600,CFW00773-2015-00750,Chateau Haut Sociando,,,Red,紅酒,Chateau Haut Sociando,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,3.95,24000,RCA
+601,601,CFW00773-2014-00750,Chateau Haut Sociando,,,Red,紅酒,Chateau Haut Sociando,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,3.95,24000,RCA
+602,602,CFW00864-2015-00750,Chateau Haut Landon,,,Red,紅酒,Chateau Haut Landon,,Bordeaux,波爾多,France,法國,,2015,750ml,2.95,24000,RCA
+603,603,CFW01465-2015-00750,Chateau Hyot,,,Red,紅酒,Chateau Hyot,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2015,750ml,4.45,24000,RCA
+604,604,CFW01465-2014-00750,Chateau Hyot,,,Red,紅酒,Chateau Hyot,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2014,750ml,4.45,24000,RCA
+605,605,CFW01465-2012-00750,Chateau Hyot,,,Red,紅酒,Chateau Hyot,,"Castillon Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2012,750ml,4.45,24000,RCA
+606,606,CFW00879-2014-00750,Chateau Jeanguillon,,,Red,紅酒,Chateau Jeanguillon,,Bordeaux,波爾多,France,法國,,2014,750ml,3.15,24000,RCA
+607,607,CFW00911-2014-00750,Chateau Lafite Monteil,,,Red,紅酒,Chateau Lafite Monteil,,Bordeaux,波爾多,France,法國,,2014,750ml,5.3,24000,RCA
+608,608,CFW00912-2014-00750,"Chateau Lajarre ""Cuvee Eleonore""",,,Red,紅酒,Chateau Lajarre,,Bordeaux,波爾多,France,法國,,2014,750ml,4.0,24000,RCA
+609,609,CFW01530-2011-00750,Chateau Laroche,,,Red,紅酒,Chateau Laroche,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2011,750ml,3.8,24000,RCA
+610,610,CFW01530-2008-00750,Chateau Laroche,,,Red,紅酒,Chateau Laroche,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2008,750ml,3.55,24000,RCA
+611,611,CFW01531-2010-00750,Chateau Laroche Bel Air,,,Red,紅酒,Chateau Laroche Bel Air,,"Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2010,750ml,6.2,24000,RCA
+612,612,CFW01548-2014-00750,Chateau Laroche Joubert,,,Red,紅酒,Chateau Laroche Joubert,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2014,750ml,4.2,24000,RCA
+613,613,CFW00415-1996-00750,Chateau Lestage Simon,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lestage Simon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,1996,750ml,7.0,24000,RCA
+614,614,CFW00778-2016-00750,Chateau Lussan,,,Red,紅酒,Chateau Lussan,,"Blaye Cotes de Bordeaux, Bordeaux",波爾多,France,法國,,2016,750ml,3.05,24000,RCA
+615,615,CFW01762-2014-00750,Chateau de Maison Neuve,,,Red,紅酒,Chateau de Maison Neuve,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,6.2,24000,RCA
+616,616,CFW00939-2015-00750,Chateau Malbat,,,Red,紅酒,Chateau Malbat,,Bordeaux,波爾多,France,法國,,2015,750ml,3.0,24000,RCA
+617,617,CFW01666-2014-00750,Chateau Martin,,,Red,紅酒,Chateau Martin,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,5.2,24000,RCA
+618,618,CFW00547-2014-00750,Chateau Meyre,,Crus Bourgeois,Red,紅酒,Chateau Meyre,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,8.45,24000,RCA
+619,619,CFW00955-2014-00750,Chateau Montet,,,Red,紅酒,Chateau Montet,,Bordeaux,波爾多,France,法國,,2014,750ml,3.7,24000,RCA
+620,620,CFW00957-2014-00750,Chateau Moulin de la Souloire,,,Red,紅酒,Chateau Moulin de la Souloire,,Bordeaux,波爾多,France,法國,,2014,750ml,3.2,24000,RCA
+621,621,CFW00958-2015-00750,Chateau Moulin de Vignolle,,,Red,紅酒,Chateau Moulin de Vignolle,,Bordeaux,波爾多,France,法國,,2015,750ml,3.0,24000,RCA
+622,622,CFW01670-2012-00750,Chateau Moulins de Citran,,,Red,紅酒,Chateau Moulins de Citran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.45,24000,RCA
+623,623,CFW01670-2010-00750,Chateau Moulins de Citran,,,Red,紅酒,Chateau Moulins de Citran,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,9.2,24000,RCA
+624,624,CFW00555-2013-00750,Chateau Noaillac,,Crus Bourgeois,Red,紅酒,Chateau Noaillac,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.8,24000,RCA
+625,625,CFW00793-2014-00750,Chateau d'Orval,,,Red,紅酒,Chateau d'Orval,,Bordeaux,波爾多,France,法國,,2014,750ml,2.8,24000,RCA
+626,626,CFW01724-2015-00750,Chateau de Panigon,,,Red,紅酒,Chateau de Panigon,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,6.55,24000,RCA
+627,627,CFW01724-2014-00750,Chateau de Panigon,,,Red,紅酒,Chateau de Panigon,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.45,24000,RCA
+628,628,CFW01745-2014-00750,Chateau Pey de Pont,,,Red,紅酒,Chateau Pey de Pont,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.3,24000,RCA
+629,629,CFW00558-2014-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,12.2,24000,RCA
+630,630,CFW00558-2013-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,8.95,24000,RCA
+631,631,CFW00558-2011-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,9.55,24000,RCA
+632,632,CFW00558-2009-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,14.05,24000,RCA
+633,633,CFW00558-2008-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,11.45,24000,RCA
+634,634,CFW00558-2006-00750,Chateau Peyrabon,,Crus Bourgeois,Red,紅酒,Chateau Peyrabon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,11.3,24000,RCA
+635,635,CFW01649-2013-00750,Chateau Pomies Agassac,,,Red,紅酒,Chateau D'Agassac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.2,24000,RCA
+636,636,CFW01649-2012-00750,Chateau Pomies Agassac,,,Red,紅酒,Chateau D'Agassac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.2,24000,RCA
+637,637,CFW01746-2012-00750,Chateau Pontet Barrail,,,Red,紅酒,Chateau Pontet Barrail,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.3,24000,RCA
+638,638,CFW01639-2015-00750,Chateau Pouyanne Blanc,,,White,白酒,Chateau Pouyanne,,"Graves, Bordeaux",波爾多,France,法國,,2015,750ml,3.8,24000,RCA
+639,639,CFW00969-2014-00750,Chateau Prieure Canteloup,,,Red,紅酒,Chateau Prieure Canteloup,,Bordeaux,波爾多,France,法國,,2014,750ml,4.6,24000,RCA
+640,640,CFW00969-2012-00750,Chateau Prieure Canteloup,,,Red,紅酒,Chateau Prieure Canteloup,,Bordeaux,波爾多,France,法國,,2012,750ml,4.6,24000,RCA
+641,641,CFW00970-2016-00750,Chateau Puy de Guirande,,,Red,紅酒,Chateau Puy de Guirande,,Bordeaux,波爾多,France,法國,,2016,750ml,2.75,24000,RCA
+642,642,CFW01552-2015-00750,Chateau Romfort,,,Red,紅酒,Chateau Romfort,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2015,750ml,3.8,24000,RCA
+643,643,CFW01552-2014-00750,Chateau Romfort,,,Red,紅酒,Chateau Romfort,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2014,750ml,3.75,24000,RCA
+644,644,CFW01766-2015-00750,Chateau Roudier,,,Red,紅酒,Chateau Roudier,,"Montagne Saint Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,2.95,24000,RCA
+645,645,CFW00575-2012-00750,Chateau Saint Ahon,,Crus Bourgeois,Red,紅酒,Chateau Saint Ahon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,7.5,24000,RCA
+646,646,CFW00579-2011-00750,Chateau Saint Hilaire,,Crus Bourgeois,Red,紅酒,Chateau Saint Hilaire,,"Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,6.05,24000,RCA
+647,647,CFW01896-2014-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,12.0,24000,RCA
+648,648,CFW01896-2013-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,11.3,24000,RCA
+649,649,CFW01896-2012-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,12.0,24000,RCA
+650,650,CFW01896-2011-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,12.0,24000,RCA
+651,651,CFW01896-2010-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,13.5,24000,RCA
+652,652,CFW01896-2008-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,12.0,24000,RCA
+653,653,CFW01896-2004-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2004,750ml,7.5,24000,RCA
+654,654,CFW01896-2000-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2000,750ml,12.5,24000,RCA
+655,655,CFW01896-1996-00750,Chateau Simard,,,Red,紅酒,Chateau Simard,,"St. Emilion, Bordeaux",波爾多,France,法國,,1996,750ml,8.5,24000,RCA
+656,656,CFW00440-2014-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,11.2,24000,RCA
+657,657,CFW00440-2012-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,10.95,24000,RCA
+658,658,CFW00440-2011-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.8,24000,RCA
+659,659,CFW00440-2010-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,12.8,24000,RCA
+660,660,CFW00440-2008-00750,Chateau Soudars,,Cru Bourgeois Superieur,Red,紅酒,Chateau Soudars,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,10.8,24000,RCA
+661,661,CFW00441-2013-00750,Chateau du Taillan,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Taillan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,7.8,24000,RCA
+662,662,CFW00441-2012-00750,Chateau du Taillan,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Taillan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,8.8,24000,RCA
+663,663,CFW00896-2015-00750,Chateau Tertre de Courban,,,Red,紅酒,Chateau La Galante,,Bordeaux,波爾多,France,法國,,2015,750ml,3.25,24000,RCA
+664,664,CFW00988-2014-00750,Chateau Theophile,,,Red,紅酒,Chateau Theophile,,Bordeaux,波爾多,France,法國,,2014,750ml,2.95,24000,RCA
+665,665,CFW00992-2014-00750,"Chateau Thieuley ""Reserve Francis Courselle"" Rouge",,,Red,紅酒,Chateau Thieuley,,Bordeaux,波爾多,France,法國,,2014,750ml,8.1,24000,RCA
+666,666,CFW00447-2013-00750,Chateau Tour Haut Caussan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour Haut Caussan,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,10.2,24000,RCA
+667,667,CFW00447-2012-00750,Chateau Tour Haut Caussan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Tour Haut Caussan,,"Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,10.95,24000,RCA
+668,668,CFW01001-2015-00750,Chateau Toutigeac,,,Red,紅酒,Chateau Toutigeac,,Bordeaux,波爾多,France,法國,,2015,750ml,3.0,24000,RCA
+669,669,CFW01741-2013-00750,Chateau Les Trois Manoirs,,,Red,紅酒,Chateau Les Trois Manoirs,,"Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,5.7,24000,RCA
+670,670,CFW00449-2014-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,11.1,24000,RCA
+671,671,CFW00449-2013-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2013,750ml,10.3,24000,RCA
+672,672,CFW00449-2012-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2012,750ml,11.0,24000,RCA
+673,673,CFW00449-2011-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,10.7,24000,RCA
+674,674,CFW00449-2010-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,12.8,24000,RCA
+675,675,CFW00449-2009-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,12.8,24000,RCA
+676,676,CFW00449-2008-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,11.0,24000,RCA
+677,677,CFW00449-2007-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,10.3,24000,RCA
+678,678,CFW00449-2006-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,10.8,24000,RCA
+679,679,CFW00449-2004-00750,Chateau Verdignan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Verdignan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2004,750ml,10.7,24000,RCA
+680,680,CFW01754-2015-00750,Chateau Vieux Cassan,,,Red,紅酒,Chateau Vieux Cassan,,"Medoc, Bordeaux",波爾多,France,法國,,2015,750ml,3.95,24000,RCA
+681,681,CFW01002-2014-00750,Chateau Vieux Dominique,,,Red,紅酒,Chateau Vieux Dominique,,Bordeaux,波爾多,France,法國,,2014,750ml,4.05,24000,RCA
+682,682,CFW01002-2013-00750,Chateau Vieux Dominique,,,Red,紅酒,Chateau Vieux Dominique,,Bordeaux,波爾多,France,法國,,2013,750ml,3.45,24000,RCA
+683,683,CFW01003-2015-00750,Chateau Virecourt Conte,,,Red,紅酒,Chateau Virecourt Conte,,Bordeaux,波爾多,France,法國,,2015,750ml,3.9,24000,RCA
+684,684,CFW01003-2014-00750,Chateau Virecourt Conte,,,Red,紅酒,Chateau Virecourt Conte,,Bordeaux,波爾多,France,法國,,2014,750ml,3.9,24000,RCA
+685,685,CFW01003-2011-00750,Chateau Virecourt Conte,,,Red,紅酒,Chateau Virecourt Conte,,Bordeaux,波爾多,France,法國,,2011,750ml,3.7,24000,RCA
+686,686,CFW00934-2015-00750,Chateau Les Fermenteaux,,,Red,紅酒,Chateau Les Fermenteaux,,Bordeaux,波爾多,France,法國,,2015,750ml,2.75,24000,RCA
+687,687,CFW00955-2014-00750,Chateau Montet,,,Red,紅酒,Chateau Montet,,Bordeaux,波爾多,France,法國,,2014,750ml,3.7,24000,RCA
+688,688,CFW00889-2015-00750,Chateau La Freynelle Rouge,,,Red,紅酒,Chateau La Freynelle,,Bordeaux,波爾多,France,法國,,2015,750ml,4.05,24000,RCA
+689,689,CFW01552-2015-00750,Chateau Romfort,,,Red,紅酒,Chateau Romfort,,"Cotes de Bourg, Bordeaux",波爾多,France,法國,,2015,750ml,3.8,24000,RCA
+690,690,CFW01003-2014-00750,Chateau Virecourt Conte,,,Red,紅酒,Chateau Virecourt Conte,,Bordeaux,波爾多,France,法國,,2014,750ml,3.9,24000,RCA
+691,691,CFW00911-2014-00750,Chateau Lafite Monteil,,,Red,紅酒,Chateau Lafite Monteil,,Bordeaux,波爾多,France,法國,,2014,750ml,5.3,24000,RCA
+692,692,CFW01745-2014-00750,Chateau Pey de Pont,,,Red,紅酒,Chateau Pey de Pont,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.3,24000,RCA
+693,693,CFW01718-2014-00750,Chateau Amour,,,Red,紅酒,Chateau Amour,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,6.3,24000,RCA
+694,694,CFW00415-1996-00750,Chateau Lestage Simon,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lestage Simon,,"Haut Medoc, Bordeaux",波爾多,France,法國,,1996,750ml,7.0,24000,RCA
+695,695,CFW00511-2011-00750,Chateau Grandis,,Crus Bourgeois,Red,紅酒,Chateau Grandis,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2011,750ml,8.2,24000,RCA
+696,696,CFW00830-2011-00750,Chateau Fleur Haut Gaussens,,,Red,紅酒,Chateau Fleur Haut Gaussens,,Bordeaux,波爾多,France,法國,,2011,750ml,5.2,3750,RCA
+697,697,CFW00412-2008-00750,Chateau Lanessan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,12.0,600,RCA
+698,698,CFW00412-2007-00750,Chateau Lanessan,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lanessan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,11.5,600,RCA
+699,699,CFW01936-2002-00375,Chateau Pineau du Rey,,,Sweet,甜酒,Chateau Pineau du Rey,,"Sauternes, Bordeaux",波爾多,France,法國,,2002,375ml,4.7,6000,RCA
+700,700,CFW00419-2008-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2008,750ml,9.7,6000,RCA
+701,701,CFW00419-2007-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2007,750ml,9.0,6000,RCA
+702,702,CFW00419-2002-00750,Chateau Malescasse,,Cru Bourgeois Superieur,Red,紅酒,Chateau Malescasse,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2002,750ml,10.2,6000,RCA

@@ -1,0 +1,18 @@
+,Unnamed: 0,item id,wine,wine chinese,growth,type english,type chinese,vendor english,vendor chinese,region english,region chinese,country english,country chinese,rating,year,format,price,qty,negoce
+0,0,CFW02157-2012-00750,Chateau Trians Rose,,,Rose,玫瑰酒,Chateau Trians,,Bordeaux,波爾多,France,法國,,2012,750ml,4.2,12,BM
+1,1,CFW01495-2002-00750,Pol Roger Winston Churchill,,,Champagne,香槟,Pol Roger,,Champagne,香槟,France,法國,,2002,750ml,145.0,23,BM
+2,2,CFW00610-2011-00750,E. Guigal La Landonne,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2011,750ml,219.0,24,BM
+3,3,CFW00611-2011-00750,E. Guigal La Mouline,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2011,750ml,219.0,24,BM
+4,4,CFW00612-2011-00750,E. Guigal La Turque,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2011,750ml,219.0,24,BM
+5,5,CFW00610-2012-00750,E. Guigal La Landonne,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2012,750ml,220.0,42,BM
+6,6,CFW00612-2012-00750,E. Guigal La Turque,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2012,750ml,220.0,48,BM
+7,7,CFW00610-2013-00750,E. Guigal La Landonne,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2013,750ml,205.0,54,BM
+8,8,CFW00611-2012-00750,E. Guigal La Mouline,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2012,750ml,220.0,54,BM
+9,9,CFW00611-2013-00750,E. Guigal La Mouline,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2013,750ml,205.0,54,BM
+10,10,CFW00612-2013-00750,E. Guigal La Turque,,,Red,紅酒,E. Guigal,,"Cote Rotie, Northern Rhone","羅蒂丘, 北隆河谷",France,法國,,2013,750ml,205.0,54,BM
+11,11,CFW02157-2014-00750,Chateau Trians Rose,,,Rose,玫瑰酒,Chateau Trians,,Bordeaux,波爾多,France,法國,,2014,750ml,4.6,55,BM
+12,12,CFW02157-2014-01500,Chateau Trians Rose,,,Rose,玫瑰酒,Chateau Trians,,Bordeaux,波爾多,France,法國,,2014,1500ml,9.5,95,BM
+13,13,CFW02010-2012-00750,Chateau de Lignane Cuvee Jean,,,Red,紅酒,Chateau de Lignane Cuvee Jean,,Bordeaux,波爾多,France,法國,,2012,750ml,5.3,131,BM
+14,14,CFW02156-2014-00750,Chateau Trians Blanc,,,White,白酒,Chateau Trians,,Bordeaux,波爾多,France,法國,,2014,750ml,4.6,175,BM
+15,15,CFW02019-2014-00750,Chateau du Retout Blanc,,,White,白酒,Chateau du Retout,,Bordeaux,波爾多,France,法國,,2014,750ml,10.2,192,BM
+16,16,CFW02010-2013-00750,Chateau de Lignane Cuvee Jean,,,Red,紅酒,Chateau de Lignane Cuvee Jean,,Bordeaux,波爾多,France,法國,,2013,750ml,5.3,288,BM

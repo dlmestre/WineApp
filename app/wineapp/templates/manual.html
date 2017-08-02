@@ -1,0 +1,18 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+<div class="manualinput">
+  <form action="" method="POST">
+    {% csrf_token %}
+    <input type="text" name="wine" placeholder="wine"></br>
+    <input type="text" name="cost" placeholder="cost"></br>
+    <input type="text" name="vintage" placeholder="vintage"></br>
+    <input type="text" name="region" placeholder="region"></br>
+    <input type="text" name="quantity" placeholder="quantity"></br>
+    <input type="text" name="negoce" placeholder="negoce"></br>
+    <input type="submit" value="Submit">    
+  </form>
+</div>
+
+{% endblock %}

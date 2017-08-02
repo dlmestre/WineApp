@@ -1,0 +1,30 @@
+{% extends 'pages_base.html' %}
+
+{% load staticfiles %}
+{% block header %}
+
+<link href="{% static 'css/jquery.dataTables.min.css' %}" rel="stylesheet">
+
+<script type="text/javascript" src="{% static 'js/ajax.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ajax2.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/form.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/sync.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/helper_functions.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.dataTables.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tablesorter.min.js' %}"></script>
+<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>
+
+{% endblock %}
+
+{% block content %}
+
+<div id="output"></div>
+
+<br>
+<p>A csv file that contains two columns: the databases wines that were matched, and their respective dictionary wine</p>
+<a href="/workingwines/"><button type="button" class="btn btn-success">CSV with working wines</button></a>
+<br>
+<br>
+<p>A csv file with all wines that got no matches</p>
+<a href="/notworkingwines/"><button type="button" class="btn btn-success">CSV with not working wines</button></a>
+{% endblock %} 

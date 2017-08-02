@@ -1,0 +1,125 @@
+{% extends 'pages_base.html' %}
+
+{% load staticfiles %}
+{% block header %}
+
+<link href="{% static 'css/jquery.dataTables.min.css' %}" rel="stylesheet">
+
+<script type="text/javascript" src="{% static 'js/ajax.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/ajax2.js' %}"></script>
+<script type="text/javascript" src="{% static 'new_js/forms.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/helper_functions.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.dataTables.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.tablesorter.min.js' %}"></script>
+<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>
+
+{% endblock %}
+
+{% block content %}
+
+<div class="col-lg-12">
+
+<p hidden>{{posted}}</p>
+{% if msg %}
+    <div style="color:red"><p>{{msg|linebreaks}}</p></div></br>
+{% endif %}
+<div class="tablediv">
+    {% for id,title,type,value,position in data %}
+    <div class="wrapdiv">
+        {% if position == '100' %}
+			<div class="blockdiv" style="color:red;">{{title}}</div>
+			<div class="blockdiv" style="color:red;">{{type}}</div>
+			<div class="blockdiv" style="color:red;">{{value}}</div>
+			<div class="blockdiv"><button type="button" class="btn btn-primary" onclick="insertForm({{position}})">edit/delete</button></div>
+		{% else %}
+			<div class="blockdiv">{{title}}</div>
+			<div class="blockdiv">{{type}}</div>
+			<div class="blockdiv">{{value}}</div>
+			<div class="blockdiv"><button type="button" class="btn btn-primary" onclick="insertForm({{position}})">edit/delete</button></div>
+		{% endif %}
+	</div>
+
+	{% if position == '100'%}
+	<div id=formdiv{{position}} style="width:680px">
+    <div class="wrapdiv">
+		<div class="form-group has-success">
+			<p>
+				<form method="post" action="">
+					{% csrf_token %}
+
+					<div class="col-xs-3"><input type=text class="form-control" name="costname" placeholder="Name"/></div>
+
+					<div class="form-group col-xs-2">
+						<select class="form-control" input type="text" name="costtype">
+							<option>%</option>
+							<option>HK$</option>
+						</select>
+					</div>
+
+					<div class="col-xs-2"><input type=text class="form-control" name="costvalue" placeholder="Value"/></div>
+
+					<button type="submit" class="btn btn-success" name="action" value="add">Add</button>
+				</form>
+			</p>
+		</div>
+    
+	</div>
+    </div>
+	{% else %}
+	<div id=formdiv{{position}} style="width:680px">	
+	<div class="wrapdiv">
+		<div class="form-group has-success">
+			<p>
+				<form method="post" action="">
+					{% csrf_token %}
+
+					<input type="hidden" name="costid" value="{{id}}">
+					<div class="col-xs-3"><input type=text class="form-control" name="costname" placeholder="Name"/></div>
+					<div class="form-group col-xs-2">
+						<select class="form-control" input type="text" name="costtype">
+							<option>%</option>
+							<option>HK$</option>
+						</select>
+					</div>
+					<div class="col-xs-2"><input type=text class="form-control" name="costvalue" placeholder="Value"/></div>
+					<button type="submit" class="btn btn-success" name="action" value="update">Update</button>
+					<button type="submit" class="btn btn-danger" name="action" value="delete">Delete</button>
+				</form>
+			</p>
+		</div>
+	</div>
+    </div>
+{% endif %}
+
+{% endfor %}
+
+    <br>
+    <br>
+    <p hidden>{{markup.name}} {{markup.value}}</p>
+    <div class="wrapdiv">
+        <div class="blockdiv">{{markup.name}}</div>
+        <div class="blockdiv">%</div>
+        <div class="blockdiv">{{markup.value}}</div>
+        <div class="blockdiv"><button type="button" class="btn btn-primary" onclick="insertForm({{markup.position}})">edit/delete</button></div>
+    </div>
+
+	<div id=formdiv{{markup.position}} style="width:680px">
+		<div class="form-group has-success">
+			<p>
+				<form method="post" action="">
+					{% csrf_token %}
+
+					<div class="col-xs-2"><input type=text class="form-control" name="markupvalue" placeholder="Markup"/></div>
+                    
+					<button type="submit" class="btn btn-success" name="action" value="markup">Edit</button>
+				</form>
+			</p>
+		</div>
+	</div>
+
+</div>
+
+</div>
+
+{% endblock %} 
+

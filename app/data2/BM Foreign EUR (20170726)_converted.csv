@@ -1,0 +1,48 @@
+,Unnamed: 0,item id,wine,wine chinese,growth,type english,type chinese,vendor english,vendor chinese,region english,region chinese,country english,country chinese,rating,year,format,price,qty,negoce
+0,0,CFW00708-1992-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,1992,750ml,350.0,1,BM
+1,1,CFW00648-2008-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2008,750ml,140.0,1,BM
+2,2,CFW00640-2008-03000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2008,3000ml,346.0,1,BM
+3,3,CFW00640-2009-03000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2009,3000ml,332.0,1,BM
+4,4,CFW00640-2012-06000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2012,6000ml,655.0,1,BM
+5,5,CFW00640-2014-09000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,9000ml,950.0,1,BM
+6,6,CFW00640-2014-06000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,6000ml,615.0,2,BM
+7,7,CFW00665-2007-00750,Vega Sicilia Unico,贝加西西里亚尤尼科干红,,Red,紅酒,Vega Sicilia,贝加西西里亚,Ribera del Duero,鬥羅河,Spain,西班牙,,2007,750ml,210.0,3,BM
+8,8,CFW00640-2014-03000,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,3000ml,310.0,3,BM
+9,9,CFW00640-2011-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2011,1500ml,155.0,5,BM
+10,10,CFW00648-2000-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2000,750ml,140.0,6,BM
+11,11,CFW00641-2013-01500,Almaviva,,,Red,紅酒,Almaviva,,Puente Alto,上普恩特,Chile,智利,,2013,1500ml,148.0,7,BM
+12,12,CFW00640-2010-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2010,1500ml,166.0,10,BM
+13,13,CFW00640-2014-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,1500ml,159.0,10,BM
+14,14,CFW00657-2008-00750,Masseto,马赛多干红,,Red,紅酒,Tenuta dell'Ornellaia,奥纳亚酒庄,Tuscany,托斯卡納,Italy,意大利,,2008,750ml,520.0,12,BM
+15,15,CFW00708-2009-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2009,750ml,300.0,12,BM
+16,16,CFW00665-2008-00750,Vega Sicilia Unico,贝加西西里亚尤尼科干红,,Red,紅酒,Vega Sicilia,贝加西西里亚,Ribera del Duero,鬥羅河,Spain,西班牙,,2008,750ml,195.0,12,BM
+17,17,CFW00641-2014-01500,Almaviva,,,Red,紅酒,Almaviva,,Puente Alto,上普恩特,Chile,智利,,2014,1500ml,144.0,12,BM
+18,18,CFW01947-2013-01500,Verite La Joie,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,1500ml,500.0,12,BM
+19,19,CFW01948-2013-01500,Verite La Muse,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,1500ml,500.0,12,BM
+20,20,CFW01949-2013-01500,Verite Le Desir,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,1500ml,500.0,12,BM
+21,21,CFW00640-2008-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2008,1500ml,172.0,13,BM
+22,22,CFW00640-2012-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2012,1500ml,162.0,15,BM
+23,23,CFW00640-2009-01500,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2009,1500ml,166.0,20,BM
+24,24,CFW00657-2010-00750,Masseto,马赛多干红,,Red,紅酒,Tenuta dell'Ornellaia,奥纳亚酒庄,Tuscany,托斯卡納,Italy,意大利,,2010,750ml,500.0,24,BM
+25,25,CFW00657-2011-00750,Masseto,马赛多干红,,Red,紅酒,Tenuta dell'Ornellaia,奥纳亚酒庄,Tuscany,托斯卡納,Italy,意大利,,2011,750ml,500.0,24,BM
+26,26,CFW00648-2013-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2013,750ml,145.0,24,BM
+27,27,CFW00657-2012-00750,Masseto,马赛多干红,,Red,紅酒,Tenuta dell'Ornellaia,奥纳亚酒庄,Tuscany,托斯卡納,Italy,意大利,,2012,750ml,475.0,30,BM
+28,28,CFW01783-2011-00750,Napanook,,,Red,紅酒,Dominus,,"Napa, California",納帕，加州,USA,美國,,2011,750ml,35.0,36,BM
+29,29,CFW00708-2005-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2005,750ml,350.0,60,BM
+30,30,CFW00708-2006-00750,Opus One,作品一号干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,2006,750ml,330.0,60,BM
+31,31,CFW01947-2006-00750,Verite La Joie,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2006,750ml,255.0,126,BM
+32,32,CFW00640-2010-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2010,750ml,78.5,150,BM
+33,33,CFW01948-2006-00750,Verite La Muse,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2006,750ml,255.0,174,BM
+34,34,CFW01949-2006-00750,Verite Le Desir,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2006,750ml,255.0,174,BM
+35,35,CFW00640-2012-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2012,750ml,76.0,180,BM
+36,36,CFW01947-2013-00750,Verite La Joie,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,750ml,225.0,234,BM
+37,37,CFW01948-2013-00750,Verite La Muse,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,750ml,225.0,234,BM
+38,38,CFW01949-2013-00750,Verite Le Desir,,,Red,紅酒,Verite,,"Sonoma, California",索諾瑪，加州,USA,美國,,2013,750ml,225.0,234,BM
+39,39,CFW00640-2014-00375,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,375ml,37.0,237,BM
+40,40,CFW00640-2009-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2009,750ml,77.5,240,BM
+41,41,CFW00709-0-00750,Overture,作品一号副牌前奏曲干红,,Red,紅酒,Opus One,作品一号酒庄,Napa,納帕,USA,美國,,0,750ml,95.0,300,BM
+42,42,CFW00648-2011-00750,Solaia,安东尼世家索拉雅干红,,Red,紅酒,Marchesi Antinori,安东尼世家酒庄,Tuscany,托斯卡納,Italy,意大利,,2011,750ml,135.0,361,BM
+43,43,CFW01782-2007-00750,Cardinale,,,Red,紅酒,Cardinale,,"Napa, California",納帕，加州,USA,美國,,2007,750ml,235.0,438,BM
+44,44,CFW01782-2013-00750,Cardinale,,,Red,紅酒,Cardinale,,"Napa, California",納帕，加州,USA,美國,,2013,750ml,175.0,438,BM
+45,45,CFW00640-2011-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2011,750ml,76.0,450,BM
+46,46,CFW00640-2014-00750,Sena,,,Red,紅酒,Sena,,Aconcagua,阿空加瓜,Chile,智利,,2014,750ml,73.0,1200,BM

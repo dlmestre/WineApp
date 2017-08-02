@@ -1,0 +1,34 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+<div id="querysearch">
+
+<!-- <p>
+<form method="post" action="/results/">
+<input type=text name="year" placeholder="year"/>
+<input type=text name="wine" placeholder="wine" />
+<button type="button"><div id="glass">&#9906;</div></button>
+</form> -->
+
+<span id=result></span>
+</p>
+
+</div>
+
+
+<form class="formmethod2" enctype="multipart/form-data" name="test2" method="post" class="formclassmethod">
+    <input id="faux" type="submit" value="Upload a csv file" />    
+    <a href="#" id="browse">Browse </a>
+    <div id="wrapper">
+        {% csrf_token %} {{form}}
+    </div>
+    
+</form>
+
+{{failure}}
+{{msg}}
+
+
+
+{% endblock %} 

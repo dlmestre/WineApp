@@ -1,0 +1,203 @@
+
+.winetable3 {
+  width: 90%;
+}
+
+.largertables {
+  width: 140%;
+}
+
+
+.keywords2 thead {
+  cursor: pointer;
+  background: #c9dff0;
+  position: fixed;
+}
+.table2 thead tr th.headerSortUp, .table2 thead tr th.headerSortDown {
+  background: #acc8dd;
+}
+
+.keywords2 th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.keywords2 tr:nth-child(even) {background-color: #f2f2f2}
+
+.keywords2 th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+        table {
+            width: 90%;
+            border-collapse: collapse;
+            margin: 10px 5px;
+        }
+
+        thead {
+            cursor: pointer;
+            background: #4CAF50;
+            display: block;
+        }
+        th {
+            display: block;
+            background-color: #4CAF50;
+            color: white;
+            float: left;
+            text-align: left;
+            padding: 8px;
+
+        }
+        td {
+            display: block;
+            float: left;
+            text-align: left;
+            padding: 8px;
+
+        }
+     
+        tbody, tr, td { display: block; }
+
+        tr:after {
+            content: ' ';
+            display: block;
+            visibility: hidden;
+            clear: both;
+        }
+
+        thead th {
+            
+            text-align: left;
+            padding: 8px;
+            /*text-align: left;*/
+        }
+
+        tbody {
+            height: 400px;
+            overflow-y: auto;
+        }
+
+        thead {
+            /* fallback */
+        }
+
+
+        tbody td, thead th {
+            width: 9%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+        }
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.selectorAjax tbody td, .selectorAjax thead th {
+            width: 6.5%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 12px;
+        }
+.databaseclass tbody td, .databaseclass thead th {
+            width: 5.5%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 10px;
+        }
+.individualwine tbody td, .individualwine thead th {
+            width: 24%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 11px;
+        }
+.dictionarycss tbody td, .dictionarycss thead th {
+            width: 6.5%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 12px;
+        }
+.smallerfileclass tbody td, .smallerfileclass thead th {
+            width: 5.7%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 12px;
+        }
+
+.finaltable tbody td, .finaltable thead th {
+            width: 3.7%;            
+            float: left;
+            text-align: left;
+            padding: 8px;
+            font-size: 12px;
+        }
+
+label {
+    display: inline-block;
+    position: relative; /* needed for checkbox absolute positioning */
+    background-color: #eee;
+    padding: .5rem;
+    border: 1px solid #000;
+    border-radius: .375rem;
+    font-family: "Courier New";
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+label > input[type="checkbox"] {
+    display: block;
+    position: absolute; /* remove it from the flow */
+    width: 100%;
+    height: 100%;
+    margin: -.5rem; /* negative the padding of label to cover the "button" */
+    cursor: pointer;
+    opacity: 0; /* make it transparent */
+    z-index: 666; /* place it on top of everything else */
+}
+
+label > input[type="checkbox"] + span {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: 1px solid #000;
+    margin-right: .5rem;
+}
+
+label > input[type="checkbox"]:checked + span {
+    background-color: #666;
+}
+
+/*
+.winetable {
+  width: 75%;
+  height: 400px;
+  overflow-y:auto;
+}
+
+.winetable table {
+  width: 95%;
+  border-collapse: collapse;
+  margin: 10px 5px;
+}
+
+.winetable th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.winetable tr:nth-child(even) {background-color: #f2f2f2}
+
+.winetable th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+*/
+

@@ -1,0 +1,442 @@
+,Unnamed: 0,item id,wine,wine chinese,growth,type english,type chinese,vendor english,vendor chinese,region english,region chinese,country english,country chinese,rating,year,format,price,qty,negoce
+0,0,CFW00035-2014-12000,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,12000ml,662.0,1,Clarence Dillon
+1,1,CFW00304-2014-12000,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,12000ml,880.0,1,Clarence Dillon
+2,2,CFW00217-2014-00750,Chateau Angelus,金鐘,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Angelus,金鐘酒莊,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,230.0,78,Clarence Dillon
+3,3,CFW00142-2006-00750,Chateau d’Armailhac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Baron Philippe de Rothschild,,"Pauillac, Bordeaux",波爾多,France,法國,,2006,750ml,43.5,84,Clarence Dillon
+4,4,CFW00056-2013-00750,Blason d'Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,13.8,205,Clarence Dillon
+5,5,CFW00056-2014-00750,Blason d'Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,15.0,168,Clarence Dillon
+6,6,CFW00035-2000-00750,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2000,750ml,95.0,24,Clarence Dillon
+7,7,CFW00035-2006-00750,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2006,750ml,47.0,7,Clarence Dillon
+8,8,CFW00035-2014-00750,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,750ml,41.0,114,Clarence Dillon
+9,9,CFW00104-2000-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2000,750ml,88.0,84,Clarence Dillon
+10,10,CFW00104-2004-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2004,750ml,51.0,30,Clarence Dillon
+11,11,CFW00104-2005-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2005,750ml,82.0,60,Clarence Dillon
+12,12,CFW00104-2007-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2007,750ml,40.0,36,Clarence Dillon
+13,13,CFW00104-2008-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2008,750ml,48.0,168,Clarence Dillon
+14,14,CFW00104-2010-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2010,750ml,63.0,156,Clarence Dillon
+15,15,CFW00104-2012-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,33.0,380,Clarence Dillon
+16,16,CFW00104-2013-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,29.9,48,Clarence Dillon
+17,17,CFW00104-2014-00750,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,32.0,192,Clarence Dillon
+18,18,CFW00087-1995-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,1995,750ml,95.0,5,Clarence Dillon
+19,19,CFW00087-1999-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,1999,750ml,81.0,12,Clarence Dillon
+20,20,CFW00087-2002-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2002,750ml,73.0,60,Clarence Dillon
+21,21,CFW00087-2003-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2003,750ml,88.0,48,Clarence Dillon
+22,22,CFW00224-2009-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2009,750ml,99.0,48,Clarence Dillon
+23,23,CFW00224-2011-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,66.0,256,Clarence Dillon
+24,24,CFW00224-2012-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,57.0,120,Clarence Dillon
+25,25,CFW00224-2013-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,42.0,288,Clarence Dillon
+26,26,CFW00225-1999-00750,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,1999,750ml,94.0,30,Clarence Dillon
+27,27,CFW00225-2000-00750,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2000,750ml,120.0,41,Clarence Dillon
+28,28,CFW00225-2011-00750,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,53.0,60,Clarence Dillon
+29,29,CFW00225-2013-00750,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,37.15,18,Clarence Dillon
+30,30,CFW00481-2011-00750,Chateau Capbern Gasqueton,,Crus Bourgeois,Red,紅酒,Chateau Capbern Gasqueton,,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,11.3,12,Clarence Dillon
+31,31,CFW00481-2013-00750,Chateau Capbern Gasqueton,,Crus Bourgeois,Red,紅酒,Chateau Capbern Gasqueton,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,10.7,324,Clarence Dillon
+32,32,CFW00174-2014-00750,Chateau Carbonnieux Blanc,,Graves,White,白酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,22.0,443,Clarence Dillon
+33,33,CFW00173-2012-00750,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2012,750ml,22.0,13,Clarence Dillon
+34,34,CFW00173-2013-00750,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2013,750ml,18.0,13,Clarence Dillon
+35,35,CFW00173-2014-00750,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,21.0,468,Clarence Dillon
+36,36,CFW00339-2005-00750,Chateau Climens,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Climens,,"Sauternes, Bordeaux",波爾多,France,法國,,2005,750ml,71.0,40,Clarence Dillon
+37,37,CFW00304-2004-00750,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2004,750ml,76.0,12,Clarence Dillon
+38,38,CFW00304-2005-00750,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2005,750ml,117.0,12,Clarence Dillon
+39,39,CFW00304-2013-00750,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,39.0,260,Clarence Dillon
+40,40,CFW00304-2014-00750,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,50.0,270,Clarence Dillon
+41,41,CFW00021-1996-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1996,750ml,48.0,12,Clarence Dillon
+42,42,CFW00021-1998-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1998,750ml,49.0,336,Clarence Dillon
+43,43,CFW00021-2001-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2001,750ml,52.0,24,Clarence Dillon
+44,44,CFW00021-2007-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2007,750ml,38.4,258,Clarence Dillon
+45,45,CFW00338-2003-00750,Chateau Coutet,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Coutet,,"Sauternes, Bordeaux",波爾多,France,法國,,2003,750ml,30.0,29,Clarence Dillon
+46,46,CFW00311-2010-00750,Chateau La Croix de Gay,,,Red,紅酒,Chateau La Croix de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2010,750ml,34.0,48,Clarence Dillon
+47,47,CFW00051-2013-00750,La Dame de Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,19.2,192,Clarence Dillon
+48,48,CFW00051-2014-00750,La Dame de Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,21.6,444,Clarence Dillon
+49,49,CFW00138-2014-00750,Chateau Dauzac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Dauzac,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,22.5,951,Clarence Dillon
+50,50,CFW00102-2013-00750,Chateau Duhart Milon,都夏美隆,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Domaines Barons de Rothschild,,"Pauillac, Bordeaux",波爾多,France,法國,,2013,750ml,48.0,192,Clarence Dillon
+51,51,CFW00136-2012-00750,Echo de Lynch Bages,靚茨伯副牌,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,靚茨伯酒莊,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,24.9,12,Clarence Dillon
+52,52,CFW00306-2007-00750,Chateau L'Eglise Clinet,,,Red,紅酒,Chateau Eglise Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2007,750ml,83.0,4,Clarence Dillon
+53,53,CFW02000-2003-00750,Chateau de Fargues,,,Red,紅酒,Chateau de Fargues,,Bordeaux,波爾多,France,法國,,2003,750ml,65.0,23,Clarence Dillon
+54,54,CFW02000-2006-00750,Chateau de Fargues,,,Red,紅酒,Chateau de Fargues,,Bordeaux,波爾多,France,法國,,2006,750ml,62.0,30,Clarence Dillon
+55,55,CFW00256-2009-00750,Chateau de Ferrand,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2009,750ml,17.5,192,Clarence Dillon
+56,56,CFW00256-2012-00750,Chateau de Ferrand,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau de Ferrand,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,16.5,2567,Clarence Dillon
+57,57,CFW00226-2009-00750,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2009,750ml,170.0,120,Clarence Dillon
+58,58,CFW00226-2010-00750,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,176.0,60,Clarence Dillon
+59,59,CFW00226-2011-00750,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,75.0,126,Clarence Dillon
+60,60,CFW00226-2013-00750,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,62.0,90,Clarence Dillon
+61,61,CFW00257-2010-00750,Chateau Fleur Cardinale,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fleur Cardinale,,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,45.0,155,Clarence Dillon
+62,62,CFW00257-2012-00750,Chateau Fleur Cardinale,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fleur Cardinale,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,32.0,168,Clarence Dillon
+63,63,CFW00257-2014-00750,Chateau Fleur Cardinale,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fleur Cardinale,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,26.0,180,Clarence Dillon
+64,64,CFW00314-1999-00750,Chateau La Fleur de Gay,,,Red,紅酒,Chateau La Fleur de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,1999,750ml,75.0,9,Clarence Dillon
+65,65,CFW00314-2000-00750,Chateau La Fleur de Gay,,,Red,紅酒,Chateau La Fleur de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2000,750ml,120.0,15,Clarence Dillon
+66,66,CFW00314-2004-00750,Chateau La Fleur de Gay,,,Red,紅酒,Chateau La Fleur de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2004,750ml,60.0,1,Clarence Dillon
+67,67,CFW00314-2006-00750,Chateau La Fleur de Gay,,,Red,紅酒,Chateau La Fleur de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2006,750ml,63.0,9,Clarence Dillon
+68,68,CFW00314-2008-00750,Chateau La Fleur de Gay,,,Red,紅酒,Chateau La Fleur de Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2008,750ml,53.0,9,Clarence Dillon
+69,69,CFW00309-2011-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2011,750ml,47.0,198,Clarence Dillon
+70,70,CFW00309-2013-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,38.0,204,Clarence Dillon
+71,71,CFW00309-2014-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,44.0,48,Clarence Dillon
+72,72,CFW00318-2011-00750,Chateau Le Gay,,,Red,紅酒,Chateau Le Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2011,750ml,57.0,18,Clarence Dillon
+73,73,CFW00318-2013-00750,Chateau Le Gay,,,Red,紅酒,Chateau Le Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,48.0,36,Clarence Dillon
+74,74,CFW00318-2014-00750,Chateau Le Gay,,,Red,紅酒,Chateau Le Gay,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,60.0,84,Clarence Dillon
+75,75,CFW00064-2003-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2003,750ml,56.0,17,Clarence Dillon
+76,76,CFW00064-2006-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2006,750ml,48.0,681,Clarence Dillon
+77,77,CFW00064-2007-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2007,750ml,44.5,120,Clarence Dillon
+78,78,CFW00130-2006-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2006,750ml,47.0,5,Clarence Dillon
+79,79,CFW00130-2008-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2008,750ml,37.5,31,Clarence Dillon
+80,80,CFW00130-2011-00750,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2011,750ml,38.4,162,Clarence Dillon
+81,81,CFW00030-1990-00750,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,1990,750ml,165.0,6,Clarence Dillon
+82,82,CFW00030-2004-00750,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2004,750ml,57.0,180,Clarence Dillon
+83,83,CFW00030-2007-00750,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2007,750ml,53.0,108,Clarence Dillon
+84,84,CFW00030-2014-00750,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,45.0,24,Clarence Dillon
+85,85,CFW00340-2003-00750,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2003,750ml,51.0,12,Clarence Dillon
+86,86,CFW00340-2005-00750,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2005,750ml,33.0,6,Clarence Dillon
+87,87,CFW00168-2002-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2002,750ml,55.5,72,Clarence Dillon
+88,88,CFW00168-2003-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2003,750ml,54.0,1,Clarence Dillon
+89,89,CFW00168-2004-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2004,750ml,64.0,25,Clarence Dillon
+90,90,CFW00168-2006-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2006,750ml,68.0,252,Clarence Dillon
+91,91,CFW00168-2007-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2007,750ml,45.9,54,Clarence Dillon
+92,92,CFW00055-2005-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2005,750ml,88.0,49,Clarence Dillon
+93,93,CFW00055-2008-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2008,750ml,54.0,42,Clarence Dillon
+94,94,CFW00063-2011-00750,Chateau Langoa Barton,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Langoa Barton,,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,33.0,254,Clarence Dillon
+95,95,CFW00063-2012-00750,Chateau Langoa Barton,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Langoa Barton,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,32.0,96,Clarence Dillon
+96,96,CFW00063-2013-00750,Chateau Langoa Barton,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Langoa Barton,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,28.5,192,Clarence Dillon
+97,97,CFW00032-2011-00750,Chateau Lascombes,力士金,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2011,750ml,55.0,36,Clarence Dillon
+98,98,CFW00032-2014-00750,Chateau Lascombes,力士金,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Lascombes,力士金酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,750ml,48.0,72,Clarence Dillon
+99,99,CFW00020-1996-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1996,750ml,270.0,20,Clarence Dillon
+100,100,CFW00020-1998-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1998,750ml,156.0,36,Clarence Dillon
+101,101,CFW00020-2002-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2002,750ml,150.0,12,Clarence Dillon
+102,102,CFW00020-2004-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2004,750ml,136.0,24,Clarence Dillon
+103,103,CFW00026-2012-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,55.0,312,Clarence Dillon
+104,104,CFW00026-2014-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,56.5,180,Clarence Dillon
+105,105,CFW00023-1983-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,1983,750ml,147.0,12,Clarence Dillon
+106,106,CFW00023-1989-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,1989,750ml,129.0,12,Clarence Dillon
+107,107,CFW00023-1990-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,1990,750ml,294.0,12,Clarence Dillon
+108,108,CFW00023-1996-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,1996,750ml,117.0,36,Clarence Dillon
+109,109,CFW00023-1999-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,1999,750ml,74.5,24,Clarence Dillon
+110,110,CFW00023-2000-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2000,750ml,152.0,9,Clarence Dillon
+111,111,CFW00023-2002-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2002,750ml,63.0,12,Clarence Dillon
+112,112,CFW00023-2003-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2003,750ml,147.0,19,Clarence Dillon
+113,113,CFW00023-2005-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2005,750ml,111.0,12,Clarence Dillon
+114,114,CFW00023-2006-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2006,750ml,71.0,12,Clarence Dillon
+115,115,CFW00023-2007-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2007,750ml,59.0,145,Clarence Dillon
+116,116,CFW00023-2010-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2010,750ml,118.0,12,Clarence Dillon
+117,117,CFW00023-2011-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,51.6,12,Clarence Dillon
+118,118,CFW00023-2014-00750,Chateau Leoville Poyferre,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Poyferre,乐芙,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,48.0,12,Clarence Dillon
+119,119,CFW00416-2014-00750,Chateau Lilian Ladouys,,Cru Bourgeois Superieur,Red,紅酒,Chateau Lilian Ladouys,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,14.4,324,Clarence Dillon
+120,120,CFW00134-1996-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,1996,750ml,165.0,60,Clarence Dillon
+121,121,CFW00134-2005-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2005,750ml,147.0,60,Clarence Dillon
+122,122,CFW00134-2006-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2006,750ml,105.0,24,Clarence Dillon
+123,123,CFW00134-2010-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2010,750ml,127.0,24,Clarence Dillon
+124,124,CFW00134-2012-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,72.0,81,Clarence Dillon
+125,125,CFW00134-2013-00750,Chateau Lynch Bages,靚茨伯,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Lynch Bages,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2013,750ml,72.0,84,Clarence Dillon
+126,126,CFW00192-2009-00750,Chateau Malartic Lagraviere Blanc,,Graves,White,白酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2009,750ml,46.5,24,Clarence Dillon
+127,127,CFW00006-1994-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,1994,750ml,395.0,5,Clarence Dillon
+128,128,CFW00006-1997-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,1997,750ml,400.0,60,Clarence Dillon
+129,129,CFW00006-1998-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,1998,750ml,380.0,15,Clarence Dillon
+130,130,CFW00006-2001-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2001,750ml,399.0,4,Clarence Dillon
+131,131,CFW00006-2004-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2004,750ml,370.0,43,Clarence Dillon
+132,132,CFW00006-2012-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2012,750ml,360.0,60,Clarence Dillon
+133,133,CFW00006-2013-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2013,750ml,340.0,12,Clarence Dillon
+134,134,CFW02108-2013-00750,Chateau Mauvesin Barton,,,Red,紅酒,Chateau Mauvesin Barton,,Bordeaux,波爾多,France,法國,,2013,750ml,9.3,513,Clarence Dillon
+135,135,CFW02108-2014-00750,Chateau Mauvesin Barton,,,Red,紅酒,Chateau Mauvesin Barton,,Bordeaux,波爾多,France,法國,,2014,750ml,9.3,598,Clarence Dillon
+136,136,CFW00424-2010-00750,Chateau Meyney,,Cru Bourgeois Superieur,Red,紅酒,Chateau Meyney,,"St. Estephe, Bordeaux",波爾多,France,法國,,2010,750ml,23.0,36,Clarence Dillon
+137,137,CFW00424-2012-00750,Chateau Meyney,,Cru Bourgeois Superieur,Red,紅酒,Chateau Meyney,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,21.0,479,Clarence Dillon
+138,138,CFW00424-2014-00750,Chateau Meyney,,Cru Bourgeois Superieur,Red,紅酒,Chateau Meyney,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,18.0,202,Clarence Dillon
+139,139,CFW00230-2011-00750,La Mondotte,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,La Mondotte,拉梦多,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,110.0,24,Clarence Dillon
+140,140,CFW00230-2013-00750,La Mondotte,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,La Mondotte,拉梦多,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,100.3,24,Clarence Dillon
+141,141,CFW00230-2014-00750,La Mondotte,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,La Mondotte,拉梦多,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,108.0,12,Clarence Dillon
+142,142,CFW00050-1998-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,1998,750ml,95.0,1,Clarence Dillon
+143,143,CFW00050-2001-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2001,750ml,90.0,1,Clarence Dillon
+144,144,CFW00050-2002-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2002,750ml,70.0,1,Clarence Dillon
+145,145,CFW00050-2004-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2004,750ml,78.0,1,Clarence Dillon
+146,146,CFW00050-2013-00750,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,59.0,288,Clarence Dillon
+147,147,CFW00014-1999-00750,Chateau Mouton Rothschild,武當正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Baron Philippe de Rothschild,武當酒莊 －罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,1999,750ml,460.0,12,Clarence Dillon
+148,148,CFW00014-2009-00750,Chateau Mouton Rothschild,武當正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Baron Philippe de Rothschild,武當酒莊 －罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2009,750ml,590.0,4,Clarence Dillon
+149,149,CFW00014-2010-00750,Chateau Mouton Rothschild,武當正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Baron Philippe de Rothschild,武當酒莊 －罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2010,750ml,625.0,30,Clarence Dillon
+150,150,CFW00014-2011-00750,Chateau Mouton Rothschild,武當正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Baron Philippe de Rothschild,武當酒莊 －罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2011,750ml,360.0,12,Clarence Dillon
+151,151,CFW00326-2002-00750,Chateau Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2002,750ml,40.0,60,Clarence Dillon
+152,152,CFW00326-2013-00750,Chateau Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,27.0,90,Clarence Dillon
+153,153,CFW00326-2014-00750,Chateau Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,29.0,240,Clarence Dillon
+154,154,CFW00361-2009-00750,Chateau Les Ormes de Pez,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Les Ormes de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2009,750ml,29.5,6,Clarence Dillon
+155,155,CFW00361-2010-00750,Chateau Les Ormes de Pez,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Les Ormes de Pez,,"St. Estephe, Bordeaux",波爾多,France,法國,,2010,750ml,30.5,48,Clarence Dillon
+156,156,CFW00047-2011-00750,Pagodes de Cos,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Cos d’Estournel,愛士图,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,30.0,72,Clarence Dillon
+157,157,CFW00047-2013-00750,Pagodes de Cos,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Cos d’Estournel,愛士图,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,26.4,120,Clarence Dillon
+158,158,CFW00047-2014-00750,Pagodes de Cos,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Cos d’Estournel,愛士图,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,26.4,240,Clarence Dillon
+159,159,CFW00208-2013-00750,Chateau Pape Clement Blanc,,Graves,White,白酒,Chateau Pape Clement,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2013,750ml,88.2,24,Clarence Dillon
+160,160,CFW00208-2014-00750,Chateau Pape Clement Blanc,,Graves,White,白酒,Chateau Pape Clement,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,88.2,42,Clarence Dillon
+161,161,CFW00038-2012-00750,Chateau Pichon Longueville Baron,男爵正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Pichon Longueville Baron,男爵,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,79.0,120,Clarence Dillon
+162,162,CFW00126-2000-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2000,750ml,111.0,33,Clarence Dillon
+163,163,CFW00126-2009-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2009,750ml,185.0,26,Clarence Dillon
+164,164,CFW00126-2011-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2011,750ml,69.0,132,Clarence Dillon
+165,165,CFW00126-2012-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,65.0,122,Clarence Dillon
+166,166,CFW00126-2013-00750,Chateau Pontet Canet,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pontet Canet,旁堤卡内酒庄,"Pauillac, Bordeaux",波爾多,France,法國,,2013,750ml,60.0,108,Clarence Dillon
+167,167,CFW00364-2002-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2002,750ml,15.0,43,Clarence Dillon
+168,168,CFW00364-2005-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2005,750ml,23.0,48,Clarence Dillon
+169,169,CFW00364-2006-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2006,750ml,19.9,192,Clarence Dillon
+170,170,CFW00364-2010-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,22.3,108,Clarence Dillon
+171,171,CFW00364-2014-00750,Chateau Potensac,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Potensac,,"Medoc, Bordeaux",波爾多,France,法國,,2014,750ml,14.8,360,Clarence Dillon
+172,172,CFW00365-2010-00750,Chateau Poujeaux,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Poujeaux,,"Moulis, Bordeaux",波爾多,France,法國,,2010,750ml,26.9,18,Clarence Dillon
+173,173,CFW00288-2014-00750,Chateau Le Prieure,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Le Prieure,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,24.0,120,Clarence Dillon
+174,174,CFW00017-1995-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,1995,750ml,118.0,12,Clarence Dillon
+175,175,CFW00017-2008-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2008,750ml,64.0,240,Clarence Dillon
+176,176,CFW00017-2009-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2009,750ml,99.0,59,Clarence Dillon
+177,177,CFW00017-2010-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2010,750ml,84.0,12,Clarence Dillon
+178,178,CFW00017-2013-00750,Chateau Rauzan Segla,魯臣世家庄园正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Rauzan Segla,魯臣世家庄园,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,45.0,174,Clarence Dillon
+179,179,CFW00341-2001-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,2001,750ml,139.0,2,Clarence Dillon
+180,180,CFW00341-2003-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,2003,750ml,40.0,35,Clarence Dillon
+181,181,CFW00031-2014-00750,Sarget de Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,19.4,360,Clarence Dillon
+182,182,CFW00197-2011-00750,Chateau Smith Haut Lafitte Rouge,,Graves,Red,紅酒,Chateau Smith Haut Lafitte,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2011,750ml,61.0,240,Clarence Dillon
+183,183,CFW00197-2014-00750,Chateau Smith Haut Lafitte Rouge,,Graves,Red,紅酒,Chateau Smith Haut Lafitte,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,58.0,180,Clarence Dillon
+184,184,CFW02143-2003-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2003,750ml,45.0,3,Clarence Dillon
+185,185,CFW00337-2003-00750,Chateau Suduiraut,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Suduiraut,,"Sauternes, Bordeaux",波爾多,France,法國,,2003,750ml,42.0,8,Clarence Dillon
+186,186,CFW00337-2011-00750,Chateau Suduiraut,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Suduiraut,,"Sauternes, Bordeaux",波爾多,France,法國,,2011,750ml,45.0,114,Clarence Dillon
+187,187,CFW00337-2013-00750,Chateau Suduiraut,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Suduiraut,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,42.0,216,Clarence Dillon
+188,188,CFW00337-2014-00750,Chateau Suduiraut,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Suduiraut,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,750ml,42.0,108,Clarence Dillon
+189,189,CFW00441-2010-00750,Chateau du Taillan,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Taillan,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2010,750ml,9.4,527,Clarence Dillon
+190,190,CFW00098-2013-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,35.0,18,Clarence Dillon
+191,191,CFW00098-2014-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,40.0,114,Clarence Dillon
+192,192,CFW00143-2010-00750,Chateau du Tertre,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Du Tertre,,"Margaux, Bordeaux",波爾多,France,法國,,2010,750ml,37.5,84,Clarence Dillon
+193,193,CFW00444-2010-00750,Chateau La Tour de Mons,,Cru Bourgeois Superieur,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2010,750ml,21.0,93,Clarence Dillon
+194,194,CFW00444-2012-00750,Chateau La Tour de Mons,,Cru Bourgeois Superieur,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,15.5,360,Clarence Dillon
+195,195,CFW00444-2014-00750,Chateau La Tour de Mons,,Cru Bourgeois Superieur,Red,紅酒,Chateau La Tour de Mons,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,14.5,300,Clarence Dillon
+196,196,CFW00234-2006-00750,Chateau Valandraud,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Valandraud,,"St. Emilion, Bordeaux",波爾多,France,法國,,2006,750ml,125.0,12,Clarence Dillon
+197,197,CFW01928-2015-00750,"""Y"" d'Yquem",,,White,白酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,750ml,92.0,174,Clarence Dillon
+198,198,CFW01928-2015-00750,"""Y"" d'Yquem",,,White,白酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,750ml,92.0,120,Clarence Dillon
+199,199,CFW00330-1991-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,1991,750ml,186.0,1,Clarence Dillon
+200,200,CFW00330-1995-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,1995,750ml,186.0,71,Clarence Dillon
+201,201,CFW00330-1999-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,1999,750ml,189.0,8,Clarence Dillon
+202,202,CFW00330-2008-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2008,750ml,189.0,38,Clarence Dillon
+203,203,CFW00330-2011-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2011,750ml,250.0,59,Clarence Dillon
+204,204,CFW00330-2013-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2013,750ml,250.0,59,Clarence Dillon
+205,205,CFW00330-2014-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,750ml,250.0,246,Clarence Dillon
+206,206,CFW00114-2005-00750,Chateau Beychevelle,龍船,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Beychevelle,龍船酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2005,750ml,96.0,6,Clarence Dillon
+207,207,CFW00087-2000-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2000,750ml,100.0,180,Clarence Dillon
+208,208,CFW00087-2005-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2005,750ml,89.0,60,Clarence Dillon
+209,209,CFW00087-2006-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2006,750ml,79.0,60,Clarence Dillon
+210,210,CFW00087-2010-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2010,750ml,87.0,6,Clarence Dillon
+211,211,CFW00087-2011-00750,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2011,750ml,73.0,108,Clarence Dillon
+212,212,CFW00153-2009-00750,Chateau Camensac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Camensac,,"Haut Medoc, Bordeaux",波爾多,France,法國,,2009,750ml,24.9,59,Clarence Dillon
+213,213,CFW00224-2002-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2002,750ml,89.0,12,Clarence Dillon
+214,214,CFW00224-2007-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,750ml,47.0,12,Clarence Dillon
+215,215,CFW00224-2008-00750,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,64.0,96,Clarence Dillon
+216,216,CFW00219-2001-00750,Chateau Cheval Blanc,白马正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Cheval Blanc,白马,"St. Emilion, Bordeaux",波爾多,France,法國,,2001,750ml,380.0,4,Clarence Dillon
+217,217,CFW00219-2010-00750,Chateau Cheval Blanc,白马正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Cheval Blanc,白马,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,750ml,890.0,12,Clarence Dillon
+218,218,CFW00219-2013-00750,Chateau Cheval Blanc,白马正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Cheval Blanc,白马,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,300.0,18,Clarence Dillon
+219,219,CFW00219-2014-00750,Chateau Cheval Blanc,白马正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Cheval Blanc,白马,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,360.0,6,Clarence Dillon
+220,220,CFW00339-2002-00750,Chateau Climens,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Climens,,"Sauternes, Bordeaux",波爾多,France,法國,,2002,750ml,58.0,1,Clarence Dillon
+221,221,CFW00227-1990-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,1990,750ml,188.0,12,Clarence Dillon
+222,222,CFW00227-2000-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2000,750ml,117.0,12,Clarence Dillon
+223,223,CFW00227-2001-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2001,750ml,94.0,12,Clarence Dillon
+224,224,CFW00227-2002-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2002,750ml,76.0,12,Clarence Dillon
+225,225,CFW00227-2005-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2005,750ml,158.0,12,Clarence Dillon
+226,226,CFW00227-2006-00750,Clos Fourtet,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Clos Fourtet,弗禾岱堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2006,750ml,73.0,12,Clarence Dillon
+227,227,CFW00021-1995-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1995,750ml,52.0,240,Clarence Dillon
+228,228,CFW00021-2013-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,27.0,88,Clarence Dillon
+229,229,CFW00021-2014-00750,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,33.0,78,Clarence Dillon
+230,230,CFW00310-2007-00750,Chateau La Conseillante,,,Red,紅酒,Chateau La Conseillante,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2007,750ml,73.0,24,Clarence Dillon
+231,231,CFW00250-2005-00750,Chateau La Couspaude,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau La Couspaude,,"St. Emilion, Bordeaux",波爾多,France,法國,,2005,750ml,43.0,24,Clarence Dillon
+232,232,CFW00180-2008-00750,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2008,750ml,45.0,10,Clarence Dillon
+233,233,CFW00180-2010-00750,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2010,750ml,60.0,26,Clarence Dillon
+234,234,CFW00180-2011-00750,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2011,750ml,40.0,168,Clarence Dillon
+235,235,CFW00180-2012-00750,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2012,750ml,40.0,84,Clarence Dillon
+236,236,CFW00180-2014-00750,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2014,750ml,42.5,358,Clarence Dillon
+237,237,CFW00308-2007-00750,Chateau L'Evangile,,,Red,紅酒,Domaines Barons de Rothschild,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2007,750ml,77.0,6,Clarence Dillon
+238,238,CFW02000-2005-00750,Chateau de Fargues,,,Red,紅酒,Chateau de Fargues,,Bordeaux,波爾多,France,法國,,2005,750ml,68.0,18,Clarence Dillon
+239,239,CFW00257-2015-00750,Chateau Fleur Cardinale,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Fleur Cardinale,,"St. Emilion, Bordeaux",波爾多,France,法國,,2015,750ml,26.0,228,Clarence Dillon
+240,240,CFW00327-2003-00750,Fugue de Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2003,750ml,23.0,260,Clarence Dillon
+241,241,CFW00327-2013-00750,Fugue de Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,750ml,14.5,64,Clarence Dillon
+242,242,CFW00327-2014-00750,Fugue de Nenin,,,Red,紅酒,Chateau Nenin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,750ml,15.9,240,Clarence Dillon
+243,243,CFW00259-2011-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,15.0,84,Clarence Dillon
+244,244,CFW00259-2013-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,14.04,216,Clarence Dillon
+245,245,CFW00259-2014-00750,Chateau Fombrauge,,St. Emilion Grand Cru Classe,Red,紅酒,Bernard Magrez,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,17.0,168,Clarence Dillon
+246,246,CFW00398-2006-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2006,750ml,8.5,12,Clarence Dillon
+247,247,CFW00398-2011-00750,Chateau Fourcas Dupre,,Cru Bourgeois Superieur,Red,紅酒,Chateau Fourcas Dupre,,"Listrac, Bordeaux",波爾多,France,法國,,2011,750ml,8.9,214,Clarence Dillon
+248,248,CFW00228-2011-00750,Chateau La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau La Gaffeliere,嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,45.0,102,Clarence Dillon
+249,249,CFW00228-2012-00750,Chateau La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau La Gaffeliere,嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,46.0,78,Clarence Dillon
+250,250,CFW00228-2013-00750,Chateau La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau La Gaffeliere,嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,42.0,90,Clarence Dillon
+251,251,CFW00309-1995-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,1995,750ml,82.0,12,Clarence Dillon
+252,252,CFW00309-2004-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2004,750ml,54.0,18,Clarence Dillon
+253,253,CFW00309-2007-00750,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2007,750ml,49.5,12,Clarence Dillon
+254,254,CFW00064-2000-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2000,750ml,79.0,233,Clarence Dillon
+255,255,CFW00064-2001-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2001,750ml,55.0,8,Clarence Dillon
+256,256,CFW00064-2010-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2010,750ml,54.0,120,Clarence Dillon
+257,257,CFW00064-2012-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,36.0,96,Clarence Dillon
+258,258,CFW00064-2013-00750,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,33.0,48,Clarence Dillon
+259,259,CFW00401-2012-00750,Chateau du Glana,,Cru Bourgeois Superieur,Red,紅酒,Chateau du Glana,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,15.1,262,Clarence Dillon
+260,260,CFW00094-2000-00750,Chateau Gloria,,,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2000,750ml,52.9,149,Clarence Dillon
+261,261,CFW00094-2013-00750,Chateau Gloria,,,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,19.8,167,Clarence Dillon
+262,262,CFW00094-2014-00750,Chateau Gloria,,,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,21.0,72,Clarence Dillon
+263,263,CFW00132-1995-00750,Chateau Grand Puy Ducasse,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Ducasse,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,1995,750ml,52.9,60,Clarence Dillon
+264,264,CFW00132-2005-00750,Chateau Grand Puy Ducasse,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Ducasse,都卡斯庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2005,750ml,47.0,168,Clarence Dillon
+265,265,CFW00340-2006-00750,Chateau Guiraud,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Guiraud,,"Sauternes, Bordeaux",波爾多,France,法國,,2006,750ml,30.0,20,Clarence Dillon
+266,266,CFW00168-2000-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2000,750ml,92.0,13,Clarence Dillon
+267,267,CFW00168-2011-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2011,750ml,54.0,84,Clarence Dillon
+268,268,CFW00168-2013-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2013,750ml,39.6,18,Clarence Dillon
+269,269,CFW00168-2014-00750,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2014,750ml,62.0,12,Clarence Dillon
+270,270,CFW00128-2011-00750,Chateau Batailley,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Batailley,,"Pauillac, Bordeaux",波爾多,France,法國,,2011,750ml,26.8,151,Clarence Dillon
+271,271,CFW00359-2008-00750,Chateau Haut Marbuzet,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Haut Marbuzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2008,750ml,29.0,95,Clarence Dillon
+272,272,CFW00359-2013-00750,Chateau Haut Marbuzet,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Haut Marbuzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,21.0,120,Clarence Dillon
+273,273,CFW00359-2014-00750,Chateau Haut Marbuzet,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Haut Marbuzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2014,750ml,22.5,126,Clarence Dillon
+274,274,CFW00061-2012-00750,Le Haut Medoc de Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,9.0,578,Clarence Dillon
+275,275,CFW00061-2013-00750,Le Haut Medoc de Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,9.0,966,Clarence Dillon
+276,276,CFW00061-2014-00750,Le Haut Medoc de Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,9.0,764,Clarence Dillon
+277,277,CFW00055-2001-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2001,750ml,62.0,60,Clarence Dillon
+278,278,CFW00055-2012-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2012,750ml,40.0,48,Clarence Dillon
+279,279,CFW00055-2013-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2013,750ml,31.0,120,Clarence Dillon
+280,280,CFW00055-2014-00750,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,750ml,37.0,312,Clarence Dillon
+281,281,CFW00332-1988-00750,Chateau Lafaurie Peyraguey,,Sauternes Premiers Crus,Sweet,甜酒,Bernard Magrez,,"Sauternes, Bordeaux",波爾多,France,法國,,1988,750ml,52.8,11,Clarence Dillon
+282,282,CFW00332-2001-00750,Chateau Lafaurie Peyraguey,,Sauternes Premiers Crus,Sweet,甜酒,Bernard Magrez,,"Sauternes, Bordeaux",波爾多,France,法國,,2001,750ml,63.6,32,Clarence Dillon
+283,283,CFW00001-2005-00750,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2005,750ml,980.0,8,Clarence Dillon
+284,284,CFW00001-2009-00750,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2009,750ml,760.0,36,Clarence Dillon
+285,285,CFW00001-2010-00750,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2010,750ml,810.0,42,Clarence Dillon
+286,286,CFW00112-1996-00750,Chateau Lafon Rochet,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Lafon Rochet,,"St. Estephe, Bordeaux",波爾多,France,法國,,1996,750ml,63.0,120,Clarence Dillon
+287,287,CFW00112-2012-00750,Chateau Lafon Rochet,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Lafon Rochet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,750ml,24.0,72,Clarence Dillon
+288,288,CFW00112-2013-00750,Chateau Lafon Rochet,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Lafon Rochet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2013,750ml,21.0,24,Clarence Dillon
+289,289,CFW00059-2000-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2000,750ml,79.0,18,Clarence Dillon
+290,290,CFW00059-2004-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2004,750ml,41.0,24,Clarence Dillon
+291,291,CFW00059-2006-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2006,750ml,45.9,120,Clarence Dillon
+292,292,CFW00059-2008-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2008,750ml,41.0,324,Clarence Dillon
+293,293,CFW00059-2012-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,27.0,324,Clarence Dillon
+294,294,CFW00059-2013-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,22.8,22,Clarence Dillon
+295,295,CFW00059-2014-00750,Chateau Lagrange,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Lagrange,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,29.0,472,Clarence Dillon
+296,296,CFW00045-2014-00750,Chateau Lalande Borie,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Ducru Beaucaillou,宝嘉龙酒庄,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,18.0,72,Clarence Dillon
+297,297,CFW00063-2006-00750,Chateau Langoa Barton,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Langoa Barton,,"St. Julien, Bordeaux",波爾多,France,法國,,2006,750ml,39.9,77,Clarence Dillon
+298,298,CFW00196-2007-00750,Chateau Latour Martillac Blanc,,Graves,White,白酒,Chateau Latour Martillac,,"Graves, Bordeaux",波爾多,France,法國,,2007,750ml,26.0,24,Clarence Dillon
+299,299,CFW00020-1995-00750,Chateau Leoville Las Cases,雄狮正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,1995,750ml,190.0,12,Clarence Dillon
+300,300,CFW00026-1996-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,1996,750ml,111.0,54,Clarence Dillon
+301,301,CFW00026-2000-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,2000,750ml,140.0,4,Clarence Dillon
+302,302,CFW00026-2002-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,2002,750ml,72.0,4,Clarence Dillon
+303,303,CFW00026-2006-00750,Chateau Leoville Barton,巴頓正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Barton,巴頓,"St. Julien, Bordeaux",波爾多,France,法國,,2006,750ml,71.0,240,Clarence Dillon
+304,304,CFW00192-2011-00750,Chateau Malartic Lagraviere Blanc,,Graves,White,白酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2011,750ml,42.0,72,Clarence Dillon
+305,305,CFW00192-2012-00750,Chateau Malartic Lagraviere Blanc,,Graves,White,白酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2012,750ml,34.8,66,Clarence Dillon
+306,306,CFW00192-2013-00750,Chateau Malartic Lagraviere Blanc,,Graves,White,白酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2013,750ml,34.8,36,Clarence Dillon
+307,307,CFW00192-2014-00750,Chateau Malartic Lagraviere Blanc,,Graves,White,白酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,34.8,96,Clarence Dillon
+308,308,CFW00191-2009-00750,Chateau Malartic Lagraviere Rouge,,Graves,Red,紅酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2009,750ml,37.0,38,Clarence Dillon
+309,309,CFW00191-2014-00750,Chateau Malartic Lagraviere Rouge,,Graves,Red,紅酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,750ml,28.0,204,Clarence Dillon
+310,310,CFW00006-1985-00750,Chateau Margaux,瑪歌正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Chateau Margaux,瑪歌酒莊,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,1985,750ml,455.0,24,Clarence Dillon
+311,311,CFW00231-2008-00750,Chateau Pavie Macquin,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Pavie Macquin,,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,750ml,54.0,18,Clarence Dillon
+312,312,CFW00231-2013-00750,Chateau Pavie Macquin,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Pavie Macquin,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,36.0,282,Clarence Dillon
+313,313,CFW00149-2010-00750,Chateau Pedesclaux,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pedesclaux,,"Pauillac, Bordeaux",波爾多,France,法國,,2010,750ml,29.5,270,Clarence Dillon
+314,314,CFW00149-2012-00750,Chateau Pedesclaux,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pedesclaux,,"Pauillac, Bordeaux",波爾多,France,法國,,2012,750ml,24.5,288,Clarence Dillon
+315,315,CFW00149-2014-00750,Chateau Pedesclaux,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pedesclaux,,"Pauillac, Bordeaux",波爾多,France,法國,,2014,750ml,25.5,1011,Clarence Dillon
+316,316,CFW00341-1988-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,1988,750ml,67.0,1,Clarence Dillon
+317,317,CFW00341-1989-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,1989,750ml,71.0,3,Clarence Dillon
+318,318,CFW00341-1998-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,1998,750ml,42.0,24,Clarence Dillon
+319,319,CFW00341-2005-00750,Chateau Rieussec,,Sauternes Premiers Crus,Sweet,甜酒,Domaines Barons de Rothschild,,"Sauternes, Bordeaux",波爾多,France,法國,,2005,750ml,35.04,7,Clarence Dillon
+320,320,CFW00093-2011-00750,Chateau Saint Pierre,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2011,750ml,33.6,258,Clarence Dillon
+321,321,CFW00093-2012-00750,Chateau Saint Pierre,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2012,750ml,30.6,174,Clarence Dillon
+322,322,CFW00093-2013-00750,Chateau Saint Pierre,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,27.5,264,Clarence Dillon
+323,323,CFW00093-2014-00750,Chateau Saint Pierre,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Domaines Henri Martin,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,750ml,31.2,288,Clarence Dillon
+324,324,CFW00031-2013-00750,Sarget de Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2013,750ml,18.4,180,Clarence Dillon
+325,325,CFW01694-2009-00750,Chateau Siaurac,,,Red,紅酒,Chateau Siaurac,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2009,750ml,12.9,270,Clarence Dillon
+326,326,CFW01694-2014-00750,Chateau Siaurac,,,Red,紅酒,Chateau Siaurac,,"Lalande de Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,9.6,823,Clarence Dillon
+327,327,CFW02143-2000-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2000,750ml,57.0,20,Clarence Dillon
+328,328,CFW02143-2005-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2005,750ml,45.0,1,Clarence Dillon
+329,329,CFW02143-2007-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2007,750ml,22.5,11,Clarence Dillon
+330,330,CFW02143-2012-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2012,750ml,19.2,146,Clarence Dillon
+331,331,CFW02143-2013-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2013,750ml,18.0,420,Clarence Dillon
+332,332,CFW02143-2014-00750,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2014,750ml,19.0,210,Clarence Dillon
+333,333,CFW00296-2011-00750,Chateau Soutard,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Soutard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2011,750ml,21.9,162,Clarence Dillon
+334,334,CFW00296-2012-00750,Chateau Soutard,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Soutard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,750ml,20.9,57,Clarence Dillon
+335,335,CFW00296-2013-00750,Chateau Soutard,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Soutard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2013,750ml,19.3,120,Clarence Dillon
+336,336,CFW00296-2014-00750,Chateau Soutard,,St. Emilion Grand Cru Classe,Red,紅酒,Chateau Soutard,,"St. Emilion, Bordeaux",波爾多,France,法國,,2014,750ml,23.5,120,Clarence Dillon
+337,337,CFW00337-1999-00750,Chateau Suduiraut,,Sauternes Premiers Crus,Sweet,甜酒,Chateau Suduiraut,,"Sauternes, Bordeaux",波爾多,France,法國,,1999,750ml,25.9,484,Clarence Dillon
+338,338,CFW00098-1996-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,1996,750ml,85.0,120,Clarence Dillon
+339,339,CFW00098-2004-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2004,750ml,57.0,24,Clarence Dillon
+340,340,CFW00098-2010-00750,Chateau Talbot,大宝正牌,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Talbot,大宝,"St. Julien, Bordeaux",波爾多,France,法國,,2010,750ml,52.0,49,Clarence Dillon
+341,341,CFW00234-2005-00750,Chateau Valandraud,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Valandraud,,"St. Emilion, Bordeaux",波爾多,France,法國,,2005,750ml,192.0,6,Clarence Dillon
+342,342,CFW01837-2014-00750,Chateau Vray Croix de Gay,,,Red,紅酒,Chateau Vray Croix de Gay,,"Pomerol, Bordeaux",波爾多,France,法國,,2014,750ml,34.8,120,Clarence Dillon
+343,343,CFW00330-1996-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,1996,750ml,193.0,13,Clarence Dillon
+344,344,CFW00330-1997-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,1997,750ml,212.0,20,Clarence Dillon
+345,345,CFW00330-2003-00750,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2003,750ml,215.0,68,Clarence Dillon
+346,346,CFW00035-2014-03000,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,3000ml,173.0,1,Clarence Dillon
+347,347,CFW00104-2014-03000,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,3000ml,151.0,1,Clarence Dillon
+348,348,CFW00304-2014-03000,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,3000ml,220.0,1,Clarence Dillon
+349,349,CFW00021-2012-03000,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2012,3000ml,173.0,4,Clarence Dillon
+350,350,CFW00180-2004-03000,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2004,3000ml,298.0,1,Clarence Dillon
+351,351,CFW00226-2007-03000,Chateau Figeac, 飞卓,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Figeac, 飞卓,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,3000ml,348.0,3,Clarence Dillon
+352,352,CFW00309-2013-03000,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,3000ml,185.0,1,Clarence Dillon
+353,353,CFW00309-2013-03000,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,3000ml,183.0,3,Clarence Dillon
+354,354,CFW00064-2012-03000,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,3000ml,177.0,1,Clarence Dillon
+355,355,CFW00064-2012-03000,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,3000ml,175.0,3,Clarence Dillon
+356,356,CFW00130-2010-03000,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2010,3000ml,300.0,1,Clarence Dillon
+357,357,CFW00130-2012-03000,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,3000ml,177.0,1,Clarence Dillon
+358,358,CFW00130-2012-03000,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,3000ml,175.0,3,Clarence Dillon
+359,359,CFW00030-2014-03000,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2014,3000ml,199.0,1,Clarence Dillon
+360,360,CFW00055-2012-03000,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2012,3000ml,160.0,4,Clarence Dillon
+361,361,CFW00055-2014-03000,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,3000ml,173.0,1,Clarence Dillon
+362,362,CFW00224-2012-03000,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,3000ml,200.0,1,Clarence Dillon
+363,363,CFW00330-2011-00375,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2011,375ml,125.0,24,Clarence Dillon
+364,364,CFW00035-2014-06000,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,6000ml,324.0,1,Clarence Dillon
+365,365,CFW00104-2005-06000,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2005,6000ml,710.0,1,Clarence Dillon
+366,366,CFW00104-2014-06000,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,6000ml,283.0,1,Clarence Dillon
+367,367,CFW00304-2014-06000,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,6000ml,440.0,1,Clarence Dillon
+368,368,CFW00021-2012-06000,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2012,6000ml,346.0,1,Clarence Dillon
+369,369,CFW00309-2013-06000,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,6000ml,351.0,1,Clarence Dillon
+370,370,CFW00064-2012-06000,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,6000ml,225.0,1,Clarence Dillon
+371,371,CFW00130-2012-06000,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,6000ml,332.0,1,Clarence Dillon
+372,372,CFW00055-2012-06000,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2012,6000ml,320.0,2,Clarence Dillon
+373,373,CFW00173-1986-05000,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,1986,5000ml,456.0,1,Clarence Dillon
+374,374,CFW00035-2004-01500,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2004,1500ml,99.5,25,Clarence Dillon
+375,375,CFW00035-2006-01500,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2006,1500ml,99.0,24,Clarence Dillon
+376,376,CFW00104-2005-01500,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2005,1500ml,168.0,6,Clarence Dillon
+377,377,CFW00104-2010-01500,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2010,1500ml,124.0,6,Clarence Dillon
+378,378,CFW00104-2014-01500,Chateau Branaire Ducru,,Bordeaux Grand Cru Classe 4th Growths,Red,紅酒,Chateau Branaire Ducru,,"St. Julien, Bordeaux",波爾多,France,法國,,2014,1500ml,60.7,18,Clarence Dillon
+379,379,CFW00087-2000-01500,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2000,1500ml,210.0,96,Clarence Dillon
+380,380,CFW00087-2012-01500,Chateau Calon Segur,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Calon Segur, 卡龙世家,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,1500ml,132.0,48,Clarence Dillon
+381,381,CFW00224-2004-01500,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2004,1500ml,166.0,6,Clarence Dillon
+382,382,CFW00224-2007-01500,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2007,1500ml,107.0,6,Clarence Dillon
+383,383,CFW00224-2008-01500,Chateau Canon,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon,卡侬城堡,"St. Emilion, Bordeaux",波爾多,France,法國,,2008,1500ml,99.0,12,Clarence Dillon
+384,384,CFW00225-2010-01500,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,1500ml,190.0,3,Clarence Dillon
+385,385,CFW00225-2012-01500,Chateau Canon La Gaffeliere,,St. Emilion Premier Grand Cru Classe B,Red,紅酒,Chateau Canon La Gaffeliere, 嘉芙丽庄园,"St. Emilion, Bordeaux",波爾多,France,法國,,2012,1500ml,98.0,6,Clarence Dillon
+386,386,CFW00173-2014-01500,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,1500ml,43.9,24,Clarence Dillon
+387,387,CFW00173-2014-01500,Chateau Carbonnieux Rouge,,Graves,Red,紅酒,Chateau Carbonnieux,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2014,1500ml,46.6,12,Clarence Dillon
+388,388,CFW00219-2010-01500,Chateau Cheval Blanc,白马正牌,St. Emilion Premier Grand Cru Classe A,Red,紅酒,Chateau Cheval Blanc,白马,"St. Emilion, Bordeaux",波爾多,France,法國,,2010,1500ml,1790.0,6,Clarence Dillon
+389,389,CFW00304-2006-01500,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2006,1500ml,153.0,6,Clarence Dillon
+390,390,CFW00304-2014-01500,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,1500ml,110.0,18,Clarence Dillon
+391,391,CFW00304-2014-01500,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,1500ml,114.6,12,Clarence Dillon
+392,392,CFW00021-2012-01500,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2012,1500ml,70.0,48,Clarence Dillon
+393,393,CFW00021-2013-01500,Clos du Marquis,雄狮副牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Leoville Las Cases,雄狮酒莊,"St. Julien, Bordeaux",波爾多,France,法國,,2013,1500ml,55.9,18,Clarence Dillon
+394,394,CFW00138-2014-01500,Chateau Dauzac,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Dauzac,,"Margaux, Bordeaux",波爾多,France,法國,,2014,1500ml,50.0,88,Clarence Dillon
+395,395,CFW00180-2010-01500,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2010,1500ml,123.2,3,Clarence Dillon
+396,396,CFW00180-2012-01500,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2012,1500ml,80.0,6,Clarence Dillon
+397,397,CFW00180-2014-01500,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2014,1500ml,84.0,12,Clarence Dillon
+398,398,CFW00180-2014-01500,Domaine de Chevalier Rouge,,Graves,Red,紅酒,Domaine de Chevalier,,"Graves, Bordeaux",波爾多,France,法國,,2014,1500ml,84.0,12,Clarence Dillon
+399,399,CFW00043-2003-01500,Chateau Ducru Beaucaillou,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Ducru Beaucaillou,宝嘉龙酒庄,"St. Julien, Bordeaux",波爾多,France,法國,,2003,1500ml,305.0,12,Clarence Dillon
+400,400,CFW00043-2008-01500,Chateau Ducru Beaucaillou,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Ducru Beaucaillou,宝嘉龙酒庄,"St. Julien, Bordeaux",波爾多,France,法國,,2008,1500ml,260.0,6,Clarence Dillon
+401,401,CFW00309-2013-01500,Chateau Gazin,,,Red,紅酒,Chateau Gazin,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2013,1500ml,77.9,36,Clarence Dillon
+402,402,CFW00064-2008-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2008,1500ml,83.0,12,Clarence Dillon
+403,403,CFW00064-2010-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2010,1500ml,108.0,3,Clarence Dillon
+404,404,CFW00064-2011-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2011,1500ml,73.0,12,Clarence Dillon
+405,405,CFW00064-2012-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2012,1500ml,72.0,24,Clarence Dillon
+406,406,CFW00064-2013-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2013,1500ml,66.0,36,Clarence Dillon
+407,407,CFW00064-2014-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2014,1500ml,72.0,12,Clarence Dillon
+408,408,CFW00064-2014-01500,Chateau Giscours,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau Giscours,吉斯库尔,"Margaux, Bordeaux",波爾多,France,法國,,2014,1500ml,74.7,6,Clarence Dillon
+409,409,CFW00130-2010-01500,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2010,1500ml,150.0,12,Clarence Dillon
+410,410,CFW00130-2011-01500,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2011,1500ml,80.0,12,Clarence Dillon
+411,411,CFW00130-2012-01500,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2012,1500ml,69.0,12,Clarence Dillon
+412,412,CFW00130-2013-01500,Chateau Grand Puy Lacoste,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Grand Puy Lacoste,拉高斯/拉古斯城堡庄园,"Pauillac, Bordeaux",波爾多,France,法國,,2013,1500ml,64.3,24,Clarence Dillon
+413,413,CFW00030-2014-01500,Chateau Gruaud Larose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Gruaud Larose,金玫瑰城堡,"St. Julien, Bordeaux",波爾多,France,法國,,2014,1500ml,81.0,30,Clarence Dillon
+414,414,CFW00168-2010-01500,Chateau Haut Bailly,,Graves,Red,紅酒,Chateau Haut Bailly,奧巴特利,"Graves, Bordeaux",波爾多,France,法國,,2010,1500ml,200.0,12,Clarence Dillon
+415,415,CFW00128-2007-01500,Chateau Batailley,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Batailley,,"Pauillac, Bordeaux",波爾多,France,法國,,2007,1500ml,48.0,36,Clarence Dillon
+416,416,CFW00128-2008-01500,Chateau Batailley,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Batailley,,"Pauillac, Bordeaux",波爾多,France,法國,,2008,1500ml,54.0,6,Clarence Dillon
+417,417,CFW00359-2007-01500,Chateau Haut Marbuzet,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Haut Marbuzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2007,1500ml,55.0,24,Clarence Dillon
+418,418,CFW00359-2012-01500,Chateau Haut Marbuzet,,Cru Bourgeois Exceptionnel,Red,紅酒,Chateau Haut Marbuzet,,"St. Estephe, Bordeaux",波爾多,France,法國,,2012,1500ml,44.0,18,Clarence Dillon
+419,419,CFW00055-2012-01500,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2012,1500ml,80.0,18,Clarence Dillon
+420,420,CFW00055-2014-01500,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,1500ml,68.0,36,Clarence Dillon
+421,421,CFW00001-2011-01500,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2011,1500ml,840.0,6,Clarence Dillon
+422,422,CFW00001-2012-01500,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2012,1500ml,800.0,12,Clarence Dillon
+423,423,CFW00001-2013-01500,Chateau Lafite Rothschild,拉菲正牌,Bordeaux Grand Cru Classe 1st Growths,Red,紅酒,Domaines Barons de Rothschild,拉菲酒莊－ 罗斯柴尔德男爵集團,"Pauillac, Bordeaux",波爾多,France,法國,,2013,1500ml,760.0,6,Clarence Dillon
+424,424,CFW00191-2007-01500,Chateau Malartic Lagraviere Rouge,,Graves,Red,紅酒,Chateau Malartic Lagraviere,,"Pessac Leognan, Bordeaux",波爾多,France,法國,,2007,1500ml,42.0,12,Clarence Dillon
+425,425,CFW00050-2003-01500,Chateau Montrose,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Montrose,梦玫瑰,"St. Estephe, Bordeaux",波爾多,France,法國,,2003,1500ml,410.0,30,Clarence Dillon
+426,426,CFW00149-2014-01500,Chateau Pedesclaux,,Bordeaux Grand Cru Classe 5th Growths,Red,紅酒,Chateau Pedesclaux,,"Pauillac, Bordeaux",波爾多,France,法國,,2014,1500ml,53.0,73,Clarence Dillon
+427,427,CFW00038-2002-01500,Chateau Pichon Longueville Baron,男爵正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Pichon Longueville Baron,男爵,"Pauillac, Bordeaux",波爾多,France,法國,,2002,1500ml,184.0,48,Clarence Dillon
+428,428,CFW00038-2005-01500,Chateau Pichon Longueville Baron,男爵正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Pichon Longueville Baron,男爵,"Pauillac, Bordeaux",波爾多,France,法國,,2005,1500ml,215.0,89,Clarence Dillon
+429,429,CFW00038-2006-01500,Chateau Pichon Longueville Baron,男爵正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Pichon Longueville Baron,男爵,"Pauillac, Bordeaux",波爾多,France,法國,,2006,1500ml,180.0,60,Clarence Dillon
+430,430,CFW02143-2012-01500,Chateau Sociando Mallet,,,Red,紅酒,Chateau Sociando Mallet,,Bordeaux,波爾多,France,法國,,2012,1500ml,40.5,36,Clarence Dillon
+431,431,CFW01928-2015-01500,"""Y"" d'Yquem",,,White,白酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2015,1500ml,184.0,3,Clarence Dillon
+432,432,CFW00330-2007-01500,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2007,1500ml,820.0,6,Clarence Dillon
+433,433,CFW00330-2014-01500,Chateau d'Yquem,,Sauternes Premier Cru Superieur,Sweet,甜酒,Chateau d'Yquem,,"Sauternes, Bordeaux",波爾多,France,法國,,2014,1500ml,500.0,6,Clarence Dillon
+434,434,CFW00035-2014-15000,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,15000ml,833.0,1,Clarence Dillon
+435,435,CFW00304-2014-15000,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,15000ml,1100.0,1,Clarence Dillon
+436,436,CFW00055-2014-15000,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,15000ml,833.0,1,Clarence Dillon
+437,437,CFW00038-2012-15000,Chateau Pichon Longueville Baron,男爵正牌,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Pichon Longueville Baron,男爵,"Pauillac, Bordeaux",波爾多,France,法國,,2012,15000ml,1880.0,1,Clarence Dillon
+438,438,CFW00035-2014-09000,Chateau Brane Cantenac,,Bordeaux Grand Cru Classe 2nd Growths,Red,紅酒,Chateau Brane Cantenac,布朗康田酒庄,"Margaux, Bordeaux","瑪歌, 波爾多",France,法國,,2014,9000ml,503.0,1,Clarence Dillon
+439,439,CFW00304-2014-09000,Chateau Clinet,,,Red,紅酒,Chateau Clinet,,"Pomerol, Bordeaux","波默罗, 波爾多",France,法國,,2014,9000ml,660.0,1,Clarence Dillon
+440,440,CFW00055-2014-09000,Chateau d’Issan,,Bordeaux Grand Cru Classe 3rd Growths,Red,紅酒,Chateau d’Issan,,"Margaux, Bordeaux",波爾多,France,法國,,2014,9000ml,503.0,1,Clarence Dillon

@@ -1,0 +1,59 @@
+.columns {
+    height: 250%;
+}
+
+#page-wrapper {
+    min-height:700px;
+}
+
+.table2 {
+    display: block;
+    overflow-x: auto;
+    overflow-y: auto;
+    height: 500px;
+}
+
+.table2 thead {
+    cursor: pointer;
+}
+
+.manualinput input[type=text] {
+  margin: 5px;
+  width: 250px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+  padding: 10px 10px 10px 20px;
+  text-align: center;
+}
+
+.manualinput input[type=submit] {
+  margin: 5px;
+  width: 250px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+  font-size: 14px;
+  padding: 10px 10px 10px 20px;
+  text-align: center;
+}
+
+.tablediv {
+  display: table;
+  width:100%;
+  border-collapse:collapse;
+}
+
+.wrapdiv {
+  display: table-row;
+  height: 45px;
+}
+
+.blockdiv {
+  display: table-cell;
+  padding: 2px;
+}

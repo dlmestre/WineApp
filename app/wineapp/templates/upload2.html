@@ -1,0 +1,47 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+
+<h3>Inserted on the DB</h3>
+
+<div class="winetable3">
+<table class="table2 table table-striped">
+  <thead>
+    <tr>
+      <th>Wine</th>
+      <th>Cost</th>
+      <th>Vintage</th>
+      <th>Region</th>
+      <th>Format</th>
+      <th>Markup Price</th>
+      <th>Markup (%)</th>
+      <th>Negoce</th>
+      <th>Quantity</th>
+      <th>Type</th>
+      <th>Vendor</th>
+    <tr>
+  </thead>
+  <tbody>
+  {%if error %}
+    {{error}}
+  {% else %}
+    {% for wine,price,year,region,format,markup,percentile,negoce,quantity,a_type,vendor in Results %}
+    <tr><td>{{wine}}</td><td>{{price}}</td><td>{{year}}</td><td>{{region}}</td><td>{{format}}</td>
+    <td>{{markup}}</td><td>{{percentile}}</td><td>{{negoce}}</td><td>{{quantity}}</td><td>{{a_type}}</td><td>{{vendor}}</td></tr>
+    {% endfor %}
+  {% endif %}
+  </tbody>
+</table>
+</div>
+{% if error %}
+  <p>Please load a csv file</p>
+
+{% endif %}
+
+<div id="output"></div>
+
+<div id="winetable2" class="winetable"></div>
+
+
+{% endblock %}

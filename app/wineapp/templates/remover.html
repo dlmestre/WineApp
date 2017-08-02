@@ -1,0 +1,41 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+<form class="remover" name="remover2" action="/remover/" method="POST">    
+    {% csrf_token %}
+    <div>
+        
+        {% if files %}
+            {% for file in files %}
+                <label>
+                <input type="checkbox" class="checkbox" name="checks" value="{{file.file}}" />
+                <span>&nbsp;</span>{{file.name}}</label>
+            {% endfor%}
+        {% endif %}
+    </div>
+    {% if not results %}
+    <input type="submit" value="Remove Files" />
+    {% endif %}    
+</form>
+
+{{msg}}
+<div class="results">
+
+{% if results %}
+
+<h3>Files removed:</h3>
+
+{% for file in results %}
+
+<h4>{{file}}</h4>
+
+{% endfor %}
+{% endif %}
+
+{% if error %}
+  <h2>We have an error: {{error}}</h2>
+{% endif %}
+</div>
+
+{% endblock %} 
