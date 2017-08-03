@@ -25,7 +25,6 @@ SECRET_KEY = '$!t=54hq%jeim1w+ixd*4em59wb^1(ne)3tp8^kqo(p=l+3l9)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['54.199.166.85']
 ALLOWED_HOSTS = ['*']
 
 DEFAULT_CHARSET = 'UTF-8'
