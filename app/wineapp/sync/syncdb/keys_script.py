@@ -1,7 +1,7 @@
 HOST = "localhost"
-NAME = "winedb"
-USER = "root"
-PASSWORD = "wineappjosephpass"
+NAME = "****"
+USER = "****"
+PASSWORD = "****"
 
 wines_dictionary = {}
 wines_dictionary['1/2 bt.'] = "37,5cl"
